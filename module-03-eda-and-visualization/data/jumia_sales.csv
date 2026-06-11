@@ -1,0 +1,501 @@
+order_id,category,product_name,state,payment_method,delivery_status,unit_price,quantity,revenue,rating,units_sold
+JMO-10001,Fashion,Men's Senator Outfit,Katsina,USSD,Delivered,13500.0,2,27000.0,4.7,3043
+JMO-10002,Fashion,Native Agbada Set,Anambra,Bank Transfer,Delivered,8300.0,1,8300.0,4.5,118
+JMO-10003,Phones & Tablets,Infinix Note 30,Kaduna,Wallet,Delivered,235200.0,1,235200.0,5.0,663
+JMO-10004,Books & Stationery,Cambridge WAEC Prep,Kano,Card,Returned,2600.0,1,2600.0,3.2,1480
+JMO-10005,Food & Drinks,Nestle Milo 900g,Katsina,Pay on Delivery,Processing,4200.0,4,16800.0,3.2,2271
+JMO-10006,Books & Stationery,Purple Hibiscus,Rivers,Bank Transfer,Delivered,4200.0,2,8400.0,3.2,963
+JMO-10007,Phones & Tablets,Samsung Galaxy A15,Kaduna,USSD,Delivered,132000.0,1,132000.0,4.0,2884
+JMO-10008,Fashion,Native Agbada Set,Imo,Card,Processing,34000.0,1,34000.0,4.2,1115
+JMO-10009,Health & Beauty,Oral-B Electric Toothbrush,Bauchi,Bank Transfer,Delivered,15100.0,3,45300.0,4.2,1106
+JMO-10010,Books & Stationery,Things Fall Apart,Imo,Pay on Delivery,Shipped,5400.0,2,10800.0,3.5,1094
+JMO-10011,Food & Drinks,Golden Penny Semolina 5kg,Anambra,Wallet,Shipped,9800.0,5,49000.0,3.5,2097
+JMO-10012,Electronics,Nexus 43-inch Smart TV,Kano,Card,Returned,228900.0,2,457800.0,4.2,1573
+JMO-10013,Sports & Outdoors,Football Size 5,Oyo,Wallet,Returned,61400.0,2,122800.0,3.2,2802
+JMO-10014,Food & Drinks,Titus Sardines 24-pack,Abuja,USSD,Shipped,5000.0,1,5000.0,4.8,2957
+JMO-10015,Home & Kitchen,Ceiling Fan 52-inch,Plateau,Bank Transfer,Returned,55000.0,3,165000.0,4.5,2504
+JMO-10016,Books & Stationery,Things Fall Apart,Enugu,Wallet,Delivered,3900.0,1,3900.0,3.2,1496
+JMO-10017,Food & Drinks,Indomie Noodles Carton,Lagos,Card,Processing,23700.0,1,23700.0,4.3,3352
+JMO-10018,Home & Kitchen,Stainless Cooking Pot Set,Imo,Pay on Delivery,Processing,18200.0,1,18200.0,4.5,1743
+JMO-10019,Health & Beauty,Oral-B Electric Toothbrush,Anambra,USSD,Shipped,16300.0,1,16300.0,3.8,930
+JMO-10020,Electronics,HP Laptop Core i5,Enugu,Card,Processing,97800.0,1,97800.0,4.7,251
+JMO-10021,Electronics,LG Washing Machine 7kg,Abuja,Wallet,Delivered,114400.0,1,114400.0,4.5,551
+JMO-10022,Sports & Outdoors,Nike Running Shoes,Borno,Pay on Delivery,Returned,28200.0,1,28200.0,4.7,1775
+JMO-10023,Phones & Tablets,itel A70 Smartphone,Bauchi,Bank Transfer,Cancelled,198600.0,2,397200.0,3.0,1659
+JMO-10024,Fashion,Women's Ankara Dress,Rivers,Card,Processing,22700.0,1,22700.0,4.0,1904
+JMO-10025,Fashion,Leather Handbag,Borno,Wallet,Delivered,6500.0,5,32500.0,3.0,392
+JMO-10026,Health & Beauty,Fair & White Serum 50ml,Anambra,Pay on Delivery,Shipped,5000.0,1,5000.0,3.0,684
+JMO-10027,Phones & Tablets,Samsung Galaxy A15,Plateau,Pay on Delivery,Delivered,144400.0,4,577600.0,5.0,2286
+JMO-10028,Sports & Outdoors,Nike Running Shoes,Rivers,USSD,Delivered,63100.0,2,126200.0,4.5,259
+JMO-10029,Electronics,Nexus 43-inch Smart TV,Ogun,Pay on Delivery,Processing,297000.0,1,297000.0,3.0,2090
+JMO-10030,Home & Kitchen,Binatone Blender 1.5L,Ogun,Bank Transfer,Cancelled,73900.0,1,73900.0,4.5,1018
+JMO-10031,Electronics,HP Laptop Core i5,Abuja,Pay on Delivery,Cancelled,201300.0,1,201300.0,4.0,846
+JMO-10032,Books & Stationery,Things Fall Apart,Oyo,Pay on Delivery,Delivered,4300.0,1,4300.0,4.0,3089
+JMO-10033,Electronics,Scanfrost Air Conditioner 1.5HP,Ogun,Wallet,Delivered,55900.0,1,55900.0,4.0,552
+JMO-10034,Fashion,Women's Ankara Dress,Delta,USSD,Delivered,22200.0,1,22200.0,4.0,2515
+JMO-10035,Electronics,HP Laptop Core i5,Oyo,Bank Transfer,Delivered,110400.0,3,331200.0,4.8,2276
+JMO-10036,Food & Drinks,Golden Penny Semolina 5kg,Rivers,USSD,Delivered,17600.0,3,52800.0,4.5,2011
+JMO-10037,Electronics,Nexus 43-inch Smart TV,Imo,Pay on Delivery,Returned,113900.0,1,113900.0,5.0,545
+JMO-10038,Food & Drinks,Indomie Noodles Carton,Katsina,Pay on Delivery,Processing,18000.0,2,36000.0,3.2,318
+JMO-10039,Home & Kitchen,Ceiling Fan 52-inch,Lagos,USSD,Processing,49200.0,1,49200.0,3.0,1272
+JMO-10040,Electronics,LG Washing Machine 7kg,Rivers,Card,Cancelled,64300.0,2,128600.0,4.2,2552
+JMO-10041,Health & Beauty,Fair & White Serum 50ml,Borno,Card,Shipped,1900.0,2,3800.0,4.0,3214
+JMO-10042,Health & Beauty,Oral-B Electric Toothbrush,Kano,Bank Transfer,Shipped,15900.0,3,47700.0,3.8,827
+JMO-10043,Sports & Outdoors,Jumping Rope,Oyo,Card,Delivered,4500.0,1,4500.0,4.0,1151
+JMO-10044,Food & Drinks,Titus Sardines 24-pack,Imo,Wallet,Shipped,17400.0,3,52200.0,4.0,123
+JMO-10045,Food & Drinks,Indomie Noodles Carton,Ogun,USSD,Delivered,3800.0,1,3800.0,4.8,3231
+JMO-10046,Fashion,Leather Handbag,Plateau,Wallet,Delivered,14800.0,2,29600.0,3.0,2139
+JMO-10047,Health & Beauty,Oral-B Electric Toothbrush,Anambra,Bank Transfer,Cancelled,16700.0,2,33400.0,4.7,3483
+JMO-10048,Food & Drinks,Golden Penny Semolina 5kg,Oyo,Pay on Delivery,Delivered,10800.0,1,10800.0,3.5,795
+JMO-10049,Phones & Tablets,Infinix Note 30,Ogun,Wallet,Delivered,140400.0,3,421200.0,4.0,1185
+JMO-10050,Books & Stationery,JAMB Past Questions 2023,Kaduna,Pay on Delivery,Cancelled,1900.0,1,1900.0,5.0,3024
+JMO-10051,Fashion,Adidas Sneakers,Enugu,Wallet,Delivered,8300.0,4,33200.0,3.8,2765
+JMO-10052,Health & Beauty,Fair & White Serum 50ml,Lagos,Bank Transfer,Delivered,17700.0,2,35400.0,5.0,308
+JMO-10053,Health & Beauty,Nature's Bounty Multivitamin,Kaduna,Pay on Delivery,Delivered,3900.0,2,7800.0,5.0,3164
+JMO-10054,Phones & Tablets,Infinix Note 30,Kano,Wallet,Shipped,56800.0,1,56800.0,3.2,1879
+JMO-10055,Sports & Outdoors,Football Size 5,Enugu,Wallet,Delivered,61900.0,3,185700.0,4.5,3348
+JMO-10056,Phones & Tablets,Xiaomi Redmi 13C,Kaduna,Card,Cancelled,247500.0,1,247500.0,5.0,1022
+JMO-10057,Food & Drinks,Golden Penny Semolina 5kg,Kaduna,Card,Delivered,11700.0,2,23400.0,3.8,1122
+JMO-10058,Fashion,Women's Ankara Dress,Kano,Card,Shipped,32600.0,2,65200.0,3.2,1709
+JMO-10059,Sports & Outdoors,Yoga Mat,Lagos,Card,Returned,29000.0,3,87000.0,4.5,2858
+JMO-10060,Phones & Tablets,itel A70 Smartphone,Lagos,USSD,Delivered,222100.0,3,666300.0,4.2,2214
+JMO-10061,Health & Beauty,Nature's Bounty Multivitamin,Rivers,USSD,Shipped,9500.0,1,9500.0,4.7,2791
+JMO-10062,Home & Kitchen,Non-stick Frying Pan,Plateau,Card,Processing,47700.0,3,143100.0,4.5,2321
+JMO-10063,Fashion,Leather Handbag,Kano,Pay on Delivery,Delivered,6500.0,1,6500.0,3.8,1872
+JMO-10064,Phones & Tablets,Samsung Galaxy A15,Borno,Pay on Delivery,Delivered,241200.0,1,241200.0,4.8,2219
+JMO-10065,Books & Stationery,Things Fall Apart,Imo,Bank Transfer,Returned,5800.0,1,5800.0,3.0,1022
+JMO-10066,Electronics,HP Laptop Core i5,Kano,Card,Delivered,170000.0,1,170000.0,3.8,1914
+JMO-10067,Books & Stationery,Things Fall Apart,Ogun,Wallet,Cancelled,4500.0,2,9000.0,3.5,1284
+JMO-10068,Electronics,LG Washing Machine 7kg,Ogun,Pay on Delivery,Shipped,303300.0,1,303300.0,4.5,2838
+JMO-10069,Health & Beauty,Nivea Body Lotion 400ml,Katsina,USSD,Returned,12800.0,3,38400.0,5.0,2328
+JMO-10070,Books & Stationery,Purple Hibiscus,Anambra,USSD,Delivered,3400.0,1,3400.0,4.2,3378
+JMO-10071,Phones & Tablets,Samsung Galaxy A15,Imo,Pay on Delivery,Cancelled,81000.0,1,81000.0,4.5,2674
+JMO-10072,Sports & Outdoors,Yoga Mat,Anambra,Wallet,Delivered,23000.0,1,23000.0,3.2,1152
+JMO-10073,Health & Beauty,Nature's Bounty Multivitamin,Ogun,Wallet,Cancelled,7800.0,1,7800.0,4.0,754
+JMO-10074,Books & Stationery,Cambridge WAEC Prep,Delta,USSD,Processing,4400.0,1,4400.0,3.0,2126
+JMO-10075,Fashion,Women's Ankara Dress,Katsina,Pay on Delivery,Shipped,27000.0,1,27000.0,4.3,2655
+JMO-10076,Sports & Outdoors,Dumbbell Set 20kg,Abuja,USSD,Delivered,28100.0,1,28100.0,4.7,2392
+JMO-10077,Books & Stationery,JAMB Past Questions 2023,Katsina,Wallet,Delivered,2600.0,1,2600.0,4.0,1039
+JMO-10078,Health & Beauty,Oral-B Electric Toothbrush,Abuja,Wallet,Returned,12900.0,1,12900.0,4.8,1993
+JMO-10079,Food & Drinks,Nestle Milo 900g,Bauchi,Card,Delivered,6600.0,1,6600.0,3.0,2910
+JMO-10080,Food & Drinks,Nestle Milo 900g,Lagos,Wallet,Delivered,17800.0,1,17800.0,5.0,2020
+JMO-10081,Electronics,HP Laptop Core i5,Oyo,Pay on Delivery,Shipped,160500.0,1,160500.0,3.0,1044
+JMO-10082,Sports & Outdoors,Dumbbell Set 20kg,Bauchi,Bank Transfer,Shipped,33500.0,2,67000.0,4.7,229
+JMO-10083,Food & Drinks,Nestle Milo 900g,Rivers,Bank Transfer,Processing,19400.0,2,38800.0,5.0,2543
+JMO-10084,Phones & Tablets,itel A70 Smartphone,Plateau,Pay on Delivery,Delivered,247100.0,5,1235500.0,4.0,2339
+JMO-10085,Fashion,Women's Ankara Dress,Imo,Card,Delivered,31200.0,1,31200.0,3.5,2270
+JMO-10086,Electronics,Scanfrost Air Conditioner 1.5HP,Kaduna,Wallet,Shipped,118000.0,1,118000.0,4.8,1168
+JMO-10087,Sports & Outdoors,Dumbbell Set 20kg,Imo,Card,Delivered,51800.0,2,103600.0,4.7,3302
+JMO-10088,Phones & Tablets,Tecno Camon 20 Pro,Enugu,Card,Cancelled,80000.0,1,80000.0,3.5,302
+JMO-10089,Food & Drinks,Golden Penny Semolina 5kg,Katsina,Wallet,Delivered,11700.0,1,11700.0,4.0,2876
+JMO-10090,Food & Drinks,Golden Penny Semolina 5kg,Enugu,Pay on Delivery,Shipped,3100.0,1,3100.0,4.2,3018
+JMO-10091,Food & Drinks,Nestle Milo 900g,Abuja,Card,Cancelled,21100.0,2,42200.0,3.0,3142
+JMO-10092,Food & Drinks,Golden Penny Semolina 5kg,Lagos,Card,Shipped,13600.0,1,13600.0,4.0,753
+JMO-10093,Phones & Tablets,itel A70 Smartphone,Abuja,Pay on Delivery,Delivered,141000.0,1,141000.0,3.2,668
+JMO-10094,Sports & Outdoors,Jumping Rope,Imo,Pay on Delivery,Returned,50200.0,1,50200.0,3.2,1298
+JMO-10095,Fashion,Leather Handbag,Bauchi,Wallet,Returned,44500.0,2,89000.0,4.5,1902
+JMO-10096,Health & Beauty,Neutrogena Face Wash,Delta,Wallet,Returned,9700.0,1,9700.0,3.0,843
+JMO-10097,Home & Kitchen,Philips Electric Kettle,Kaduna,Pay on Delivery,Delivered,7300.0,2,14600.0,5.0,990
+JMO-10098,Food & Drinks,Golden Penny Semolina 5kg,Lagos,Wallet,Shipped,3400.0,5,17000.0,3.2,1900
+JMO-10099,Home & Kitchen,Non-stick Frying Pan,Plateau,USSD,Processing,61400.0,1,61400.0,4.3,1944
+JMO-10100,Home & Kitchen,Non-stick Frying Pan,Rivers,Wallet,Processing,64700.0,1,64700.0,3.2,1141
+JMO-10101,Phones & Tablets,Samsung Galaxy A15,Plateau,Wallet,Delivered,237800.0,1,237800.0,4.0,3440
+JMO-10102,Sports & Outdoors,Nike Running Shoes,Kaduna,Wallet,Shipped,24400.0,2,48800.0,4.5,1555
+JMO-10103,Books & Stationery,Things Fall Apart,Katsina,Card,Processing,2800.0,3,8400.0,4.2,188
+JMO-10104,Sports & Outdoors,Yoga Mat,Anambra,Card,Shipped,62800.0,1,62800.0,4.5,1369
+JMO-10105,Sports & Outdoors,Dumbbell Set 20kg,Enugu,Pay on Delivery,Delivered,47800.0,1,47800.0,4.7,642
+JMO-10106,Food & Drinks,Titus Sardines 24-pack,Ogun,Pay on Delivery,Cancelled,3100.0,1,3100.0,4.7,2195
+JMO-10107,Books & Stationery,JAMB Past Questions 2023,Bauchi,Wallet,Delivered,4000.0,1,4000.0,4.7,1187
+JMO-10108,Fashion,Leather Handbag,Abuja,Bank Transfer,Shipped,11200.0,1,11200.0,3.0,198
+JMO-10109,Electronics,LG Washing Machine 7kg,Delta,USSD,Shipped,76500.0,1,76500.0,4.5,2802
+JMO-10110,Home & Kitchen,Stainless Cooking Pot Set,Abuja,Wallet,Returned,35600.0,2,71200.0,4.3,2398
+JMO-10111,Sports & Outdoors,Jumping Rope,Kaduna,USSD,Cancelled,3600.0,3,10800.0,4.0,2785
+JMO-10112,Fashion,Leather Handbag,Delta,Wallet,Delivered,30400.0,1,30400.0,4.0,1881
+JMO-10113,Health & Beauty,Nature's Bounty Multivitamin,Bauchi,Pay on Delivery,Delivered,5400.0,2,10800.0,4.5,1221
+JMO-10114,Food & Drinks,Nestle Milo 900g,Bauchi,Pay on Delivery,Delivered,1400.0,3,4200.0,5.0,3060
+JMO-10115,Sports & Outdoors,Jumping Rope,Borno,Card,Processing,52700.0,1,52700.0,3.8,2553
+JMO-10116,Home & Kitchen,Binatone Blender 1.5L,Plateau,Bank Transfer,Delivered,68100.0,1,68100.0,4.0,3009
+JMO-10117,Food & Drinks,Titus Sardines 24-pack,Katsina,Pay on Delivery,Delivered,6000.0,2,12000.0,4.0,2184
+JMO-10118,Food & Drinks,Indomie Noodles Carton,Oyo,Pay on Delivery,Returned,8200.0,3,24600.0,5.0,481
+JMO-10119,Fashion,Women's Ankara Dress,Borno,Card,Returned,31900.0,2,63800.0,4.2,3474
+JMO-10120,Books & Stationery,Rich Dad Poor Dad,Borno,Pay on Delivery,Delivered,2200.0,1,2200.0,4.0,2765
+JMO-10121,Food & Drinks,Golden Penny Semolina 5kg,Anambra,USSD,Delivered,17300.0,1,17300.0,4.5,2309
+JMO-10122,Health & Beauty,Nivea Body Lotion 400ml,Imo,Pay on Delivery,Cancelled,6500.0,1,6500.0,3.5,195
+JMO-10123,Food & Drinks,Cowbell Sachet Milk Box,Abuja,Bank Transfer,Delivered,22300.0,1,22300.0,4.3,1529
+JMO-10124,Phones & Tablets,Xiaomi Redmi 13C,Katsina,Card,Shipped,198900.0,3,596700.0,4.5,1681
+JMO-10125,Food & Drinks,Nestle Milo 900g,Katsina,USSD,Delivered,11800.0,4,47200.0,4.0,416
+JMO-10126,Books & Stationery,Purple Hibiscus,Plateau,USSD,Delivered,2900.0,1,2900.0,3.2,3483
+JMO-10127,Fashion,Women's Ankara Dress,Imo,Wallet,Delivered,6500.0,1,6500.0,3.5,3233
+JMO-10128,Fashion,Native Agbada Set,Rivers,Wallet,Delivered,37400.0,1,37400.0,5.0,614
+JMO-10129,Electronics,LG Washing Machine 7kg,Bauchi,Card,Delivered,189000.0,2,378000.0,3.2,2717
+JMO-10130,Home & Kitchen,Binatone Blender 1.5L,Delta,Card,Processing,30900.0,1,30900.0,3.0,529
+JMO-10131,Fashion,Men's Senator Outfit,Kaduna,Pay on Delivery,Returned,19200.0,2,38400.0,4.3,2073
+JMO-10132,Electronics,HP Laptop Core i5,Oyo,Pay on Delivery,Cancelled,309700.0,1,309700.0,4.3,3480
+JMO-10133,Fashion,Leather Handbag,Katsina,Pay on Delivery,Delivered,40900.0,1,40900.0,3.5,279
+JMO-10134,Books & Stationery,JAMB Past Questions 2023,Ogun,Wallet,Delivered,3200.0,2,6400.0,3.2,3258
+JMO-10135,Health & Beauty,Nature's Bounty Multivitamin,Kaduna,Card,Shipped,7100.0,1,7100.0,4.2,2998
+JMO-10136,Phones & Tablets,Samsung Galaxy A15,Imo,USSD,Delivered,269100.0,2,538200.0,4.3,284
+JMO-10137,Fashion,Men's Senator Outfit,Anambra,Bank Transfer,Cancelled,34400.0,3,103200.0,4.5,255
+JMO-10138,Books & Stationery,Rich Dad Poor Dad,Anambra,USSD,Returned,4300.0,2,8600.0,4.8,220
+JMO-10139,Food & Drinks,Titus Sardines 24-pack,Abuja,Wallet,Processing,6300.0,2,12600.0,3.8,3480
+JMO-10140,Books & Stationery,Rich Dad Poor Dad,Borno,USSD,Processing,2000.0,1,2000.0,4.5,3153
+JMO-10141,Electronics,HP Laptop Core i5,Plateau,USSD,Delivered,86400.0,2,172800.0,4.0,1401
+JMO-10142,Home & Kitchen,Stainless Cooking Pot Set,Ogun,Pay on Delivery,Delivered,16300.0,2,32600.0,3.0,385
+JMO-10143,Health & Beauty,Nature's Bounty Multivitamin,Anambra,Pay on Delivery,Delivered,4100.0,1,4100.0,4.0,3191
+JMO-10144,Fashion,Men's Senator Outfit,Kano,Card,Returned,29500.0,2,59000.0,4.0,1824
+JMO-10145,Sports & Outdoors,Football Size 5,Kaduna,Pay on Delivery,Delivered,16400.0,1,16400.0,4.0,1770
+JMO-10146,Sports & Outdoors,Football Size 5,Imo,USSD,Delivered,16700.0,5,83500.0,3.0,41
+JMO-10147,Health & Beauty,Fair & White Serum 50ml,Borno,USSD,Delivered,6900.0,1,6900.0,4.8,1773
+JMO-10148,Phones & Tablets,Xiaomi Redmi 13C,Katsina,Card,Processing,176300.0,2,352600.0,4.0,305
+JMO-10149,Electronics,Scanfrost Air Conditioner 1.5HP,Lagos,Pay on Delivery,Delivered,280700.0,2,561400.0,4.5,1666
+JMO-10150,Phones & Tablets,Samsung Galaxy A15,Abuja,Pay on Delivery,Delivered,272100.0,1,272100.0,4.5,1894
+JMO-10151,Books & Stationery,Rich Dad Poor Dad,Anambra,Bank Transfer,Delivered,3100.0,1,3100.0,3.2,1631
+JMO-10152,Books & Stationery,Things Fall Apart,Delta,Card,Delivered,3500.0,1,3500.0,4.5,804
+JMO-10153,Books & Stationery,Cambridge WAEC Prep,Katsina,Card,Delivered,1300.0,1,1300.0,3.5,2477
+JMO-10154,Fashion,Women's Ankara Dress,Borno,Pay on Delivery,Shipped,35100.0,2,70200.0,4.3,2799
+JMO-10155,Books & Stationery,Cambridge WAEC Prep,Kano,Pay on Delivery,Delivered,3200.0,2,6400.0,5.0,1135
+JMO-10156,Books & Stationery,Purple Hibiscus,Abuja,USSD,Shipped,3100.0,1,3100.0,4.0,324
+JMO-10157,Fashion,Native Agbada Set,Ogun,Wallet,Shipped,23200.0,2,46400.0,5.0,3036
+JMO-10158,Sports & Outdoors,Football Size 5,Imo,Card,Delivered,40500.0,1,40500.0,3.0,1855
+JMO-10159,Books & Stationery,Rich Dad Poor Dad,Enugu,Card,Delivered,2100.0,1,2100.0,4.3,2156
+JMO-10160,Home & Kitchen,Philips Electric Kettle,Delta,USSD,Shipped,37700.0,1,37700.0,4.5,224
+JMO-10161,Books & Stationery,Rich Dad Poor Dad,Delta,Bank Transfer,Processing,4300.0,1,4300.0,4.8,3498
+JMO-10162,Home & Kitchen,Philips Electric Kettle,Abuja,Wallet,Cancelled,16300.0,1,16300.0,4.7,2870
+JMO-10163,Home & Kitchen,Ceiling Fan 52-inch,Katsina,Bank Transfer,Delivered,49700.0,2,99400.0,4.0,3340
+JMO-10164,Fashion,Leather Handbag,Enugu,USSD,Delivered,19200.0,1,19200.0,3.8,1409
+JMO-10165,Sports & Outdoors,Nike Running Shoes,Rivers,Card,Delivered,7800.0,3,23400.0,3.2,2089
+JMO-10166,Electronics,LG Washing Machine 7kg,Plateau,Wallet,Delivered,205200.0,1,205200.0,3.5,3415
+JMO-10167,Home & Kitchen,Non-stick Frying Pan,Lagos,Pay on Delivery,Delivered,59100.0,1,59100.0,4.3,2510
+JMO-10168,Sports & Outdoors,Nike Running Shoes,Enugu,Card,Delivered,62900.0,2,125800.0,3.8,1516
+JMO-10169,Sports & Outdoors,Yoga Mat,Borno,USSD,Returned,26700.0,1,26700.0,3.5,3355
+JMO-10170,Home & Kitchen,Philips Electric Kettle,Lagos,Pay on Delivery,Returned,34700.0,4,138800.0,4.8,3474
+JMO-10171,Fashion,Adidas Sneakers,Abuja,Card,Delivered,22700.0,1,22700.0,4.2,385
+JMO-10172,Health & Beauty,Nature's Bounty Multivitamin,Plateau,USSD,Delivered,8300.0,1,8300.0,4.0,975
+JMO-10173,Fashion,Adidas Sneakers,Rivers,Bank Transfer,Delivered,42200.0,3,126600.0,4.7,1383
+JMO-10174,Home & Kitchen,Binatone Blender 1.5L,Oyo,Pay on Delivery,Cancelled,71500.0,2,143000.0,4.3,1847
+JMO-10175,Fashion,Men's Senator Outfit,Oyo,Card,Returned,10600.0,4,42400.0,4.5,2171
+JMO-10176,Food & Drinks,Indomie Noodles Carton,Oyo,Bank Transfer,Delivered,6900.0,2,13800.0,4.5,1882
+JMO-10177,Sports & Outdoors,Football Size 5,Enugu,Bank Transfer,Cancelled,35000.0,1,35000.0,3.5,1203
+JMO-10178,Books & Stationery,Things Fall Apart,Ogun,Pay on Delivery,Delivered,4300.0,1,4300.0,4.0,287
+JMO-10179,Electronics,Scanfrost Air Conditioner 1.5HP,Bauchi,Pay on Delivery,Delivered,216200.0,5,1081000.0,4.0,3071
+JMO-10180,Fashion,Adidas Sneakers,Rivers,Bank Transfer,Returned,28100.0,2,56200.0,3.5,191
+JMO-10181,Books & Stationery,Things Fall Apart,Bauchi,Pay on Delivery,Cancelled,3300.0,1,3300.0,3.5,268
+JMO-10182,Sports & Outdoors,Dumbbell Set 20kg,Oyo,Card,Delivered,52000.0,3,156000.0,4.0,1280
+JMO-10183,Sports & Outdoors,Jumping Rope,Lagos,Card,Delivered,25100.0,2,50200.0,4.7,1369
+JMO-10184,Books & Stationery,JAMB Past Questions 2023,Plateau,Pay on Delivery,Cancelled,3100.0,4,12400.0,4.0,775
+JMO-10185,Sports & Outdoors,Jumping Rope,Plateau,Wallet,Delivered,52700.0,2,105400.0,3.2,1773
+JMO-10186,Home & Kitchen,Ceiling Fan 52-inch,Oyo,USSD,Delivered,11400.0,2,22800.0,4.0,1836
+JMO-10187,Phones & Tablets,Infinix Note 30,Katsina,Pay on Delivery,Delivered,150100.0,2,300200.0,4.0,2528
+JMO-10188,Food & Drinks,Nestle Milo 900g,Abuja,Pay on Delivery,Delivered,13400.0,2,26800.0,3.5,137
+JMO-10189,Sports & Outdoors,Dumbbell Set 20kg,Kano,Bank Transfer,Delivered,51300.0,1,51300.0,4.2,2333
+JMO-10190,Home & Kitchen,Non-stick Frying Pan,Delta,USSD,Shipped,66000.0,2,132000.0,4.5,1513
+JMO-10191,Food & Drinks,Indomie Noodles Carton,Abuja,Bank Transfer,Cancelled,5600.0,1,5600.0,4.5,492
+JMO-10192,Food & Drinks,Cowbell Sachet Milk Box,Rivers,Wallet,Delivered,17700.0,5,88500.0,3.8,512
+JMO-10193,Fashion,Leather Handbag,Kano,Pay on Delivery,Delivered,37300.0,4,149200.0,4.0,2745
+JMO-10194,Fashion,Native Agbada Set,Enugu,USSD,Delivered,39000.0,2,78000.0,4.8,2622
+JMO-10195,Books & Stationery,Purple Hibiscus,Rivers,Bank Transfer,Delivered,4900.0,1,4900.0,4.3,117
+JMO-10196,Books & Stationery,JAMB Past Questions 2023,Borno,Wallet,Delivered,4000.0,1,4000.0,4.0,1640
+JMO-10197,Sports & Outdoors,Football Size 5,Anambra,Pay on Delivery,Returned,38600.0,1,38600.0,4.0,2641
+JMO-10198,Sports & Outdoors,Football Size 5,Delta,Card,Returned,51400.0,2,102800.0,3.5,3154
+JMO-10199,Phones & Tablets,Xiaomi Redmi 13C,Plateau,Bank Transfer,Returned,74200.0,1,74200.0,3.5,673
+JMO-10200,Health & Beauty,Oral-B Electric Toothbrush,Enugu,USSD,Returned,2800.0,1,2800.0,4.5,1134
+JMO-10201,Food & Drinks,Golden Penny Semolina 5kg,Enugu,Bank Transfer,Processing,16500.0,2,33000.0,4.5,641
+JMO-10202,Books & Stationery,Purple Hibiscus,Lagos,Bank Transfer,Delivered,1000.0,2,2000.0,4.5,1094
+JMO-10203,Phones & Tablets,Xiaomi Redmi 13C,Imo,Bank Transfer,Shipped,253900.0,1,253900.0,4.7,1247
+JMO-10204,Phones & Tablets,Samsung Galaxy A15,Kaduna,Bank Transfer,Cancelled,59100.0,1,59100.0,4.3,1912
+JMO-10205,Home & Kitchen,Philips Electric Kettle,Bauchi,USSD,Cancelled,84000.0,1,84000.0,4.2,545
+JMO-10206,Fashion,Adidas Sneakers,Rivers,Pay on Delivery,Delivered,15300.0,1,15300.0,3.2,217
+JMO-10207,Phones & Tablets,Xiaomi Redmi 13C,Anambra,Card,Returned,257000.0,3,771000.0,4.5,2963
+JMO-10208,Home & Kitchen,Non-stick Frying Pan,Enugu,Pay on Delivery,Shipped,75300.0,1,75300.0,3.2,1620
+JMO-10209,Health & Beauty,Fair & White Serum 50ml,Ogun,USSD,Delivered,2300.0,1,2300.0,4.7,2764
+JMO-10210,Electronics,Nexus 43-inch Smart TV,Anambra,Card,Delivered,242300.0,2,484600.0,4.0,195
+JMO-10211,Health & Beauty,Oral-B Electric Toothbrush,Enugu,USSD,Delivered,7900.0,1,7900.0,4.5,1155
+JMO-10212,Fashion,Women's Ankara Dress,Abuja,Pay on Delivery,Delivered,36700.0,1,36700.0,4.0,3102
+JMO-10213,Phones & Tablets,Xiaomi Redmi 13C,Lagos,Bank Transfer,Delivered,77200.0,1,77200.0,4.3,2137
+JMO-10214,Home & Kitchen,Philips Electric Kettle,Plateau,Wallet,Delivered,18000.0,5,90000.0,4.8,3461
+JMO-10215,Books & Stationery,Purple Hibiscus,Bauchi,Wallet,Processing,3300.0,2,6600.0,4.3,3351
+JMO-10216,Books & Stationery,Rich Dad Poor Dad,Anambra,Wallet,Delivered,4900.0,2,9800.0,4.8,2587
+JMO-10217,Sports & Outdoors,Jumping Rope,Imo,Wallet,Processing,17100.0,1,17100.0,4.3,708
+JMO-10218,Phones & Tablets,Infinix Note 30,Bauchi,Card,Delivered,179600.0,2,359200.0,3.8,87
+JMO-10219,Phones & Tablets,Infinix Note 30,Anambra,Card,Shipped,162900.0,2,325800.0,4.3,3484
+JMO-10220,Electronics,Hisense Refrigerator 250L,Enugu,Card,Processing,127600.0,2,255200.0,4.5,1553
+JMO-10221,Home & Kitchen,Non-stick Frying Pan,Plateau,Wallet,Delivered,48700.0,2,97400.0,4.8,2798
+JMO-10222,Food & Drinks,Golden Penny Semolina 5kg,Kaduna,Card,Delivered,7800.0,1,7800.0,4.0,3168
+JMO-10223,Health & Beauty,Nature's Bounty Multivitamin,Delta,Pay on Delivery,Delivered,10700.0,4,42800.0,4.8,1130
+JMO-10224,Phones & Tablets,itel A70 Smartphone,Bauchi,USSD,Returned,234100.0,1,234100.0,4.0,2935
+JMO-10225,Sports & Outdoors,Jumping Rope,Katsina,Pay on Delivery,Delivered,15500.0,1,15500.0,4.5,2861
+JMO-10226,Fashion,Native Agbada Set,Katsina,Wallet,Delivered,14300.0,2,28600.0,4.5,934
+JMO-10227,Electronics,Nexus 43-inch Smart TV,Anambra,USSD,Cancelled,169600.0,2,339200.0,3.5,31
+JMO-10228,Home & Kitchen,Non-stick Frying Pan,Imo,Pay on Delivery,Shipped,57000.0,2,114000.0,4.0,1325
+JMO-10229,Electronics,Nexus 43-inch Smart TV,Imo,Wallet,Delivered,187500.0,2,375000.0,3.0,727
+JMO-10230,Home & Kitchen,Binatone Blender 1.5L,Bauchi,Pay on Delivery,Returned,44600.0,4,2136470.78,4.0,163
+JMO-10231,Fashion,Adidas Sneakers,Oyo,Pay on Delivery,Cancelled,26500.0,1,26500.0,3.5,3495
+JMO-10232,Food & Drinks,Indomie Noodles Carton,Borno,Bank Transfer,Delivered,5100.0,1,5100.0,4.0,2953
+JMO-10233,Books & Stationery,Cambridge WAEC Prep,Ogun,Card,Delivered,4000.0,2,8000.0,4.2,3397
+JMO-10234,Books & Stationery,Rich Dad Poor Dad,Anambra,Bank Transfer,Delivered,5900.0,1,5900.0,3.8,37
+JMO-10235,Health & Beauty,Nature's Bounty Multivitamin,Borno,USSD,Delivered,6500.0,2,13000.0,3.0,1081
+JMO-10236,Health & Beauty,Nivea Body Lotion 400ml,Imo,Bank Transfer,Shipped,6600.0,1,6600.0,4.5,2891
+JMO-10237,Fashion,Adidas Sneakers,Delta,Wallet,Delivered,13400.0,1,13400.0,3.5,1873
+JMO-10238,Books & Stationery,JAMB Past Questions 2023,Katsina,Wallet,Shipped,4700.0,3,14100.0,3.8,3130
+JMO-10239,Fashion,Native Agbada Set,Kaduna,Wallet,Cancelled,19200.0,3,57600.0,3.2,262
+JMO-10240,Health & Beauty,Neutrogena Face Wash,Enugu,Card,Delivered,6900.0,1,6900.0,3.2,2796
+JMO-10241,Sports & Outdoors,Dumbbell Set 20kg,Plateau,Wallet,Shipped,53100.0,1,53100.0,4.5,1711
+JMO-10242,Electronics,HP Laptop Core i5,Kaduna,USSD,Cancelled,41200.0,1,41200.0,3.0,3064
+JMO-10243,Fashion,Men's Senator Outfit,Anambra,USSD,Cancelled,7100.0,5,35500.0,3.2,1943
+JMO-10244,Phones & Tablets,Infinix Note 30,Borno,Card,Returned,195800.0,2,391600.0,4.2,1543
+JMO-10245,Phones & Tablets,itel A70 Smartphone,Bauchi,Pay on Delivery,Shipped,63900.0,4,255600.0,4.5,554
+JMO-10246,Books & Stationery,Rich Dad Poor Dad,Kano,Wallet,Shipped,3500.0,2,57114.03,3.8,3429
+JMO-10247,Food & Drinks,Cowbell Sachet Milk Box,Imo,Wallet,Shipped,13900.0,3,41700.0,3.8,1896
+JMO-10248,Food & Drinks,Indomie Noodles Carton,Plateau,Bank Transfer,Delivered,20500.0,1,20500.0,5.0,74
+JMO-10249,Fashion,Men's Senator Outfit,Ogun,Bank Transfer,Shipped,28700.0,2,57400.0,3.0,1012
+JMO-10250,Phones & Tablets,itel A70 Smartphone,Rivers,Wallet,Delivered,222300.0,2,444600.0,3.5,2073
+JMO-10251,Health & Beauty,Neutrogena Face Wash,Delta,Wallet,Processing,14200.0,3,42600.0,3.8,1246
+JMO-10252,Health & Beauty,Nature's Bounty Multivitamin,Oyo,USSD,Delivered,10700.0,2,21400.0,4.8,727
+JMO-10253,Phones & Tablets,Xiaomi Redmi 13C,Kaduna,Bank Transfer,Delivered,266300.0,2,532600.0,5.0,2158
+JMO-10254,Phones & Tablets,itel A70 Smartphone,Kano,USSD,Shipped,88200.0,1,88200.0,3.8,3488
+JMO-10255,Home & Kitchen,Non-stick Frying Pan,Plateau,Bank Transfer,Processing,38000.0,1,38000.0,4.5,559
+JMO-10256,Food & Drinks,Indomie Noodles Carton,Delta,Bank Transfer,Shipped,21400.0,1,21400.0,4.8,3407
+JMO-10257,Food & Drinks,Cowbell Sachet Milk Box,Imo,Wallet,Processing,2100.0,1,2100.0,5.0,3129
+JMO-10258,Health & Beauty,Nature's Bounty Multivitamin,Rivers,USSD,Delivered,17300.0,1,17300.0,3.8,3047
+JMO-10259,Sports & Outdoors,Nike Running Shoes,Katsina,Wallet,Cancelled,15700.0,3,47100.0,4.5,1327
+JMO-10260,Phones & Tablets,itel A70 Smartphone,Enugu,USSD,Delivered,106500.0,1,106500.0,4.3,1918
+JMO-10261,Sports & Outdoors,Jumping Rope,Plateau,Card,Delivered,22400.0,1,22400.0,3.8,3046
+JMO-10262,Food & Drinks,Golden Penny Semolina 5kg,Plateau,Wallet,Processing,18300.0,1,18300.0,3.8,1361
+JMO-10263,Health & Beauty,Nature's Bounty Multivitamin,Enugu,USSD,Delivered,14100.0,1,14100.0,4.8,2638
+JMO-10264,Sports & Outdoors,Nike Running Shoes,Katsina,USSD,Delivered,11700.0,1,11700.0,3.5,2230
+JMO-10265,Electronics,HP Laptop Core i5,Lagos,Bank Transfer,Returned,225400.0,2,450800.0,4.2,573
+JMO-10266,Health & Beauty,Nivea Body Lotion 400ml,Katsina,Card,Delivered,5100.0,1,5100.0,3.0,2540
+JMO-10267,Sports & Outdoors,Yoga Mat,Lagos,Bank Transfer,Processing,37200.0,1,37200.0,4.5,2968
+JMO-10268,Food & Drinks,Nestle Milo 900g,Enugu,Pay on Delivery,Returned,23600.0,1,23600.0,3.2,2157
+JMO-10269,Health & Beauty,Neutrogena Face Wash,Enugu,USSD,Returned,7300.0,2,14600.0,3.2,1538
+JMO-10270,Sports & Outdoors,Football Size 5,Rivers,Card,Delivered,45400.0,3,136200.0,4.7,2671
+JMO-10271,Fashion,Leather Handbag,Anambra,Pay on Delivery,Processing,23800.0,2,47600.0,4.8,711
+JMO-10272,Phones & Tablets,Samsung Galaxy A15,Ogun,Bank Transfer,Processing,261000.0,1,261000.0,4.8,2331
+JMO-10273,Electronics,Nexus 43-inch Smart TV,Imo,USSD,Processing,195600.0,1,195600.0,4.0,74
+JMO-10274,Home & Kitchen,Non-stick Frying Pan,Plateau,Bank Transfer,Delivered,18000.0,1,18000.0,4.2,2783
+JMO-10275,Books & Stationery,JAMB Past Questions 2023,Borno,Card,Returned,5900.0,2,11800.0,4.5,3063
+JMO-10276,Electronics,Nexus 43-inch Smart TV,Anambra,Card,Returned,56700.0,2,113400.0,4.5,2449
+JMO-10277,Books & Stationery,Rich Dad Poor Dad,Imo,USSD,Returned,6000.0,1,6000.0,4.0,2275
+JMO-10278,Phones & Tablets,Infinix Note 30,Imo,Wallet,Cancelled,134300.0,2,268600.0,4.0,3278
+JMO-10279,Fashion,Men's Senator Outfit,Oyo,Card,Shipped,33300.0,2,66600.0,4.8,1605
+JMO-10280,Fashion,Men's Senator Outfit,Lagos,USSD,Shipped,19100.0,1,19100.0,3.5,367
+JMO-10281,Sports & Outdoors,Football Size 5,Enugu,Wallet,Shipped,9400.0,1,9400.0,4.5,391
+JMO-10282,Books & Stationery,JAMB Past Questions 2023,Lagos,USSD,Shipped,2800.0,1,2800.0,4.5,1004
+JMO-10283,Home & Kitchen,Non-stick Frying Pan,Kano,Card,Delivered,29100.0,1,29100.0,3.2,694
+JMO-10284,Phones & Tablets,Samsung Galaxy A15,Kaduna,Bank Transfer,Delivered,104100.0,1,104100.0,4.7,2040
+JMO-10285,Health & Beauty,Nature's Bounty Multivitamin,Abuja,Card,Delivered,1600.0,1,1600.0,4.5,1566
+JMO-10286,Books & Stationery,JAMB Past Questions 2023,Delta,Pay on Delivery,Returned,5100.0,2,10200.0,4.5,567
+JMO-10287,Health & Beauty,Nature's Bounty Multivitamin,Delta,Card,Shipped,17500.0,1,17500.0,4.8,2602
+JMO-10288,Health & Beauty,Oral-B Electric Toothbrush,Anambra,USSD,Returned,14500.0,1,14500.0,4.5,828
+JMO-10289,Home & Kitchen,Ceiling Fan 52-inch,Lagos,Pay on Delivery,Cancelled,21800.0,2,43600.0,4.8,293
+JMO-10290,Phones & Tablets,itel A70 Smartphone,Kano,USSD,Delivered,104400.0,1,104400.0,4.2,3242
+JMO-10291,Sports & Outdoors,Football Size 5,Kaduna,Wallet,Shipped,36100.0,4,144400.0,4.8,1723
+JMO-10292,Books & Stationery,Purple Hibiscus,Ogun,Bank Transfer,Delivered,4800.0,2,9600.0,4.0,691
+JMO-10293,Electronics,HP Laptop Core i5,Imo,Pay on Delivery,Returned,129500.0,2,259000.0,3.2,53
+JMO-10294,Health & Beauty,Neutrogena Face Wash,Katsina,Wallet,Processing,11100.0,2,22200.0,4.3,1542
+JMO-10295,Home & Kitchen,Philips Electric Kettle,Lagos,Pay on Delivery,Delivered,28600.0,4,114400.0,3.2,485
+JMO-10296,Home & Kitchen,Philips Electric Kettle,Oyo,USSD,Shipped,67700.0,1,67700.0,4.0,1960
+JMO-10297,Sports & Outdoors,Jumping Rope,Abuja,USSD,Delivered,53200.0,1,53200.0,4.0,2664
+JMO-10298,Home & Kitchen,Stainless Cooking Pot Set,Enugu,Card,Processing,17800.0,2,35600.0,4.3,959
+JMO-10299,Home & Kitchen,Stainless Cooking Pot Set,Imo,Pay on Delivery,Shipped,7300.0,2,14600.0,3.8,1851
+JMO-10300,Phones & Tablets,Tecno Camon 20 Pro,Katsina,Card,Delivered,110400.0,2,220800.0,5.0,266
+JMO-10301,Home & Kitchen,Philips Electric Kettle,Delta,Card,Shipped,14100.0,2,28200.0,4.3,2171
+JMO-10302,Books & Stationery,Purple Hibiscus,Anambra,Wallet,Shipped,3900.0,1,3900.0,4.3,2538
+JMO-10303,Food & Drinks,Golden Penny Semolina 5kg,Ogun,Bank Transfer,Cancelled,4400.0,1,4400.0,4.0,489
+JMO-10304,Home & Kitchen,Ceiling Fan 52-inch,Anambra,Pay on Delivery,Processing,16000.0,1,16000.0,3.5,2003
+JMO-10305,Home & Kitchen,Ceiling Fan 52-inch,Kano,Pay on Delivery,Delivered,16200.0,1,16200.0,4.3,2547
+JMO-10306,Books & Stationery,Rich Dad Poor Dad,Kaduna,Card,Delivered,5000.0,4,20000.0,4.5,2684
+JMO-10307,Sports & Outdoors,Yoga Mat,Katsina,Pay on Delivery,Shipped,13400.0,2,26800.0,5.0,3127
+JMO-10308,Electronics,LG Washing Machine 7kg,Rivers,Wallet,Delivered,82900.0,1,82900.0,4.8,3174
+JMO-10309,Fashion,Native Agbada Set,Abuja,USSD,Returned,26500.0,5,132500.0,4.5,3379
+JMO-10310,Sports & Outdoors,Football Size 5,Rivers,Pay on Delivery,Delivered,48600.0,2,97200.0,3.8,1229
+JMO-10311,Electronics,Scanfrost Air Conditioner 1.5HP,Oyo,USSD,Returned,267800.0,1,267800.0,3.2,3186
+JMO-10312,Health & Beauty,Neutrogena Face Wash,Katsina,USSD,Returned,13200.0,2,26400.0,3.5,2533
+JMO-10313,Health & Beauty,Fair & White Serum 50ml,Borno,Bank Transfer,Processing,7300.0,1,7300.0,4.5,699
+JMO-10314,Food & Drinks,Titus Sardines 24-pack,Ogun,USSD,Returned,13400.0,3,40200.0,3.2,565
+JMO-10315,Phones & Tablets,Tecno Camon 20 Pro,Oyo,Card,Cancelled,248500.0,1,248500.0,4.8,1329
+JMO-10316,Phones & Tablets,itel A70 Smartphone,Kano,Wallet,Cancelled,108100.0,1,108100.0,4.3,319
+JMO-10317,Fashion,Leather Handbag,Enugu,USSD,Cancelled,42400.0,1,42400.0,4.3,1350
+JMO-10318,Fashion,Leather Handbag,Imo,USSD,Returned,7100.0,1,7100.0,3.8,1769
+JMO-10319,Sports & Outdoors,Jumping Rope,Delta,USSD,Delivered,36900.0,1,36900.0,4.3,3238
+JMO-10320,Electronics,Nexus 43-inch Smart TV,Abuja,Pay on Delivery,Delivered,70400.0,3,3105954.17,4.3,1879
+JMO-10321,Health & Beauty,Fair & White Serum 50ml,Plateau,USSD,Delivered,15900.0,3,47700.0,3.2,2691
+JMO-10322,Fashion,Adidas Sneakers,Imo,Card,Delivered,20600.0,1,20600.0,4.8,3103
+JMO-10323,Fashion,Men's Senator Outfit,Lagos,Card,Shipped,7700.0,2,15400.0,4.5,2795
+JMO-10324,Electronics,LG Washing Machine 7kg,Bauchi,Bank Transfer,Returned,155400.0,1,155400.0,3.2,947
+JMO-10325,Fashion,Men's Senator Outfit,Delta,USSD,Delivered,10100.0,2,20200.0,5.0,555
+JMO-10326,Home & Kitchen,Binatone Blender 1.5L,Enugu,Wallet,Delivered,53800.0,1,53800.0,4.0,2969
+JMO-10327,Home & Kitchen,Non-stick Frying Pan,Ogun,Pay on Delivery,Returned,22400.0,3,67200.0,3.5,3092
+JMO-10328,Phones & Tablets,Samsung Galaxy A15,Anambra,USSD,Returned,77900.0,1,77900.0,3.2,1026
+JMO-10329,Food & Drinks,Nestle Milo 900g,Bauchi,USSD,Delivered,13500.0,1,13500.0,4.8,1614
+JMO-10330,Electronics,Hisense Refrigerator 250L,Kaduna,Pay on Delivery,Delivered,103700.0,2,207400.0,3.2,2173
+JMO-10331,Electronics,LG Washing Machine 7kg,Plateau,USSD,Delivered,145200.0,3,435600.0,4.2,1506
+JMO-10332,Home & Kitchen,Non-stick Frying Pan,Borno,Bank Transfer,Delivered,52000.0,1,52000.0,3.8,173
+JMO-10333,Phones & Tablets,Xiaomi Redmi 13C,Oyo,Wallet,Returned,142600.0,2,285200.0,3.2,2633
+JMO-10334,Home & Kitchen,Philips Electric Kettle,Abuja,USSD,Delivered,45900.0,1,45900.0,5.0,646
+JMO-10335,Phones & Tablets,Xiaomi Redmi 13C,Imo,Bank Transfer,Delivered,209200.0,2,418400.0,3.8,247
+JMO-10336,Phones & Tablets,Tecno Camon 20 Pro,Kaduna,Wallet,Processing,57900.0,2,115800.0,4.7,3043
+JMO-10337,Electronics,Hisense Refrigerator 250L,Katsina,Bank Transfer,Delivered,176500.0,1,176500.0,4.5,3217
+JMO-10338,Food & Drinks,Indomie Noodles Carton,Delta,Card,Cancelled,19800.0,1,19800.0,3.2,3169
+JMO-10339,Books & Stationery,JAMB Past Questions 2023,Oyo,Wallet,Delivered,2200.0,5,11000.0,4.7,325
+JMO-10340,Books & Stationery,Rich Dad Poor Dad,Kaduna,Wallet,Delivered,2700.0,1,2700.0,3.2,2360
+JMO-10341,Fashion,Women's Ankara Dress,Katsina,Wallet,Delivered,6300.0,3,18900.0,3.8,198
+JMO-10342,Phones & Tablets,Infinix Note 30,Kano,Bank Transfer,Processing,233700.0,2,467400.0,4.7,1727
+JMO-10343,Health & Beauty,Nature's Bounty Multivitamin,Plateau,USSD,Delivered,15100.0,2,30200.0,3.2,2066
+JMO-10344,Electronics,Hisense Refrigerator 250L,Rivers,Wallet,Delivered,306900.0,1,306900.0,4.3,1166
+JMO-10345,Food & Drinks,Titus Sardines 24-pack,Abuja,Wallet,Shipped,1400.0,1,1400.0,4.5,3223
+JMO-10346,Health & Beauty,Nature's Bounty Multivitamin,Delta,Wallet,Shipped,18000.0,2,36000.0,4.8,2248
+JMO-10347,Health & Beauty,Fair & White Serum 50ml,Lagos,Pay on Delivery,Delivered,5300.0,1,5300.0,4.8,49
+JMO-10348,Electronics,Scanfrost Air Conditioner 1.5HP,Bauchi,USSD,Delivered,93500.0,5,467500.0,4.2,2025
+JMO-10349,Home & Kitchen,Philips Electric Kettle,Abuja,Bank Transfer,Delivered,76800.0,1,76800.0,4.8,1535
+JMO-10350,Fashion,Native Agbada Set,Abuja,Wallet,Delivered,30300.0,1,30300.0,4.5,2335
+JMO-10351,Home & Kitchen,Stainless Cooking Pot Set,Oyo,USSD,Returned,30200.0,3,90600.0,4.8,3417
+JMO-10352,Books & Stationery,JAMB Past Questions 2023,Oyo,Card,Delivered,5700.0,1,5700.0,5.0,2404
+JMO-10353,Fashion,Women's Ankara Dress,Kaduna,Pay on Delivery,Delivered,21000.0,1,21000.0,5.0,860
+JMO-10354,Sports & Outdoors,Jumping Rope,Bauchi,Bank Transfer,Delivered,12800.0,2,25600.0,4.8,2864
+JMO-10355,Health & Beauty,Oral-B Electric Toothbrush,Kano,Bank Transfer,Cancelled,5600.0,1,5600.0,4.5,210
+JMO-10356,Food & Drinks,Indomie Noodles Carton,Lagos,Pay on Delivery,Returned,12000.0,2,24000.0,3.8,397
+JMO-10357,Home & Kitchen,Binatone Blender 1.5L,Lagos,Bank Transfer,Returned,67500.0,1,67500.0,3.8,3383
+JMO-10358,Fashion,Native Agbada Set,Ogun,USSD,Returned,7500.0,5,37500.0,3.8,2655
+JMO-10359,Home & Kitchen,Binatone Blender 1.5L,Plateau,USSD,Delivered,8400.0,1,8400.0,3.5,2360
+JMO-10360,Phones & Tablets,itel A70 Smartphone,Lagos,Pay on Delivery,Cancelled,145300.0,1,145300.0,3.5,1136
+JMO-10361,Home & Kitchen,Binatone Blender 1.5L,Ogun,Wallet,Processing,24700.0,1,24700.0,4.2,2265
+JMO-10362,Fashion,Adidas Sneakers,Anambra,Card,Shipped,12600.0,3,37800.0,4.5,1030
+JMO-10363,Electronics,Scanfrost Air Conditioner 1.5HP,Borno,USSD,Shipped,190200.0,1,190200.0,4.5,2067
+JMO-10364,Food & Drinks,Indomie Noodles Carton,Lagos,USSD,Processing,6400.0,3,19200.0,5.0,1160
+JMO-10365,Sports & Outdoors,Football Size 5,Delta,Wallet,Delivered,63400.0,1,63400.0,4.7,997
+JMO-10366,Electronics,Hisense Refrigerator 250L,Ogun,Pay on Delivery,Delivered,301500.0,5,1507500.0,3.5,731
+JMO-10367,Books & Stationery,Cambridge WAEC Prep,Plateau,Wallet,Delivered,4500.0,1,4500.0,4.5,2318
+JMO-10368,Health & Beauty,Nature's Bounty Multivitamin,Enugu,USSD,Delivered,9600.0,1,9600.0,3.8,2474
+JMO-10369,Sports & Outdoors,Dumbbell Set 20kg,Delta,Wallet,Delivered,53000.0,1,53000.0,3.5,3296
+JMO-10370,Books & Stationery,Rich Dad Poor Dad,Lagos,Card,Processing,4500.0,1,4500.0,3.2,3477
+JMO-10371,Books & Stationery,Rich Dad Poor Dad,Delta,Pay on Delivery,Processing,1300.0,1,1300.0,3.5,655
+JMO-10372,Phones & Tablets,itel A70 Smartphone,Imo,USSD,Delivered,211200.0,2,422400.0,4.5,3233
+JMO-10373,Home & Kitchen,Non-stick Frying Pan,Oyo,USSD,Delivered,19200.0,1,19200.0,4.8,2356
+JMO-10374,Electronics,Hisense Refrigerator 250L,Ogun,USSD,Returned,310700.0,1,310700.0,4.5,436
+JMO-10375,Home & Kitchen,Philips Electric Kettle,Katsina,Bank Transfer,Delivered,32700.0,1,32700.0,4.7,373
+JMO-10376,Books & Stationery,JAMB Past Questions 2023,Lagos,USSD,Delivered,2100.0,1,2100.0,4.0,3233
+JMO-10377,Electronics,Nexus 43-inch Smart TV,Anambra,Pay on Delivery,Cancelled,154600.0,1,154600.0,4.2,2029
+JMO-10378,Books & Stationery,Purple Hibiscus,Anambra,Bank Transfer,Returned,3300.0,3,9900.0,4.7,3115
+JMO-10379,Home & Kitchen,Non-stick Frying Pan,Abuja,Bank Transfer,Delivered,6600.0,1,6600.0,3.2,313
+JMO-10380,Phones & Tablets,Infinix Note 30,Katsina,Bank Transfer,Processing,266300.0,5,1331500.0,4.0,2443
+JMO-10381,Sports & Outdoors,Dumbbell Set 20kg,Anambra,Card,Processing,58200.0,1,58200.0,3.2,1366
+JMO-10382,Health & Beauty,Nature's Bounty Multivitamin,Katsina,Wallet,Cancelled,16800.0,1,16800.0,4.7,1163
+JMO-10383,Fashion,Men's Senator Outfit,Anambra,Wallet,Processing,38500.0,1,38500.0,4.0,25
+JMO-10384,Food & Drinks,Golden Penny Semolina 5kg,Kaduna,Card,Delivered,1800.0,1,1800.0,4.0,345
+JMO-10385,Fashion,Adidas Sneakers,Borno,Pay on Delivery,Shipped,24300.0,2,48600.0,3.2,2639
+JMO-10386,Home & Kitchen,Philips Electric Kettle,Plateau,Pay on Delivery,Delivered,19900.0,1,19900.0,4.3,1914
+JMO-10387,Food & Drinks,Golden Penny Semolina 5kg,Lagos,Card,Returned,17800.0,1,17800.0,4.7,1418
+JMO-10388,Phones & Tablets,Xiaomi Redmi 13C,Rivers,Wallet,Delivered,242600.0,3,727800.0,4.2,2203
+JMO-10389,Sports & Outdoors,Football Size 5,Plateau,Card,Shipped,21500.0,1,21500.0,4.8,152
+JMO-10390,Home & Kitchen,Binatone Blender 1.5L,Borno,Pay on Delivery,Delivered,80900.0,1,80900.0,3.8,3321
+JMO-10391,Electronics,Scanfrost Air Conditioner 1.5HP,Abuja,Pay on Delivery,Delivered,319200.0,2,638400.0,4.5,1066
+JMO-10392,Fashion,Men's Senator Outfit,Anambra,Wallet,Shipped,26900.0,3,80700.0,4.5,1886
+JMO-10393,Electronics,HP Laptop Core i5,Ogun,Wallet,Returned,154600.0,1,154600.0,3.5,2330
+JMO-10394,Fashion,Men's Senator Outfit,Ogun,Bank Transfer,Returned,16100.0,1,16100.0,4.0,1693
+JMO-10395,Sports & Outdoors,Football Size 5,Ogun,Pay on Delivery,Delivered,13700.0,1,13700.0,4.5,2503
+JMO-10396,Phones & Tablets,Tecno Camon 20 Pro,Anambra,USSD,Cancelled,100800.0,2,201600.0,4.0,1535
+JMO-10397,Food & Drinks,Titus Sardines 24-pack,Oyo,Pay on Delivery,Returned,17800.0,1,17800.0,3.8,560
+JMO-10398,Sports & Outdoors,Jumping Rope,Oyo,Pay on Delivery,Processing,43000.0,1,43000.0,3.8,3384
+JMO-10399,Sports & Outdoors,Football Size 5,Bauchi,USSD,Returned,6500.0,2,13000.0,3.2,1284
+JMO-10400,Phones & Tablets,Infinix Note 30,Borno,Wallet,Processing,51800.0,1,51800.0,3.8,3438
+JMO-10401,Electronics,Scanfrost Air Conditioner 1.5HP,Lagos,USSD,Cancelled,91700.0,1,91700.0,4.3,2078
+JMO-10402,Fashion,Men's Senator Outfit,Rivers,USSD,Shipped,28600.0,1,28600.0,4.3,2413
+JMO-10403,Books & Stationery,Things Fall Apart,Bauchi,USSD,Cancelled,5100.0,1,5100.0,3.0,1593
+JMO-10404,Health & Beauty,Fair & White Serum 50ml,Imo,Card,Cancelled,4900.0,2,9800.0,4.5,92
+JMO-10405,Electronics,Scanfrost Air Conditioner 1.5HP,Plateau,Card,Cancelled,84400.0,3,253200.0,3.8,1043
+JMO-10406,Food & Drinks,Titus Sardines 24-pack,Anambra,Pay on Delivery,Returned,9500.0,1,9500.0,4.3,1247
+JMO-10407,Phones & Tablets,Xiaomi Redmi 13C,Abuja,Bank Transfer,Processing,279900.0,4,1119600.0,4.0,2309
+JMO-10408,Food & Drinks,Titus Sardines 24-pack,Imo,Bank Transfer,Shipped,2700.0,5,13500.0,4.7,1341
+JMO-10409,Food & Drinks,Titus Sardines 24-pack,Rivers,Card,Processing,19400.0,3,58200.0,5.0,3296
+JMO-10410,Phones & Tablets,Samsung Galaxy A15,Imo,Card,Cancelled,51000.0,1,51000.0,4.0,1072
+JMO-10411,Phones & Tablets,itel A70 Smartphone,Katsina,Bank Transfer,Processing,211400.0,2,422800.0,3.8,1415
+JMO-10412,Health & Beauty,Neutrogena Face Wash,Imo,Pay on Delivery,Cancelled,7400.0,1,7400.0,3.5,3453
+JMO-10413,Home & Kitchen,Philips Electric Kettle,Abuja,Pay on Delivery,Delivered,64300.0,2,128600.0,4.5,3134
+JMO-10414,Books & Stationery,Rich Dad Poor Dad,Rivers,USSD,Delivered,4700.0,1,4700.0,5.0,1367
+JMO-10415,Food & Drinks,Cowbell Sachet Milk Box,Bauchi,Bank Transfer,Shipped,2500.0,2,5000.0,4.5,2552
+JMO-10416,Health & Beauty,Neutrogena Face Wash,Abuja,Pay on Delivery,Processing,6400.0,1,6400.0,3.5,572
+JMO-10417,Books & Stationery,JAMB Past Questions 2023,Ogun,Pay on Delivery,Delivered,2400.0,2,4800.0,5.0,341
+JMO-10418,Home & Kitchen,Philips Electric Kettle,Imo,Bank Transfer,Delivered,41200.0,1,41200.0,5.0,700
+JMO-10419,Home & Kitchen,Non-stick Frying Pan,Borno,Bank Transfer,Delivered,54200.0,2,108400.0,4.2,1767
+JMO-10420,Phones & Tablets,Tecno Camon 20 Pro,Lagos,Wallet,Delivered,216700.0,4,866800.0,4.0,3110
+JMO-10421,Health & Beauty,Nivea Body Lotion 400ml,Imo,Bank Transfer,Cancelled,13600.0,1,13600.0,4.0,1288
+JMO-10422,Phones & Tablets,Xiaomi Redmi 13C,Ogun,USSD,Delivered,60300.0,1,60300.0,4.0,1877
+JMO-10423,Books & Stationery,JAMB Past Questions 2023,Plateau,Card,Delivered,6000.0,1,6000.0,5.0,781
+JMO-10424,Phones & Tablets,Tecno Camon 20 Pro,Rivers,Card,Cancelled,276400.0,1,276400.0,3.0,2425
+JMO-10425,Fashion,Adidas Sneakers,Katsina,Bank Transfer,Shipped,40000.0,1,40000.0,4.5,2562
+JMO-10426,Electronics,Nexus 43-inch Smart TV,Imo,Bank Transfer,Delivered,231600.0,1,231600.0,4.2,516
+JMO-10427,Sports & Outdoors,Nike Running Shoes,Rivers,Bank Transfer,Delivered,29100.0,1,29100.0,4.5,1115
+JMO-10428,Home & Kitchen,Non-stick Frying Pan,Bauchi,Bank Transfer,Processing,62500.0,1,62500.0,3.2,3224
+JMO-10429,Health & Beauty,Neutrogena Face Wash,Rivers,USSD,Returned,10100.0,1,10100.0,4.8,1688
+JMO-10430,Electronics,HP Laptop Core i5,Kaduna,Card,Cancelled,300900.0,1,300900.0,3.0,62
+JMO-10431,Fashion,Native Agbada Set,Imo,Pay on Delivery,Delivered,43000.0,2,86000.0,3.2,2973
+JMO-10432,Food & Drinks,Indomie Noodles Carton,Kaduna,USSD,Delivered,12200.0,1,12200.0,3.5,171
+JMO-10433,Books & Stationery,Cambridge WAEC Prep,Anambra,Bank Transfer,Delivered,5200.0,3,15600.0,3.0,3499
+JMO-10434,Home & Kitchen,Philips Electric Kettle,Delta,Pay on Delivery,Processing,26500.0,2,53000.0,4.0,3348
+JMO-10435,Fashion,Leather Handbag,Anambra,Pay on Delivery,Delivered,38300.0,2,76600.0,4.3,3286
+JMO-10436,Home & Kitchen,Binatone Blender 1.5L,Kano,Bank Transfer,Returned,17800.0,1,17800.0,4.5,1987
+JMO-10437,Sports & Outdoors,Nike Running Shoes,Ogun,Pay on Delivery,Returned,25200.0,1,25200.0,4.7,3444
+JMO-10438,Home & Kitchen,Non-stick Frying Pan,Plateau,Pay on Delivery,Delivered,76000.0,1,76000.0,3.2,1081
+JMO-10439,Electronics,HP Laptop Core i5,Borno,Wallet,Cancelled,196000.0,5,980000.0,4.7,1395
+JMO-10440,Fashion,Leather Handbag,Imo,Card,Shipped,18500.0,2,37000.0,4.2,618
+JMO-10441,Electronics,Nexus 43-inch Smart TV,Imo,Card,Processing,276900.0,3,830700.0,3.5,316
+JMO-10442,Books & Stationery,Things Fall Apart,Delta,USSD,Delivered,3400.0,2,6800.0,4.2,1661
+JMO-10443,Fashion,Leather Handbag,Kaduna,Wallet,Shipped,8100.0,1,8100.0,4.0,496
+JMO-10444,Electronics,Nexus 43-inch Smart TV,Anambra,Pay on Delivery,Delivered,193800.0,1,193800.0,3.2,3253
+JMO-10445,Food & Drinks,Golden Penny Semolina 5kg,Enugu,Card,Cancelled,17200.0,4,68800.0,4.0,3390
+JMO-10446,Health & Beauty,Nature's Bounty Multivitamin,Delta,Wallet,Returned,11700.0,1,11700.0,4.7,1498
+JMO-10447,Fashion,Men's Senator Outfit,Borno,Card,Delivered,18300.0,3,54900.0,5.0,1205
+JMO-10448,Books & Stationery,Rich Dad Poor Dad,Lagos,Card,Shipped,1500.0,2,3000.0,4.8,1686
+JMO-10449,Health & Beauty,Fair & White Serum 50ml,Abuja,Pay on Delivery,Delivered,9000.0,2,18000.0,4.8,1394
+JMO-10450,Phones & Tablets,Tecno Camon 20 Pro,Plateau,Wallet,Delivered,226500.0,1,226500.0,4.7,2423
+JMO-10451,Home & Kitchen,Non-stick Frying Pan,Lagos,Wallet,Cancelled,8900.0,4,35600.0,4.5,1988
+JMO-10452,Home & Kitchen,Ceiling Fan 52-inch,Kano,Card,Delivered,36000.0,2,72000.0,4.0,2074
+JMO-10453,Phones & Tablets,Xiaomi Redmi 13C,Plateau,Card,Delivered,138500.0,1,138500.0,4.0,1864
+JMO-10454,Home & Kitchen,Non-stick Frying Pan,Ogun,Wallet,Delivered,72400.0,1,72400.0,4.0,2925
+JMO-10455,Health & Beauty,Fair & White Serum 50ml,Rivers,Wallet,Cancelled,6300.0,1,6300.0,4.7,553
+JMO-10456,Home & Kitchen,Ceiling Fan 52-inch,Enugu,USSD,Cancelled,14200.0,1,14200.0,4.3,2397
+JMO-10457,Phones & Tablets,Xiaomi Redmi 13C,Oyo,Pay on Delivery,Returned,48000.0,1,48000.0,4.2,605
+JMO-10458,Electronics,Hisense Refrigerator 250L,Oyo,Card,Delivered,229800.0,1,229800.0,3.0,2838
+JMO-10459,Health & Beauty,Neutrogena Face Wash,Lagos,USSD,Returned,9000.0,2,18000.0,4.7,3038
+JMO-10460,Health & Beauty,Neutrogena Face Wash,Anambra,Card,Processing,14400.0,2,28800.0,4.0,2848
+JMO-10461,Phones & Tablets,itel A70 Smartphone,Anambra,USSD,Processing,57600.0,2,115200.0,3.8,2551
+JMO-10462,Sports & Outdoors,Nike Running Shoes,Plateau,USSD,Returned,39500.0,2,79000.0,3.8,3189
+JMO-10463,Health & Beauty,Oral-B Electric Toothbrush,Kaduna,Card,Cancelled,2700.0,4,10800.0,4.8,2114
+JMO-10464,Electronics,Scanfrost Air Conditioner 1.5HP,Oyo,Wallet,Delivered,72100.0,2,144200.0,4.0,33
+JMO-10465,Home & Kitchen,Binatone Blender 1.5L,Kano,USSD,Processing,9100.0,4,36400.0,4.5,3463
+JMO-10466,Sports & Outdoors,Football Size 5,Enugu,USSD,Delivered,51600.0,1,51600.0,3.8,763
+JMO-10467,Home & Kitchen,Non-stick Frying Pan,Enugu,Wallet,Shipped,12400.0,1,12400.0,3.8,2727
+JMO-10468,Books & Stationery,Cambridge WAEC Prep,Rivers,Wallet,Processing,3300.0,2,83704.96,5.0,2669
+JMO-10469,Sports & Outdoors,Nike Running Shoes,Plateau,Wallet,Processing,18100.0,1,18100.0,4.0,1572
+JMO-10470,Fashion,Leather Handbag,Oyo,Wallet,Cancelled,16000.0,3,48000.0,5.0,1545
+JMO-10471,Sports & Outdoors,Yoga Mat,Lagos,USSD,Cancelled,14900.0,1,14900.0,3.2,695
+JMO-10472,Electronics,Nexus 43-inch Smart TV,Rivers,Card,Returned,230300.0,3,690900.0,3.8,2212
+JMO-10473,Phones & Tablets,Tecno Camon 20 Pro,Katsina,Card,Delivered,152900.0,1,152900.0,3.2,310
+JMO-10474,Food & Drinks,Golden Penny Semolina 5kg,Abuja,Wallet,Returned,6600.0,1,6600.0,4.2,1857
+JMO-10475,Phones & Tablets,Samsung Galaxy A15,Lagos,Pay on Delivery,Cancelled,72800.0,1,72800.0,4.8,2542
+JMO-10476,Electronics,Nexus 43-inch Smart TV,Delta,Wallet,Delivered,117600.0,2,235200.0,4.5,364
+JMO-10477,Sports & Outdoors,Yoga Mat,Anambra,Bank Transfer,Shipped,12700.0,1,12700.0,4.8,1611
+JMO-10478,Food & Drinks,Indomie Noodles Carton,Oyo,USSD,Delivered,14400.0,2,350685.63,3.2,181
+JMO-10479,Fashion,Adidas Sneakers,Rivers,USSD,Delivered,21200.0,2,42400.0,4.5,593
+JMO-10480,Health & Beauty,Neutrogena Face Wash,Bauchi,USSD,Delivered,3400.0,2,6800.0,4.5,3500
+JMO-10481,Sports & Outdoors,Football Size 5,Abuja,USSD,Cancelled,7200.0,1,7200.0,4.8,2388
+JMO-10482,Books & Stationery,Cambridge WAEC Prep,Kano,Card,Delivered,2300.0,1,2300.0,3.8,1311
+JMO-10483,Books & Stationery,Purple Hibiscus,Imo,USSD,Cancelled,3800.0,2,7600.0,4.0,3318
+JMO-10484,Phones & Tablets,Infinix Note 30,Lagos,USSD,Delivered,229600.0,2,459200.0,4.7,1796
+JMO-10485,Books & Stationery,Things Fall Apart,Imo,USSD,Shipped,3200.0,1,3200.0,4.0,2004
+JMO-10486,Home & Kitchen,Ceiling Fan 52-inch,Abuja,USSD,Returned,71100.0,3,213300.0,3.8,1088
+JMO-10487,Fashion,Men's Senator Outfit,Plateau,Bank Transfer,Returned,25000.0,1,25000.0,4.5,2381
+JMO-10488,Health & Beauty,Nivea Body Lotion 400ml,Enugu,USSD,Processing,16300.0,1,16300.0,4.7,3185
+JMO-10489,Phones & Tablets,Infinix Note 30,Plateau,Wallet,Cancelled,246400.0,1,246400.0,4.5,2100
+JMO-10490,Books & Stationery,Purple Hibiscus,Lagos,Card,Returned,5800.0,5,29000.0,4.7,689
+JMO-10491,Home & Kitchen,Non-stick Frying Pan,Kano,Card,Processing,80900.0,2,161800.0,3.5,3024
+JMO-10492,Books & Stationery,Rich Dad Poor Dad,Rivers,Pay on Delivery,Delivered,1100.0,1,1100.0,3.0,2748
+JMO-10493,Books & Stationery,JAMB Past Questions 2023,Kaduna,Pay on Delivery,Delivered,1000.0,2,2000.0,3.2,2892
+JMO-10494,Food & Drinks,Titus Sardines 24-pack,Ogun,Wallet,Processing,5300.0,2,10600.0,4.0,2417
+JMO-10495,Fashion,Native Agbada Set,Oyo,Pay on Delivery,Delivered,25400.0,1,25400.0,4.0,2004
+JMO-10496,Electronics,HP Laptop Core i5,Plateau,Card,Shipped,82200.0,1,82200.0,4.7,1160
+JMO-10497,Home & Kitchen,Stainless Cooking Pot Set,Delta,Wallet,Cancelled,70400.0,2,140800.0,4.2,3332
+JMO-10498,Fashion,Leather Handbag,Imo,Pay on Delivery,Shipped,13000.0,1,13000.0,4.2,101
+JMO-10499,Home & Kitchen,Ceiling Fan 52-inch,Ogun,Card,Delivered,55400.0,1,55400.0,4.5,611
+JMO-10500,Food & Drinks,Indomie Noodles Carton,Enugu,Pay on Delivery,Processing,24300.0,2,48600.0,4.8,2991

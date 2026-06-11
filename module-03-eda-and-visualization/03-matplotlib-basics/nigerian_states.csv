@@ -1,0 +1,38 @@
+state,region,population_millions,area_km2,gdp_billion_naira,literacy_rate_pct,num_lgas
+Lagos,South West,15.3,3345,32400,92.0,20
+Kano,North West,13.1,20131,3100,60.0,44
+Kaduna,North West,8.9,46053,2800,59.0,23
+Katsina,North West,8.8,24192,1200,45.0,34
+Oyo,South West,8.3,28454,3800,77.0,33
+Rivers,South South,7.5,10575,6200,80.0,23
+Bauchi,North East,7.2,45837,900,40.0,20
+Jigawa,North West,6.8,23154,700,37.0,27
+Benue,North Central,6.5,30955,1100,55.0,23
+Anambra,South East,6.4,4844,2300,82.0,21
+Borno,North East,6.3,70898,800,28.0,27
+Delta,South South,6.1,17698,5100,75.0,25
+Niger,North Central,6.0,76363,1500,43.0,25
+Imo,South East,5.8,5530,2100,84.0,27
+Akwa Ibom,South South,5.5,7081,4800,78.0,31
+Ogun,South West,5.4,16762,4200,83.0,20
+Sokoto,North West,5.3,25973,750,35.0,23
+Ondo,South West,5.0,15500,2600,80.0,18
+Osun,South West,4.9,9251,1800,80.0,30
+Kogi,North Central,4.7,29833,1100,55.0,21
+Zamfara,North West,4.6,39762,600,33.0,14
+Enugu,South East,4.6,7161,1900,83.0,17
+Kebbi,North West,4.5,36985,800,38.0,21
+Edo,South South,4.4,17802,2700,75.0,18
+Plateau,North Central,4.3,26899,1200,65.0,17
+Adamawa,North East,4.2,36917,850,48.0,21
+Cross River,South South,4.0,20156,1100,73.0,18
+Taraba,North East,3.8,54473,700,46.0,16
+Ebonyi,South East,3.6,5932,850,70.0,13
+Kwara,North Central,3.5,35705,1400,62.0,16
+Yobe,North East,3.4,45502,600,28.0,17
+Gombe,North East,3.3,18768,750,45.0,11
+Nassarawa,North Central,2.9,27117,700,50.0,13
+Abia,South East,3.7,6320,1600,81.0,17
+Ekiti,South West,3.3,5887,1100,79.0,16
+Bayelsa,South South,2.5,9059,2100,72.0,8
+FCT Abuja,North Central,3.6,7315,8500,88.0,6

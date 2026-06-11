@@ -1,0 +1,501 @@
+id,name,gender,sector,role,city,years_experience,salary_monthly
+1,Segun Balogun,Male,Banking & Finance,Risk Manager,Kaduna,8,454000
+2,Ngozi Lawal,Female,Technology,UI/UX Designer,Abuja,3,484000
+3,Ngozi Musa,Female,Retail,Sales Representative,Lagos,7,256000
+4,Segun Okonkwo,Male,Technology,Software Engineer,Calabar,3,623000
+5,Ahmed Usman,Male,Technology,Software Engineer,Owerri,9,758000
+6,Dele Adeyemi,Male,Healthcare,Lab Scientist,Enugu,3,284000
+7,Segun Abubakar,Male,Telecoms,Customer Experience Lead,Benin City,3,301000
+8,Sola Danjuma,Female,Telecoms,Network Engineer,Abuja,10,601000
+9,Adaeze Danjuma,Female,Telecoms,RF Engineer,Abuja,11,569000
+10,Ngozi Usman,Female,Healthcare,Lab Scientist,Ibadan,9,446000
+11,Fatima Danjuma,Female,Healthcare,Lab Scientist,Lagos,2,310000
+12,Yusuf Lawal,Male,Technology,UI/UX Designer,Kaduna,6,769000
+13,Tunde Ibrahim,Male,Education,Curriculum Developer,Kaduna,16,1829000
+14,Nneka Okonkwo,Female,Technology,Product Manager,Lagos,2,639000
+15,Kunle Lawal,Male,Technology,DevOps Engineer,Calabar,8,791000
+16,Ngozi Musa,Female,Oil & Gas,Geologist,Kaduna,1,427000
+17,Segun Okafor,Male,Banking & Finance,Risk Manager,Abuja,4,393000
+18,Kola Balogun,Male,Healthcare,Medical Doctor,Kano,7,393000
+19,Adaeze Usman,Female,Telecoms,Network Engineer,Benin City,20,788000
+20,Obinna Ibrahim,Male,Agriculture,Extension Officer,Port Harcourt,6,181000
+21,Kola Abubakar,Male,Media & Entertainment,Creative Director,Ibadan,18,455000
+22,Dele Lawal,Male,Telecoms,Product Analyst,Enugu,7,507000
+23,Emeka Osei,Male,Government,Policy Analyst,Owerri,5,212000
+24,Amaka Musa,Female,Retail,Logistics Coordinator,Enugu,16,325000
+25,Biodun Adeleke,Male,Telecoms,Customer Experience Lead,Kano,5,388000
+26,Yusuf Osei,Male,Technology,UI/UX Designer,Kano,5,749000
+27,Musa Ibrahim,Male,Technology,UI/UX Designer,Benin City,4,632000
+28,Zainab Balogun,Female,Telecoms,Sales Executive,Calabar,11,579000
+29,Ibrahim Eze,Male,Telecoms,Network Engineer,Lagos,10,592000
+30,Yetunde Abubakar,Female,Technology,Data Analyst,Ibadan,6,681000
+31,Ifeoma Abubakar,Female,Technology,Product Manager,Benin City,8,792000
+32,Musa Ibrahim,Male,Media & Entertainment,Content Creator,Calabar,1,222000
+33,Folake Osei,Female,Education,Research Assistant,Lagos,3,191000
+34,Tunde Usman,Male,Banking & Finance,Investment Analyst,Owerri,5,540000
+35,Adaeze Abubakar,Female,Retail,Sales Representative,Owerri,2,127000
+36,Kunle Ibrahim,Male,Education,Curriculum Developer,Owerri,13,268000
+37,Amaka Musa,Female,Oil & Gas,Drilling Engineer,Abuja,8,866000
+38,Kunle Musa,Male,Technology,Product Manager,Port Harcourt,3,447000
+39,Musa Danjuma,Male,Technology,UI/UX Designer,Port Harcourt,19,1071000
+40,Chisom Abubakar,Male,Technology,Product Manager,Abuja,9,838000
+41,Blessing Adeyemi,Female,Education,School Principal,Enugu,6,240000
+42,Kola Osei,Male,Media & Entertainment,Journalist,Ibadan,3,290000
+43,Hauwa Balogun,Female,Oil & Gas,Drilling Engineer,Kaduna,2,711000
+44,Kola Adeyemi,Male,Oil & Gas,Petroleum Engineer,Ibadan,15,1292000
+45,Blessing Eze,Female,Banking & Finance,Relationship Manager,Abuja,5,535000
+46,Ngozi Ibrahim,Female,Telecoms,Sales Executive,Abuja,17,707000
+47,Adaeze Abubakar,Female,Banking & Finance,Relationship Manager,Owerri,10,604000
+48,Biodun Musa,Male,Retail,Store Manager,Lagos,1,126000
+49,Blessing Nwosu,Female,Technology,UI/UX Designer,Benin City,6,594000
+50,Ibrahim Okafor,Male,Government,Policy Analyst,Kaduna,19,314000
+51,Aminu Lawal,Male,Agriculture,Agribusiness Analyst,Kaduna,2,77000
+52,Adaeze Okafor,Female,Education,Lecturer,Benin City,2,152000
+53,Aisha Balogun,Female,Retail,Sales Representative,Enugu,3,175000
+54,Tunde Nwosu,Male,Banking & Finance,Risk Manager,Kano,6,569000
+55,Yetunde Adeleke,Female,Technology,DevOps Engineer,Lagos,4,624000
+56,Fatima Nwosu,Female,Agriculture,Supply Chain Officer,Kaduna,10,235000
+57,Emeka Lawal,Male,Healthcare,Medical Doctor,Owerri,7,383000
+58,Obinna Adeyemi,Male,Retail,Merchandiser,Abuja,1,103000
+59,Biodun Nwosu,Male,Telecoms,Network Engineer,Lagos,7,582000
+60,Biodun Nwosu,Male,Telecoms,Product Analyst,Abuja,8,508000
+61,Adaeze Lawal,Female,Government,Policy Analyst,Kano,3,168000
+62,Chisom Nwosu,Male,Agriculture,Supply Chain Officer,Kano,1,140000
+63,Ngozi Usman,Female,Education,Research Assistant,Calabar,2,150000
+64,Adaeze Osei,Female,Education,Curriculum Developer,Owerri,3,202000
+65,Ngozi Nwosu,Female,Media & Entertainment,Content Creator,Ibadan,18,406000
+66,Tunde Okonkwo,Male,Oil & Gas,Drilling Engineer,Kaduna,2,730000
+67,Amaka Danjuma,Female,Agriculture,Agribusiness Analyst,Enugu,2,117000
+68,Chidinma Nwosu,Female,Oil & Gas,HSE Officer,Lagos,16,1409000
+69,Ngozi Balogun,Female,Oil & Gas,Geologist,Enugu,2,682000
+70,Aminu Eze,Male,Media & Entertainment,Journalist,Ibadan,3,171000
+71,Kola Adeyemi,Male,Healthcare,Nurse,Kaduna,10,552000
+72,Obinna Osei,Male,Technology,Product Manager,Kaduna,6,725000
+73,Chidi Danjuma,Male,Media & Entertainment,Publicist,Owerri,6,243000
+74,Musa Usman,Male,Media & Entertainment,Publicist,Lagos,14,433000
+75,Femi Usman,Male,Banking & Finance,Relationship Manager,Ibadan,4,405000
+76,Blessing Musa,Female,Technology,Data Analyst,Owerri,14,950000
+77,Dele Adeyemi,Male,Banking & Finance,Compliance Officer,Kaduna,2,445000
+78,Chidinma Eze,Female,Oil & Gas,Field Technician,Kano,13,1299000
+79,Yetunde Okonkwo,Female,Banking & Finance,Relationship Manager,Enugu,10,659000
+80,Aminu Eze,Male,Healthcare,Pharmacist,Abuja,3,326000
+81,Hauwa Osei,Female,Oil & Gas,Drilling Engineer,Lagos,2,774000
+82,Aisha Osei,Female,Technology,UI/UX Designer,Owerri,12,848000
+83,Amaka Abubakar,Female,Technology,DevOps Engineer,Abuja,16,1054000
+84,Blessing Adeleke,Female,Healthcare,Medical Doctor,Ibadan,17,632000
+85,Aminu Nwosu,Male,Agriculture,Agronomist,Abuja,3,625000
+86,Dele Okafor,Male,Telecoms,Customer Experience Lead,Kano,5,507000
+87,Zainab Adeleke,Female,Education,Curriculum Developer,Lagos,1,127000
+88,Hauwa Eze,Female,Media & Entertainment,Content Creator,Benin City,1,220000
+89,Ahmed Usman,Male,Oil & Gas,Petroleum Engineer,Ibadan,9,1088000
+90,Amaka Okonkwo,Female,Banking & Finance,Risk Manager,Ibadan,10,617000
+91,Ibrahim Eze,Male,Technology,Data Analyst,Benin City,4,629000
+92,Hauwa Adeyemi,Female,Oil & Gas,Petroleum Engineer,Port Harcourt,4,780000
+93,Ngozi Nwosu,Female,Retail,Category Analyst,Kano,2,142000
+94,Amaka Balogun,Female,Banking & Finance,Risk Manager,Abuja,1,329000
+95,Ifeoma Osei,Female,Media & Entertainment,Creative Director,Kano,4,243000
+96,Ngozi Adeleke,Female,Oil & Gas,Geologist,Kano,3,740000
+97,Amaka Osei,Female,Government,Budget Officer,Lagos,4,223000
+98,Kola Danjuma,Male,Media & Entertainment,Broadcast Producer,Enugu,3,225000
+99,Emeka Lawal,Male,Banking & Finance,Relationship Manager,Ibadan,1,388000
+100,Fatima Usman,Female,Retail,Logistics Coordinator,Ibadan,14,313000
+101,Ifeoma Balogun,Female,Government,Procurement Officer,Port Harcourt,7,193000
+102,Chidi Usman,Male,Telecoms,RF Engineer,Port Harcourt,3,407000
+103,Nneka Adeyemi,Female,Banking & Finance,Compliance Officer,Abuja,19,890000
+104,Nneka Adeleke,Female,Retail,Merchandiser,Kano,2,180000
+105,Sola Nwosu,Female,Telecoms,Network Engineer,Ibadan,3,381000
+106,Chisom Adeyemi,Male,Banking & Finance,Risk Manager,Ibadan,13,667000
+107,Kunle Okafor,Male,Retail,Sales Representative,Owerri,3,188000
+108,Segun Okafor,Male,Government,Procurement Officer,Lagos,13,333000
+109,Blessing Lawal,Female,Retail,Sales Representative,Kano,15,311000
+110,Aisha Okafor,Female,Education,Lecturer,Abuja,7,239000
+111,Emeka Lawal,Male,Technology,Data Analyst,Ibadan,1,443000
+112,Amaka Eze,Female,Banking & Finance,Risk Manager,Lagos,10,710000
+113,Musa Eze,Male,Oil & Gas,Field Technician,Port Harcourt,7,873000
+114,Chidinma Eze,Female,Banking & Finance,Investment Analyst,Ibadan,9,2920000
+115,Emeka Eze,Male,Government,Policy Analyst,Kaduna,9,289000
+116,Emeka Okafor,Male,Oil & Gas,Drilling Engineer,Benin City,10,982000
+117,Hauwa Abubakar,Female,Healthcare,Lab Scientist,Abuja,7,440000
+118,Femi Ibrahim,Male,Technology,Software Engineer,Abuja,4,680000
+119,Amaka Danjuma,Female,Technology,UI/UX Designer,Enugu,1,388000
+120,Biodun Ibrahim,Male,Government,Policy Analyst,Calabar,4,168000
+121,Ibrahim Musa,Male,Technology,DevOps Engineer,Port Harcourt,4,764000
+122,Blessing Lawal,Female,Media & Entertainment,Journalist,Enugu,1,196000
+123,Chidinma Adeleke,Female,Banking & Finance,Compliance Officer,Ibadan,7,495000
+124,Ifeoma Ibrahim,Female,Technology,UI/UX Designer,Benin City,3,649000
+125,Amaka Osei,Female,Oil & Gas,Petroleum Engineer,Port Harcourt,4,656000
+126,Chidi Osei,Male,Healthcare,Medical Doctor,Enugu,10,504000
+127,Ahmed Ibrahim,Male,Oil & Gas,HSE Officer,Lagos,12,1256000
+128,Nneka Osei,Female,Media & Entertainment,Content Creator,Kano,1,203000
+129,Fatima Nwosu,Female,Banking & Finance,Treasury Officer,Ibadan,14,596000
+130,Ahmed Ibrahim,Male,Banking & Finance,Treasury Officer,Kano,3,434000
+131,Kola Adeyemi,Male,Healthcare,Nurse,Enugu,13,550000
+132,Kola Abubakar,Male,Retail,Logistics Coordinator,Owerri,6,190000
+133,Nneka Ibrahim,Female,Oil & Gas,Drilling Engineer,Ibadan,4,659000
+134,Yetunde Adeleke,Female,Technology,Software Engineer,Ibadan,11,979000
+135,Ibrahim Nwosu,Male,Media & Entertainment,Broadcast Producer,Lagos,9,303000
+136,Emeka Okafor,Male,Media & Entertainment,Content Creator,Benin City,2,869000
+137,Nneka Ibrahim,Female,Technology,Product Manager,Owerri,2,572000
+138,Ibrahim Lawal,Male,Technology,Data Analyst,Port Harcourt,5,761000
+139,Nneka Adeleke,Female,Banking & Finance,Relationship Manager,Lagos,1,307000
+140,Aminu Ibrahim,Male,Telecoms,Sales Executive,Lagos,1,299000
+141,Ibrahim Eze,Male,Technology,Software Engineer,Lagos,7,758000
+142,Femi Adeleke,Male,Healthcare,Hospital Administrator,Port Harcourt,6,461000
+143,Hauwa Usman,Female,Media & Entertainment,Publicist,Owerri,1,252000
+144,Chisom Danjuma,Male,Retail,Category Analyst,Kano,8,237000
+145,Zainab Osei,Female,Retail,Category Analyst,Lagos,3,223000
+146,Musa Nwosu,Male,Media & Entertainment,Content Creator,Abuja,13,345000
+147,Aisha Eze,Female,Government,Policy Analyst,Port Harcourt,9,255000
+148,Emeka Eze,Male,Healthcare,Hospital Administrator,Benin City,5,407000
+149,Musa Ibrahim,Male,Banking & Finance,Relationship Manager,Kano,4,493000
+150,Chidi Danjuma,Male,Technology,Data Analyst,Lagos,1,510000
+151,Aminu Adeyemi,Male,Technology,DevOps Engineer,Enugu,2,540000
+152,Segun Osei,Male,Retail,Store Manager,Ibadan,5,204000
+153,Obinna Nwosu,Male,Banking & Finance,Relationship Manager,Enugu,5,508000
+154,Nneka Danjuma,Female,Media & Entertainment,Creative Director,Owerri,5,264000
+155,Adaeze Danjuma,Female,Oil & Gas,Geologist,Owerri,10,1173000
+156,Ahmed Nwosu,Male,Government,Public Affairs Officer,Ibadan,2,190000
+157,Hauwa Osei,Female,Retail,Store Manager,Enugu,5,217000
+158,Femi Lawal,Male,Retail,Sales Representative,Ibadan,7,151000
+159,Biodun Osei,Male,Education,School Principal,Port Harcourt,1,176000
+160,Yusuf Adeleke,Male,Banking & Finance,Investment Analyst,Kaduna,15,3048000
+161,Kunle Ibrahim,Male,Banking & Finance,Treasury Officer,Owerri,2,306000
+162,Kunle Adeleke,Male,Healthcare,Nurse,Calabar,3,315000
+163,Nneka Musa,Female,Banking & Finance,Compliance Officer,Benin City,8,621000
+164,Ibrahim Musa,Male,Banking & Finance,Risk Manager,Ibadan,3,485000
+165,Kola Danjuma,Male,Healthcare,Nurse,Port Harcourt,3,361000
+166,Chidinma Nwosu,Female,Technology,Data Analyst,Port Harcourt,10,831000
+167,Adaeze Okafor,Female,Healthcare,Medical Doctor,Ibadan,2,406000
+168,Nneka Danjuma,Female,Banking & Finance,Relationship Manager,Benin City,1,391000
+169,Ifeoma Musa,Female,Agriculture,Extension Officer,Calabar,7,164000
+170,Kunle Eze,Male,Healthcare,Hospital Administrator,Kano,8,377000
+171,Hauwa Danjuma,Female,Healthcare,Medical Doctor,Kaduna,3,305000
+172,Chisom Osei,Male,Telecoms,Product Analyst,Kaduna,6,2377000
+173,Musa Danjuma,Male,Media & Entertainment,Journalist,Lagos,3,255000
+174,Blessing Okafor,Female,Technology,DevOps Engineer,Benin City,6,490000
+175,Aisha Adeleke,Female,Government,Public Affairs Officer,Enugu,4,218000
+176,Yetunde Eze,Female,Education,Research Assistant,Enugu,7,236000
+177,Nneka Nwosu,Female,Technology,UI/UX Designer,Kaduna,7,778000
+178,Ibrahim Osei,Male,Retail,Merchandiser,Kaduna,5,201000
+179,Ibrahim Balogun,Male,Government,Policy Analyst,Benin City,8,226000
+180,Sola Osei,Female,Oil & Gas,Drilling Engineer,Owerri,8,785000
+181,Biodun Okafor,Male,Banking & Finance,Compliance Officer,Ibadan,19,911000
+182,Obinna Ibrahim,Male,Education,Curriculum Developer,Benin City,5,145000
+183,Folake Ibrahim,Female,Government,Civil Servant,Abuja,11,264000
+184,Nneka Adeyemi,Female,Education,Secondary School Teacher,Abuja,8,215000
+185,Ahmed Eze,Male,Government,Policy Analyst,Benin City,4,208000
+186,Aisha Usman,Female,Healthcare,Medical Doctor,Owerri,10,454000
+187,Chidinma Musa,Female,Telecoms,RF Engineer,Abuja,6,487000
+188,Emeka Ibrahim,Male,Telecoms,Sales Executive,Benin City,3,327000
+189,Sola Eze,Female,Telecoms,Product Analyst,Benin City,8,382000
+190,Folake Adeyemi,Female,Healthcare,Medical Doctor,Lagos,7,479000
+191,Zainab Ibrahim,Female,Telecoms,Sales Executive,Lagos,2,300000
+192,Femi Eze,Male,Telecoms,Product Analyst,Owerri,10,650000
+193,Chidinma Balogun,Female,Banking & Finance,Investment Analyst,Ibadan,3,386000
+194,Hauwa Nwosu,Female,Retail,Logistics Coordinator,Abuja,4,176000
+195,Blessing Okonkwo,Female,Retail,Store Manager,Lagos,4,779000
+196,Nneka Ibrahim,Female,Media & Entertainment,Creative Director,Lagos,10,355000
+197,Zainab Osei,Female,Education,Research Assistant,Abuja,2,172000
+198,Femi Abubakar,Male,Oil & Gas,Petroleum Engineer,Lagos,4,908000
+199,Yusuf Okonkwo,Male,Media & Entertainment,Content Creator,Kaduna,1,156000
+200,Nneka Danjuma,Female,Healthcare,Medical Doctor,Abuja,10,393000
+201,Biodun Osei,Male,Oil & Gas,Petroleum Engineer,Kaduna,7,867000
+202,Segun Lawal,Male,Banking & Finance,Risk Manager,Lagos,5,506000
+203,Kunle Danjuma,Male,Media & Entertainment,Content Creator,Benin City,1,205000
+204,Adaeze Adeleke,Female,Agriculture,Farm Manager,Abuja,3,94000
+205,Tunde Eze,Male,Banking & Finance,Investment Analyst,Lagos,1,344000
+206,Nneka Danjuma,Female,Media & Entertainment,Publicist,Calabar,1,260000
+207,Yusuf Usman,Male,Education,Secondary School Teacher,Abuja,4,144000
+208,Chisom Lawal,Male,Government,Public Affairs Officer,Enugu,3,224000
+209,Aisha Eze,Female,Retail,Merchandiser,Calabar,11,234000
+210,Yetunde Nwosu,Female,Banking & Finance,Compliance Officer,Ibadan,8,612000
+211,Kola Lawal,Male,Healthcare,Medical Doctor,Ibadan,11,523000
+212,Folake Eze,Female,Telecoms,Product Analyst,Abuja,6,390000
+213,Adaeze Danjuma,Female,Agriculture,Farm Manager,Ibadan,7,184000
+214,Folake Adeyemi,Female,Government,Budget Officer,Owerri,1,188000
+215,Ahmed Musa,Male,Healthcare,Nurse,Owerri,3,342000
+216,Dele Okafor,Male,Oil & Gas,Field Technician,Enugu,4,833000
+217,Ibrahim Balogun,Male,Telecoms,Network Engineer,Enugu,7,439000
+218,Nneka Okonkwo,Female,Technology,Software Engineer,Kano,20,1156000
+219,Folake Okonkwo,Female,Media & Entertainment,Broadcast Producer,Kaduna,1,245000
+220,Chidi Okafor,Male,Technology,Data Analyst,Port Harcourt,4,416000
+221,Aminu Adeyemi,Male,Media & Entertainment,Publicist,Benin City,16,434000
+222,Ifeoma Ibrahim,Female,Banking & Finance,Investment Analyst,Owerri,4,437000
+223,Sola Okafor,Female,Banking & Finance,Risk Manager,Port Harcourt,1,492000
+224,Chisom Osei,Male,Technology,DevOps Engineer,Benin City,1,1587000
+225,Biodun Balogun,Male,Agriculture,Supply Chain Officer,Calabar,5,146000
+226,Kunle Danjuma,Male,Oil & Gas,Geologist,Kano,11,1165000
+227,Hauwa Ibrahim,Female,Government,Policy Analyst,Kano,1,180000
+228,Sola Lawal,Female,Oil & Gas,Petroleum Engineer,Abuja,5,560000
+229,Musa Danjuma,Male,Technology,Product Manager,Port Harcourt,4,444000
+230,Kola Okonkwo,Male,Technology,UI/UX Designer,Kaduna,3,628000
+231,Adaeze Usman,Female,Banking & Finance,Risk Manager,Ibadan,5,621000
+232,Amaka Nwosu,Female,Media & Entertainment,Content Creator,Owerri,5,333000
+233,Segun Eze,Male,Retail,Logistics Coordinator,Ibadan,20,337000
+234,Kunle Osei,Male,Education,Curriculum Developer,Port Harcourt,18,379000
+235,Fatima Balogun,Female,Telecoms,RF Engineer,Lagos,10,442000
+236,Musa Musa,Male,Healthcare,Pharmacist,Port Harcourt,6,439000
+237,Ahmed Ibrahim,Male,Government,Public Affairs Officer,Benin City,10,244000
+238,Ifeoma Danjuma,Female,Healthcare,Pharmacist,Lagos,1,237000
+239,Amaka Okafor,Female,Telecoms,Customer Experience Lead,Enugu,3,303000
+240,Ngozi Ibrahim,Female,Education,Secondary School Teacher,Port Harcourt,6,221000
+241,Blessing Adeyemi,Female,Healthcare,Medical Doctor,Enugu,6,453000
+242,Femi Lawal,Male,Media & Entertainment,Broadcast Producer,Kaduna,7,338000
+243,Emeka Musa,Male,Agriculture,Extension Officer,Owerri,1,139000
+244,Emeka Adeyemi,Male,Technology,Product Manager,Owerri,11,857000
+245,Blessing Musa,Female,Agriculture,Agribusiness Analyst,Lagos,11,214000
+246,Nneka Abubakar,Female,Education,Lecturer,Ibadan,2,144000
+247,Dele Ibrahim,Male,Technology,Software Engineer,Kaduna,13,897000
+248,Aminu Okafor,Male,Retail,Store Manager,Kaduna,8,196000
+249,Ifeoma Eze,Female,Banking & Finance,Risk Manager,Enugu,9,612000
+250,Obinna Adeyemi,Male,Retail,Category Analyst,Kano,13,267000
+251,Dele Ibrahim,Male,Technology,UI/UX Designer,Kano,6,611000
+252,Zainab Okonkwo,Female,Telecoms,Network Engineer,Lagos,1,361000
+253,Emeka Eze,Male,Telecoms,Network Engineer,Calabar,1,336000
+254,Amaka Usman,Female,Banking & Finance,Risk Manager,Abuja,1,399000
+255,Chidinma Okonkwo,Female,Retail,Logistics Coordinator,Abuja,6,194000
+256,Aminu Musa,Male,Telecoms,RF Engineer,Calabar,8,547000
+257,Ifeoma Nwosu,Female,Oil & Gas,Field Technician,Ibadan,7,1000000
+258,Fatima Lawal,Female,Telecoms,Product Analyst,Kaduna,1,344000
+259,Femi Okafor,Male,Banking & Finance,Relationship Manager,Benin City,3,441000
+260,Sola Danjuma,Female,Media & Entertainment,Publicist,Lagos,6,264000
+261,Fatima Adeleke,Female,Telecoms,Sales Executive,Kaduna,4,431000
+262,Yusuf Lawal,Male,Government,Civil Servant,Benin City,3,229000
+263,Nneka Ibrahim,Female,Oil & Gas,Field Technician,Calabar,1,477000
+264,Hauwa Balogun,Female,Healthcare,Lab Scientist,Benin City,8,482000
+265,Ngozi Osei,Female,Oil & Gas,Field Technician,Calabar,4,764000
+266,Nneka Eze,Female,Banking & Finance,Treasury Officer,Ibadan,11,466000
+267,Chisom Musa,Male,Technology,Product Manager,Enugu,17,1264000
+268,Blessing Osei,Female,Technology,Product Manager,Calabar,13,912000
+269,Chidinma Usman,Female,Healthcare,Lab Scientist,Owerri,11,463000
+270,Sola Abubakar,Female,Retail,Store Manager,Owerri,2,181000
+271,Adaeze Eze,Female,Healthcare,Hospital Administrator,Port Harcourt,13,484000
+272,Sola Adeyemi,Female,Banking & Finance,Treasury Officer,Abuja,2,441000
+273,Zainab Ibrahim,Female,Telecoms,Network Engineer,Ibadan,8,404000
+274,Obinna Okonkwo,Male,Media & Entertainment,Publicist,Port Harcourt,1,198000
+275,Femi Danjuma,Male,Healthcare,Medical Doctor,Kaduna,1,286000
+276,Musa Usman,Male,Government,Public Affairs Officer,Lagos,8,251000
+277,Yusuf Okonkwo,Male,Healthcare,Hospital Administrator,Owerri,20,721000
+278,Ifeoma Usman,Female,Technology,Software Engineer,Abuja,2,572000
+279,Fatima Danjuma,Female,Government,Civil Servant,Lagos,8,255000
+280,Nneka Eze,Female,Healthcare,Hospital Administrator,Abuja,4,1592000
+281,Dele Musa,Male,Oil & Gas,Petroleum Engineer,Benin City,1,867000
+282,Adaeze Adeyemi,Female,Banking & Finance,Compliance Officer,Ibadan,4,503000
+283,Hauwa Usman,Female,Oil & Gas,Field Technician,Kano,4,979000
+284,Chidinma Abubakar,Female,Technology,UI/UX Designer,Port Harcourt,1,526000
+285,Segun Eze,Male,Banking & Finance,Compliance Officer,Enugu,4,490000
+286,Kola Adeleke,Male,Technology,Product Manager,Enugu,3,2789000
+287,Kunle Usman,Male,Banking & Finance,Risk Manager,Abuja,2,467000
+288,Femi Usman,Male,Oil & Gas,Geologist,Kaduna,7,747000
+289,Nneka Usman,Female,Banking & Finance,Compliance Officer,Port Harcourt,16,740000
+290,Tunde Abubakar,Male,Healthcare,Pharmacist,Port Harcourt,13,523000
+291,Femi Okafor,Male,Agriculture,Extension Officer,Lagos,8,182000
+292,Tunde Abubakar,Male,Government,Procurement Officer,Kano,8,261000
+293,Amaka Musa,Female,Government,Procurement Officer,Kano,1,155000
+294,Emeka Balogun,Male,Oil & Gas,Geologist,Port Harcourt,15,1459000
+295,Aisha Lawal,Female,Education,Curriculum Developer,Kaduna,1,100000
+296,Aminu Okafor,Male,Banking & Finance,Relationship Manager,Calabar,9,679000
+297,Femi Adeleke,Male,Oil & Gas,Drilling Engineer,Port Harcourt,4,730000
+298,Ngozi Adeyemi,Female,Healthcare,Hospital Administrator,Ibadan,15,568000
+299,Dele Adeleke,Male,Agriculture,Agribusiness Analyst,Lagos,13,264000
+300,Hauwa Okonkwo,Female,Media & Entertainment,Journalist,Kaduna,8,355000
+301,Adaeze Balogun,Female,Banking & Finance,Investment Analyst,Enugu,16,754000
+302,Yusuf Adeleke,Male,Healthcare,Lab Scientist,Owerri,1,212000
+303,Kola Ibrahim,Male,Media & Entertainment,Content Creator,Benin City,10,257000
+304,Chidinma Adeyemi,Female,Telecoms,Sales Executive,Lagos,2,316000
+305,Dele Okafor,Male,Banking & Finance,Risk Manager,Benin City,8,505000
+306,Dele Balogun,Male,Oil & Gas,Drilling Engineer,Port Harcourt,13,1171000
+307,Kunle Lawal,Male,Technology,UI/UX Designer,Port Harcourt,8,775000
+308,Kola Nwosu,Male,Banking & Finance,Relationship Manager,Benin City,2,292000
+309,Adaeze Okonkwo,Female,Education,School Principal,Abuja,2,145000
+310,Hauwa Okonkwo,Female,Technology,UI/UX Designer,Abuja,9,834000
+311,Ngozi Balogun,Female,Healthcare,Lab Scientist,Benin City,2,372000
+312,Emeka Osei,Male,Retail,Category Analyst,Kano,1,127000
+313,Segun Osei,Male,Technology,Product Manager,Port Harcourt,17,1076000
+314,Obinna Lawal,Male,Oil & Gas,Drilling Engineer,Enugu,3,639000
+315,Ngozi Musa,Female,Banking & Finance,Investment Analyst,Abuja,6,444000
+316,Musa Ibrahim,Male,Banking & Finance,Treasury Officer,Abuja,2,411000
+317,Aisha Musa,Female,Retail,Store Manager,Lagos,12,263000
+318,Chidi Abubakar,Male,Government,Public Affairs Officer,Kaduna,2,177000
+319,Musa Eze,Male,Media & Entertainment,Journalist,Benin City,1,197000
+320,Blessing Usman,Female,Banking & Finance,Risk Manager,Benin City,1,446000
+321,Chidi Danjuma,Male,Telecoms,Sales Executive,Kaduna,17,692000
+322,Femi Lawal,Male,Healthcare,Nurse,Benin City,8,379000
+323,Hauwa Adeyemi,Female,Media & Entertainment,Journalist,Kano,2,251000
+324,Chidinma Nwosu,Female,Retail,Category Analyst,Owerri,3,192000
+325,Kola Adeleke,Male,Technology,Data Analyst,Owerri,9,881000
+326,Tunde Lawal,Male,Telecoms,Product Analyst,Benin City,2,398000
+327,Segun Usman,Male,Technology,UI/UX Designer,Port Harcourt,12,946000
+328,Obinna Osei,Male,Retail,Sales Representative,Benin City,10,220000
+329,Kunle Nwosu,Male,Oil & Gas,Petroleum Engineer,Enugu,1,676000
+330,Fatima Balogun,Female,Technology,Data Analyst,Calabar,1,533000
+331,Blessing Danjuma,Female,Banking & Finance,Investment Analyst,Ibadan,2,351000
+332,Folake Okonkwo,Female,Government,Procurement Officer,Abuja,4,200000
+333,Ngozi Lawal,Female,Media & Entertainment,Content Creator,Ibadan,4,291000
+334,Ifeoma Adeleke,Female,Telecoms,Network Engineer,Ibadan,2,355000
+335,Adaeze Okafor,Female,Government,Public Affairs Officer,Ibadan,6,318000
+336,Ifeoma Usman,Female,Telecoms,Network Engineer,Lagos,1,362000
+337,Obinna Balogun,Male,Education,School Principal,Kaduna,2,134000
+338,Sola Okonkwo,Female,Healthcare,Pharmacist,Port Harcourt,11,497000
+339,Sola Musa,Female,Retail,Category Analyst,Lagos,4,204000
+340,Amaka Abubakar,Female,Technology,Data Analyst,Port Harcourt,3,587000
+341,Chidi Abubakar,Male,Oil & Gas,Field Technician,Owerri,7,947000
+342,Folake Osei,Female,Oil & Gas,Field Technician,Abuja,4,745000
+343,Hauwa Balogun,Female,Government,Policy Analyst,Abuja,3,152000
+344,Zainab Balogun,Female,Healthcare,Lab Scientist,Enugu,1,284000
+345,Obinna Ibrahim,Male,Government,Public Affairs Officer,Enugu,13,316000
+346,Fatima Okonkwo,Female,Telecoms,RF Engineer,Kaduna,6,462000
+347,Amaka Musa,Female,Banking & Finance,Relationship Manager,Ibadan,9,578000
+348,Hauwa Lawal,Female,Healthcare,Lab Scientist,Enugu,18,646000
+349,Blessing Okafor,Female,Government,Procurement Officer,Port Harcourt,3,194000
+350,Ifeoma Abubakar,Female,Technology,Software Engineer,Kaduna,5,531000
+351,Tunde Osei,Male,Technology,Software Engineer,Port Harcourt,7,767000
+352,Chisom Okafor,Male,Technology,Product Manager,Owerri,8,658000
+353,Fatima Okafor,Female,Banking & Finance,Investment Analyst,Benin City,4,536000
+354,Ifeoma Okafor,Female,Healthcare,Lab Scientist,Calabar,4,1228000
+355,Fatima Adeyemi,Female,Education,Curriculum Developer,Lagos,4,193000
+356,Chisom Musa,Male,Government,Procurement Officer,Enugu,5,218000
+357,Zainab Osei,Female,Banking & Finance,Compliance Officer,Lagos,10,534000
+358,Biodun Adeyemi,Male,Oil & Gas,Field Technician,Ibadan,2,631000
+359,Aminu Osei,Male,Agriculture,Agribusiness Analyst,Port Harcourt,19,340000
+360,Kola Okonkwo,Male,Technology,DevOps Engineer,Owerri,2,513000
+361,Folake Danjuma,Female,Technology,Data Analyst,Port Harcourt,6,697000
+362,Folake Okafor,Female,Healthcare,Nurse,Kaduna,5,515000
+363,Ngozi Musa,Female,Agriculture,Agronomist,Kaduna,8,169000
+364,Hauwa Eze,Female,Retail,Merchandiser,Lagos,3,156000
+365,Adaeze Musa,Female,Oil & Gas,Drilling Engineer,Kaduna,8,1137000
+366,Amaka Balogun,Female,Retail,Category Analyst,Port Harcourt,11,1403000
+367,Aisha Okonkwo,Female,Banking & Finance,Relationship Manager,Calabar,7,648000
+368,Femi Adeleke,Male,Agriculture,Agronomist,Benin City,2,548000
+369,Obinna Adeyemi,Male,Retail,Store Manager,Port Harcourt,14,285000
+370,Dele Musa,Male,Oil & Gas,Geologist,Enugu,18,1293000
+371,Yusuf Danjuma,Male,Education,Lecturer,Port Harcourt,6,202000
+372,Yusuf Okafor,Male,Banking & Finance,Investment Analyst,Abuja,16,798000
+373,Obinna Lawal,Male,Education,Secondary School Teacher,Owerri,6,143000
+374,Emeka Nwosu,Male,Banking & Finance,Risk Manager,Abuja,3,439000
+375,Yetunde Okafor,Female,Retail,Merchandiser,Owerri,1,141000
+376,Chidinma Eze,Female,Banking & Finance,Relationship Manager,Kaduna,19,889000
+377,Folake Ibrahim,Female,Oil & Gas,HSE Officer,Kaduna,10,1163000
+378,Ahmed Adeleke,Male,Telecoms,Customer Experience Lead,Calabar,9,483000
+379,Zainab Adeleke,Female,Government,Civil Servant,Lagos,4,165000
+380,Aisha Lawal,Female,Healthcare,Lab Scientist,Benin City,6,422000
+381,Blessing Nwosu,Female,Agriculture,Extension Officer,Enugu,9,174000
+382,Yetunde Lawal,Female,Healthcare,Hospital Administrator,Kano,15,543000
+383,Ibrahim Adeyemi,Male,Education,Research Assistant,Calabar,5,215000
+384,Kunle Ibrahim,Male,Telecoms,Customer Experience Lead,Kano,8,476000
+385,Amaka Eze,Female,Government,Civil Servant,Enugu,4,216000
+386,Kola Eze,Male,Oil & Gas,Field Technician,Owerri,3,792000
+387,Ibrahim Okafor,Male,Oil & Gas,Petroleum Engineer,Benin City,7,866000
+388,Yetunde Okafor,Female,Banking & Finance,Relationship Manager,Owerri,4,409000
+389,Hauwa Abubakar,Female,Technology,Product Manager,Lagos,7,711000
+390,Ahmed Ibrahim,Male,Government,Civil Servant,Owerri,7,265000
+391,Chidinma Balogun,Female,Government,Public Affairs Officer,Enugu,15,384000
+392,Ifeoma Okonkwo,Female,Oil & Gas,Field Technician,Ibadan,4,817000
+393,Chisom Lawal,Male,Healthcare,Hospital Administrator,Enugu,1,363000
+394,Adaeze Danjuma,Female,Telecoms,RF Engineer,Lagos,1,375000
+395,Chidinma Usman,Female,Oil & Gas,Geologist,Port Harcourt,13,5289000
+396,Blessing Balogun,Female,Banking & Finance,Treasury Officer,Lagos,15,842000
+397,Emeka Adeyemi,Male,Agriculture,Agronomist,Abuja,2,92000
+398,Yusuf Lawal,Male,Telecoms,Sales Executive,Enugu,5,435000
+399,Emeka Ibrahim,Male,Retail,Store Manager,Port Harcourt,3,185000
+400,Zainab Okafor,Female,Banking & Finance,Relationship Manager,Ibadan,6,514000
+401,Yetunde Musa,Female,Banking & Finance,Compliance Officer,Kaduna,12,710000
+402,Aisha Usman,Female,Retail,Logistics Coordinator,Calabar,2,167000
+403,Yusuf Okonkwo,Male,Healthcare,Medical Doctor,Enugu,1,294000
+404,Chidinma Danjuma,Female,Oil & Gas,HSE Officer,Kano,11,1066000
+405,Chidi Ibrahim,Male,Media & Entertainment,Journalist,Port Harcourt,5,278000
+406,Folake Musa,Female,Technology,DevOps Engineer,Port Harcourt,5,624000
+407,Ahmed Osei,Male,Technology,Data Analyst,Owerri,1,524000
+408,Ibrahim Okafor,Male,Government,Budget Officer,Kaduna,2,184000
+409,Femi Nwosu,Male,Oil & Gas,HSE Officer,Calabar,10,955000
+410,Chidinma Ibrahim,Female,Government,Policy Analyst,Kaduna,18,423000
+411,Musa Eze,Male,Banking & Finance,Treasury Officer,Abuja,2,377000
+412,Adaeze Balogun,Female,Oil & Gas,HSE Officer,Owerri,6,5203000
+413,Nneka Okonkwo,Female,Media & Entertainment,Journalist,Kano,5,254000
+414,Segun Okafor,Male,Banking & Finance,Risk Manager,Calabar,15,757000
+415,Adaeze Usman,Female,Retail,Category Analyst,Lagos,2,155000
+416,Amaka Danjuma,Female,Government,Procurement Officer,Abuja,9,311000
+417,Chidi Abubakar,Male,Government,Public Affairs Officer,Kaduna,5,191000
+418,Obinna Ibrahim,Male,Oil & Gas,Drilling Engineer,Abuja,4,721000
+419,Amaka Adeyemi,Female,Technology,Software Engineer,Benin City,3,606000
+420,Chidi Abubakar,Male,Telecoms,Network Engineer,Enugu,5,413000
+421,Dele Danjuma,Male,Retail,Category Analyst,Kaduna,6,218000
+422,Dele Adeyemi,Male,Technology,Software Engineer,Benin City,10,761000
+423,Femi Okonkwo,Male,Technology,Product Manager,Lagos,5,676000
+424,Dele Adeyemi,Male,Banking & Finance,Treasury Officer,Owerri,9,583000
+425,Femi Balogun,Male,Retail,Store Manager,Kano,7,245000
+426,Tunde Osei,Male,Technology,Product Manager,Kaduna,10,904000
+427,Ahmed Musa,Male,Agriculture,Farm Manager,Port Harcourt,10,236000
+428,Amaka Osei,Female,Technology,Software Engineer,Benin City,1,444000
+429,Obinna Okonkwo,Male,Technology,Software Engineer,Enugu,10,947000
+430,Ngozi Danjuma,Female,Agriculture,Farm Manager,Ibadan,11,263000
+431,Hauwa Okonkwo,Female,Government,Public Affairs Officer,Port Harcourt,5,150000
+432,Blessing Musa,Female,Retail,Category Analyst,Kano,3,154000
+433,Folake Adeleke,Female,Healthcare,Medical Doctor,Kaduna,8,391000
+434,Zainab Okonkwo,Female,Oil & Gas,Petroleum Engineer,Kano,8,728000
+435,Segun Osei,Male,Oil & Gas,Drilling Engineer,Lagos,3,621000
+436,Ifeoma Usman,Female,Technology,DevOps Engineer,Kano,1,515000
+437,Chidinma Adeleke,Female,Banking & Finance,Investment Analyst,Ibadan,2,364000
+438,Fatima Balogun,Female,Healthcare,Lab Scientist,Port Harcourt,4,344000
+439,Blessing Osei,Female,Oil & Gas,Field Technician,Kaduna,3,794000
+440,Segun Musa,Male,Technology,DevOps Engineer,Lagos,1,498000
+441,Fatima Osei,Female,Government,Procurement Officer,Enugu,8,286000
+442,Yetunde Adeleke,Female,Healthcare,Lab Scientist,Ibadan,16,568000
+443,Adaeze Balogun,Female,Education,Research Assistant,Lagos,14,283000
+444,Folake Abubakar,Female,Media & Entertainment,Journalist,Owerri,4,247000
+445,Fatima Okafor,Female,Education,School Principal,Lagos,16,357000
+446,Fatima Danjuma,Female,Healthcare,Hospital Administrator,Owerri,1,257000
+447,Yusuf Abubakar,Male,Retail,Merchandiser,Ibadan,10,277000
+448,Hauwa Nwosu,Female,Education,School Principal,Benin City,17,313000
+449,Fatima Musa,Female,Government,Budget Officer,Lagos,10,220000
+450,Chidinma Osei,Female,Agriculture,Farm Manager,Ibadan,14,240000
+451,Aisha Okonkwo,Female,Retail,Merchandiser,Ibadan,3,154000
+452,Yetunde Adeyemi,Female,Banking & Finance,Compliance Officer,Enugu,4,524000
+453,Chisom Okafor,Male,Media & Entertainment,Publicist,Owerri,11,396000
+454,Hauwa Eze,Female,Healthcare,Lab Scientist,Abuja,3,399000
+455,Chidi Abubakar,Male,Banking & Finance,Investment Analyst,Ibadan,5,528000
+456,Yusuf Lawal,Male,Retail,Category Analyst,Kano,13,246000
+457,Aminu Eze,Male,Technology,Product Manager,Port Harcourt,8,840000
+458,Ibrahim Abubakar,Male,Oil & Gas,Geologist,Enugu,4,618000
+459,Yusuf Adeyemi,Male,Oil & Gas,Drilling Engineer,Port Harcourt,2,478000
+460,Folake Lawal,Female,Healthcare,Lab Scientist,Kano,7,417000
+461,Segun Nwosu,Male,Government,Policy Analyst,Port Harcourt,2,217000
+462,Nneka Nwosu,Female,Healthcare,Nurse,Port Harcourt,8,391000
+463,Dele Nwosu,Male,Agriculture,Supply Chain Officer,Owerri,3,169000
+464,Segun Lawal,Male,Government,Procurement Officer,Lagos,8,276000
+465,Kunle Okonkwo,Male,Banking & Finance,Compliance Officer,Port Harcourt,5,384000
+466,Sola Abubakar,Female,Government,Civil Servant,Benin City,2,162000
+467,Dele Osei,Male,Banking & Finance,Risk Manager,Ibadan,11,707000
+468,Chidinma Abubakar,Female,Oil & Gas,Drilling Engineer,Abuja,7,1077000
+469,Zainab Nwosu,Female,Oil & Gas,Petroleum Engineer,Enugu,17,1470000
+470,Segun Eze,Male,Telecoms,Product Analyst,Benin City,2,387000
+471,Ahmed Osei,Male,Agriculture,Agronomist,Owerri,1,121000
+472,Obinna Musa,Male,Retail,Store Manager,Calabar,9,262000
+473,Chisom Balogun,Male,Government,Public Affairs Officer,Ibadan,6,226000
+474,Amaka Lawal,Female,Oil & Gas,Petroleum Engineer,Benin City,10,1074000
+475,Folake Balogun,Female,Agriculture,Extension Officer,Benin City,20,261000
+476,Obinna Nwosu,Male,Technology,DevOps Engineer,Ibadan,6,709000
+477,Folake Danjuma,Female,Retail,Merchandiser,Ibadan,16,304000
+478,Ngozi Okafor,Female,Oil & Gas,HSE Officer,Lagos,1,575000
+479,Tunde Lawal,Male,Retail,Store Manager,Benin City,10,226000
+480,Chidinma Adeyemi,Female,Telecoms,Sales Executive,Lagos,3,454000
+481,Folake Adeyemi,Female,Media & Entertainment,Content Creator,Benin City,5,218000
+482,Nneka Ibrahim,Female,Technology,Data Analyst,Benin City,8,702000
+483,Emeka Eze,Male,Telecoms,RF Engineer,Abuja,8,421000
+484,Emeka Okafor,Male,Agriculture,Agronomist,Kano,1,110000
+485,Yetunde Okafor,Female,Oil & Gas,HSE Officer,Lagos,15,1284000
+486,Chisom Adeyemi,Male,Technology,Software Engineer,Port Harcourt,2,552000
+487,Tunde Abubakar,Male,Retail,Logistics Coordinator,Lagos,1,112000
+488,Chidinma Adeleke,Female,Telecoms,Network Engineer,Owerri,7,2424000
+489,Yusuf Adeyemi,Male,Technology,DevOps Engineer,Benin City,2,511000
+490,Tunde Balogun,Male,Education,Lecturer,Kano,12,256000
+491,Folake Musa,Female,Banking & Finance,Relationship Manager,Port Harcourt,5,515000
+492,Chidinma Okonkwo,Female,Education,Research Assistant,Kano,6,199000
+493,Ibrahim Lawal,Male,Banking & Finance,Investment Analyst,Lagos,11,749000
+494,Kola Osei,Male,Healthcare,Nurse,Benin City,3,284000
+495,Fatima Adeleke,Female,Banking & Finance,Relationship Manager,Kaduna,1,342000
+496,Yusuf Abubakar,Male,Agriculture,Agribusiness Analyst,Ibadan,11,803000
+497,Chisom Osei,Male,Media & Entertainment,Broadcast Producer,Lagos,10,364000
+498,Kunle Ibrahim,Male,Government,Budget Officer,Enugu,4,212000
+499,Blessing Danjuma,Female,Technology,DevOps Engineer,Kano,15,1036000
+500,Musa Okonkwo,Male,Banking & Finance,Investment Analyst,Ibadan,5,404000

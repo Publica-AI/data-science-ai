@@ -1,0 +1,1001 @@
+claim_id,customer_name,age,gender,state,plan_type,claim_type,claim_amount,status,processing_days,hospital
+CLM-20001,Adaeze Lawal,50,Female,Kano,Premium,Surgery,1186200,Rejected,6,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20002,Sola Lawal,52,Female,Kano,Standard,Emergency,224900,Rejected,5,Aminu Kano Teaching Hospital
+CLM-20003,Folake Salako,66,Female,Rivers,Standard,Surgery,1473000,Approved,4,Kelsey Harrison Hospital
+CLM-20004,Femi Eze,42,Male,Delta,Standard,Dental,29500,Approved,4,State Specialist Hospital
+CLM-20005,Chidi Okafor,59,Male,Edo,Basic,Surgery,790800,Approved,15,State Specialist Hospital
+CLM-20006,Musa Salako,54,Male,Edo,Standard,Outpatient,32400,Approved,6,State Specialist Hospital
+CLM-20007,Segun Usman,52,Male,Delta,Executive,Surgery,1602400,Approved,14,Federal Medical Centre
+CLM-20008,Tunde Salako,31,Male,Katsina,Standard,Optical,13200,Rejected,20,General Hospital
+CLM-20009,Aisha Lawal,45,Female,Oyo,Executive,Emergency,610900,Approved,9,Ring Road State Hospital
+CLM-20010,Obinna Danjuma,58,Male,Kaduna,Basic,Optical,21900,Approved,5,General Hospital
+CLM-20011,Musa Eze,59,Male,Katsina,Basic,Emergency,214100,Rejected,10,General Hospital
+CLM-20012,Emeka Okonkwo,28,Male,Plateau,Standard,Maternity,469500,Pending,9,General Hospital
+CLM-20013,Kunle Adeleke,61,Male,Rivers,Standard,Inpatient,513300,Approved,1,Kelsey Harrison Hospital
+CLM-20014,Obinna Adeyemi,49,Male,Kaduna,Premium,Inpatient,260700,Approved,3,General Hospital
+CLM-20015,Obinna Nwosu,53,Male,Enugu,Standard,Optical,14500,Approved,2,General Hospital
+CLM-20016,Hauwa Salako,45,Female,Anambra,Standard,Outpatient,28400,Approved,10,General Hospital
+CLM-20017,Amaka Danjuma,19,Female,Delta,Basic,Surgery,726500,Approved,10,State Specialist Hospital
+CLM-20018,Sola Nnaji,22,Female,Delta,Basic,Emergency,217000,Approved,7,State Specialist Hospital
+CLM-20019,Chidi Adeleke,73,Male,Plateau,Premium,Inpatient,181200,Approved,4,State Specialist Hospital
+CLM-20020,Musa Salako,45,Male,Anambra,Executive,Emergency,177600,Approved,16,General Hospital
+CLM-20021,Blessing Danjuma,72,Female,Kaduna,Basic,Inpatient,237300,Rejected,22,General Hospital
+CLM-20022,Musa Okonkwo,66,Male,Rivers,Standard,Emergency,100500,Pending,10,Kelsey Harrison Hospital
+CLM-20023,Blessing Okonkwo,30,Female,Kano,Basic,Emergency,103600,Approved,3,Aminu Kano Teaching Hospital
+CLM-20024,Yusuf Nnaji,37,Male,Plateau,Standard,Emergency,292000,Approved,10,State Specialist Hospital
+CLM-20025,Chidinma Okonkwo,48,Female,Kano,Premium,Outpatient,64200,Approved,6,Aminu Kano Teaching Hospital
+CLM-20026,Ifeoma Okonkwo,22,Female,Anambra,Standard,Dental,34900,Approved,13,State Specialist Hospital
+CLM-20027,Femi Adeyemi,47,Male,Enugu,Standard,Dental,41700,Approved,7,State Specialist Hospital
+CLM-20028,Ngozi Adeleke,53,Female,Akwa Ibom,Basic,Surgery,832300,Rejected,15,Federal Medical Centre
+CLM-20029,Aisha Nnaji,72,Female,Abuja,Standard,Inpatient,530100,Under Review,23,Maitama District Hospital
+CLM-20030,Chidi Lawal,46,Male,Oyo,Basic,Optical,6900,Approved,5,Jericho Hospital
+CLM-20031,Zainab Adeleke,63,Female,Abuja,Standard,Surgery,504800,Pending,26,Maitama District Hospital
+CLM-20032,Ibrahim Eze,43,Male,Imo,Premium,Emergency,461100,Under Review,11,State Specialist Hospital
+CLM-20033,Adaeze Adeleke,36,Female,Kaduna,Standard,Outpatient,14900,Pending,15,General Hospital
+CLM-20034,Segun Okafor,53,Male,Imo,Basic,Optical,13000,Pending,17,State Specialist Hospital
+CLM-20035,Amaka Eze,37,Female,Katsina,Executive,Emergency,67000,Rejected,14,State Specialist Hospital
+CLM-20036,Sola Abubakar,41,Female,Rivers,Basic,Emergency,351200,Rejected,18,University of Port Harcourt Teaching Hospital
+CLM-20037,Kunle Abubakar,39,Male,Lagos,Standard,Maternity,269200,Approved,7,Lagos Island General Hospital
+CLM-20038,Amaka Nwosu,48,Female,Imo,Standard,Maternity,365000,Rejected,10,Federal Medical Centre
+CLM-20039,Amaka Balogun,50,Female,Imo,Standard,Maternity,315900,Rejected,5,State Specialist Hospital
+CLM-20040,Ngozi Ibrahim,52,Female,Edo,Standard,Dental,15800,Approved,21,Federal Medical Centre
+CLM-20041,Zainab Eze,32,Female,Katsina,Standard,Surgery,890000,Approved,11,State Specialist Hospital
+CLM-20042,Ngozi Usman,32,Female,Rivers,Standard,Dental,31500,Approved,10,University of Port Harcourt Teaching Hospital
+CLM-20043,Musa Salako,52,Male,Delta,Basic,Maternity,219100,Rejected,5,State Specialist Hospital
+CLM-20044,Ibrahim Salako,28,Male,Imo,Premium,Optical,22400,Approved,10,General Hospital
+CLM-20045,Ifeoma Danjuma,48,Female,Abuja,Standard,Surgery,352100,Under Review,12,Asokoro District Hospital
+CLM-20046,Hauwa Adeleke,46,Female,Akwa Ibom,Standard,Maternity,389600,Approved,7,Federal Medical Centre
+CLM-20047,Fatima Okafor,35,Female,Kaduna,Premium,Outpatient,16400,Under Review,22,State Specialist Hospital
+CLM-20048,Chidi Nwosu,67,Male,Oyo,Basic,Outpatient,41300,Under Review,20,Ring Road State Hospital
+CLM-20049,Yusuf Eze,49,Male,Abuja,Premium,Dental,8700,Under Review,10,Maitama District Hospital
+CLM-20050,Femi Okafor,55,Male,Rivers,Premium,Dental,8200,Pending,17,University of Port Harcourt Teaching Hospital
+CLM-20051,Amaka Okafor,29,Female,Delta,Basic,Emergency,79100,Under Review,19,General Hospital
+CLM-20052,Biodun Abubakar,33,Male,Akwa Ibom,Standard,Outpatient,67100,Approved,5,Federal Medical Centre
+CLM-20053,Femi Danjuma,43,Male,Kaduna,Premium,Emergency,501300,Approved,3,General Hospital
+CLM-20054,Folake Nwosu,30,Female,Lagos,Standard,Dental,43300,Approved,3,Reddington Hospital
+CLM-20055,Ifeoma Ibrahim,42,Female,Enugu,Basic,Maternity,208600,Approved,5,State Specialist Hospital
+CLM-20056,Musa Abubakar,28,Male,Kano,Standard,Emergency,492100,Approved,13,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20057,Folake Nnaji,50,Female,Anambra,Executive,Optical,56100,Approved,5,General Hospital
+CLM-20058,Obinna Nnaji,71,Male,Anambra,Basic,Emergency,277900,Approved,6,State Specialist Hospital
+CLM-20059,Ahmed Adeleke,36,Male,Kano,Premium,Maternity,417700,Under Review,22,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20060,Ngozi Adeleke,32,Female,Enugu,Standard,Maternity,275100,Approved,7,General Hospital
+CLM-20061,Kunle Danjuma,49,Male,Oyo,Standard,Emergency,231500,Rejected,14,Jericho Hospital
+CLM-20062,Obinna Danjuma,47,Male,Kano,Standard,Outpatient,24300,Approved,12,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20063,Zainab Salako,58,Female,Imo,Premium,Optical,20400,Approved,3,General Hospital
+CLM-20064,Adeleke Balogun,30,Male,Kano,Basic,Surgery,614900,Approved,9,Aminu Kano Teaching Hospital
+CLM-20065,Kola Adeyemi,26,Male,Lagos,Basic,Emergency,314000,Approved,4,Reddington Hospital
+CLM-20066,Emeka Balogun,58,Male,Plateau,Premium,Optical,39900,Under Review,14,Federal Medical Centre
+CLM-20067,Chidinma Eze,43,Female,Kaduna,Standard,Optical,8300,Approved,3,Federal Medical Centre
+CLM-20068,Obinna Eze,70,Male,Kaduna,Standard,Optical,35400,Approved,1,General Hospital
+CLM-20069,Ifeoma Lawal,24,Female,Kano,Basic,Dental,27500,Approved,8,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20070,Emeka Danjuma,23,Male,Kano,Premium,Optical,32900,Pending,23,Aminu Kano Teaching Hospital
+CLM-20071,Tunde Okonkwo,34,Male,Oyo,Executive,Emergency,899200,Under Review,13,University College Hospital Ibadan
+CLM-20072,Ifeoma Usman,38,Female,Anambra,Basic,Inpatient,185200,Approved,11,Federal Medical Centre
+CLM-20073,Zainab Ibrahim,62,Female,Edo,Basic,Emergency,331100,Pending,13,State Specialist Hospital
+CLM-20074,Biodun Usman,41,Male,Lagos,Premium,Outpatient,68300,Under Review,20,Meridian Hospital
+CLM-20075,Chidi Nwosu,54,Male,Katsina,Standard,Outpatient,59000,Approved,4,General Hospital
+CLM-20076,Segun Okafor,46,Male,Plateau,Basic,Surgery,563400,Approved,9,Federal Medical Centre
+CLM-20077,Adaeze Adeleke,66,Female,Katsina,Basic,Maternity,115000,Under Review,17,Federal Medical Centre
+CLM-20078,Zainab Balogun,62,Female,Ogun,Basic,Surgery,896200,Pending,18,General Hospital
+CLM-20079,Fatima Okafor,23,Female,Abuja,Basic,Inpatient,159700,Approved,4,Cedarcrest Hospital
+CLM-20080,Sola Nnaji,66,Female,Katsina,Basic,Optical,23900,Approved,1,State Specialist Hospital
+CLM-20081,Chidi Nnaji,41,Male,Enugu,Standard,Outpatient,8600,Approved,6,State Specialist Hospital
+CLM-20082,Folake Okafor,68,Female,Ogun,Executive,Surgery,312200,Under Review,32,State Specialist Hospital
+CLM-20083,Adaeze Eze,33,Female,Lagos,Standard,Dental,58200,Rejected,9,Reddington Hospital
+CLM-20084,Kola Nwosu,46,Male,Imo,Basic,Surgery,202900,Under Review,15,Federal Medical Centre
+CLM-20085,Biodun Okafor,63,Male,Anambra,Standard,Outpatient,37200,Approved,6,Federal Medical Centre
+CLM-20086,Ngozi Ibrahim,51,Female,Ogun,Executive,Surgery,1405100,Approved,8,State Specialist Hospital
+CLM-20087,Femi Ibrahim,73,Male,Katsina,Premium,Dental,25000,Approved,5,Federal Medical Centre
+CLM-20088,Blessing Nnaji,53,Female,Ogun,Basic,Surgery,830000,Approved,11,State Specialist Hospital
+CLM-20089,Amaka Adeyemi,37,Female,Imo,Executive,Dental,12600,Approved,2,State Specialist Hospital
+CLM-20090,Emeka Adeyemi,25,Male,Lagos,Premium,Maternity,444400,Rejected,14,Eko Hospital
+CLM-20091,Emeka Salako,18,Male,Abuja,Basic,Inpatient,210500,Under Review,22,Asokoro District Hospital
+CLM-20092,Ahmed Usman,46,Male,Katsina,Basic,Maternity,187000,Pending,22,State Specialist Hospital
+CLM-20093,Kunle Usman,55,Male,Abuja,Executive,Inpatient,773900,Under Review,21,Garki Hospital
+CLM-20094,Ibrahim Nwosu,25,Male,Lagos,Standard,Maternity,100800,Approved,8,Reddington Hospital
+CLM-20095,Adeleke Okafor,40,Male,Anambra,Standard,Dental,19300,Rejected,10,Federal Medical Centre
+CLM-20096,Obinna Balogun,48,Male,Delta,Executive,Maternity,436500,Rejected,9,Federal Medical Centre
+CLM-20097,Aisha Danjuma,30,Female,Kaduna,Premium,Inpatient,756700,Approved,16,State Specialist Hospital
+CLM-20098,Biodun Usman,50,Male,Ogun,Premium,Dental,13900,Approved,12,General Hospital
+CLM-20099,Zainab Okafor,39,Female,Katsina,Premium,Surgery,766600,Approved,12,Federal Medical Centre
+CLM-20100,Blessing Abubakar,60,Female,Delta,Basic,Maternity,185600,Rejected,11,Federal Medical Centre
+CLM-20101,Aisha Danjuma,33,Female,Delta,Premium,Surgery,400600,Approved,7,General Hospital
+CLM-20102,Chidinma Ibrahim,52,Female,Akwa Ibom,Basic,Optical,23900,Approved,1,General Hospital
+CLM-20103,Chidinma Eze,21,Female,Enugu,Executive,Optical,13200,Approved,8,State Specialist Hospital
+CLM-20104,Hauwa Ibrahim,38,Female,Ogun,Premium,Surgery,581600,Rejected,19,General Hospital
+CLM-20105,Chidinma Danjuma,33,Female,Edo,Standard,Optical,35300,Rejected,10,State Specialist Hospital
+CLM-20106,Amaka Salako,63,Female,Enugu,Basic,Dental,12200,Approved,6,Federal Medical Centre
+CLM-20107,Ibrahim Okonkwo,52,Male,Ogun,Basic,Emergency,301800,Rejected,11,General Hospital
+CLM-20108,Tunde Ibrahim,44,Male,Kaduna,Premium,Surgery,1218000,Rejected,13,General Hospital
+CLM-20109,Segun Adeyemi,34,Male,Imo,Premium,Maternity,409000,Rejected,10,General Hospital
+CLM-20110,Segun Salako,26,Male,Lagos,Executive,Emergency,201900,Approved,6,St. Nicholas Hospital
+CLM-20111,Chidi Ibrahim,38,Male,Abuja,Standard,Dental,53100,Rejected,6,Asokoro District Hospital
+CLM-20112,Yusuf Okafor,39,Male,Plateau,Standard,Maternity,356100,Approved,12,General Hospital
+CLM-20113,Fatima Okonkwo,46,Female,Akwa Ibom,Standard,Maternity,356100,Approved,4,State Specialist Hospital
+CLM-20114,Aisha Adeleke,72,Female,Anambra,Basic,Surgery,330200,Pending,22,General Hospital
+CLM-20115,Folake Lawal,56,Female,Anambra,Executive,Optical,35700,Pending,12,State Specialist Hospital
+CLM-20116,Chidi Okonkwo,28,Male,Edo,Premium,Maternity,322500,Approved,7,General Hospital
+CLM-20117,Ahmed Adeyemi,63,Male,Plateau,Standard,Dental,15700,Approved,4,General Hospital
+CLM-20118,Ifeoma Okafor,44,Female,Plateau,Standard,Emergency,423200,Approved,6,General Hospital
+CLM-20119,Chidi Usman,30,Male,Imo,Standard,Inpatient,405200,Rejected,15,General Hospital
+CLM-20120,Blessing Adeleke,32,Female,Kaduna,Premium,Surgery,544300,Rejected,11,General Hospital
+CLM-20121,Tunde Adeleke,50,Male,Plateau,Executive,Inpatient,1012800,Approved,7,General Hospital
+CLM-20122,Ifeoma Danjuma,66,Female,Abuja,Standard,Outpatient,66900,Approved,6,Asokoro District Hospital
+CLM-20123,Fatima Salako,62,Female,Kaduna,Standard,Dental,15600,Approved,13,State Specialist Hospital
+CLM-20124,Segun Balogun,20,Male,Katsina,Executive,Dental,32700,Approved,6,Federal Medical Centre
+CLM-20125,Aisha Danjuma,21,Female,Rivers,Standard,Inpatient,584800,Approved,9,University of Port Harcourt Teaching Hospital
+CLM-20126,Ngozi Okonkwo,61,Female,Katsina,Standard,Surgery,1218500,Approved,7,General Hospital
+CLM-20127,Segun Danjuma,28,Male,Ogun,Executive,Inpatient,754000,Approved,12,State Specialist Hospital
+CLM-20128,Kunle Ibrahim,53,Male,Kaduna,Executive,Maternity,403500,Under Review,9,Federal Medical Centre
+CLM-20129,Obinna Adeyemi,33,Male,Kano,Basic,Maternity,198800,Approved,20,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20130,Biodun Ibrahim,41,Male,Imo,Basic,Surgery,574700,Pending,13,Federal Medical Centre
+CLM-20131,Yusuf Adeyemi,33,Male,Plateau,Basic,Maternity,102200,Rejected,8,Federal Medical Centre
+CLM-20132,Fatima Lawal,59,Female,Ogun,Executive,Inpatient,630600,Approved,8,General Hospital
+CLM-20133,Hauwa Adeyemi,51,Female,Kaduna,Basic,Maternity,141600,Rejected,9,Federal Medical Centre
+CLM-20134,Yusuf Nwosu,65,Male,Kaduna,Standard,Outpatient,25300,Under Review,21,State Specialist Hospital
+CLM-20135,Aisha Nnaji,51,Female,Akwa Ibom,Basic,Surgery,268700,Rejected,11,State Specialist Hospital
+CLM-20136,Aisha Ibrahim,24,Female,Lagos,Premium,Maternity,151700,Approved,7,Reddington Hospital
+CLM-20137,Zainab Adeleke,32,Female,Edo,Standard,Inpatient,587600,Pending,27,General Hospital
+CLM-20138,Adaeze Abubakar,38,Female,Edo,Basic,Optical,22600,Under Review,24,General Hospital
+CLM-20139,Ahmed Okonkwo,46,Male,Imo,Standard,Surgery,540200,Pending,15,State Specialist Hospital
+CLM-20140,Femi Danjuma,30,Male,Kano,Premium,Maternity,470300,Approved,3,Aminu Kano Teaching Hospital
+CLM-20141,Musa Usman,73,Male,Oyo,Standard,Inpatient,411800,Rejected,11,Ring Road State Hospital
+CLM-20142,Yusuf Abubakar,43,Male,Lagos,Standard,Optical,38900,Under Review,23,Eko Hospital
+CLM-20143,Yusuf Ibrahim,52,Male,Abuja,Executive,Inpatient,364600,Rejected,12,Asokoro District Hospital
+CLM-20144,Fatima Adeyemi,72,Female,Ogun,Premium,Surgery,1272300,Approved,8,Federal Medical Centre
+CLM-20145,Sola Balogun,62,Female,Abuja,Premium,Outpatient,12400,Approved,3,Asokoro District Hospital
+CLM-20146,Ahmed Lawal,37,Male,Abuja,Standard,Emergency,330200,Rejected,12,Garki Hospital
+CLM-20147,Kola Salako,49,Male,Kano,Standard,Maternity,417400,Approved,11,Aminu Kano Teaching Hospital
+CLM-20148,Musa Danjuma,26,Male,Kaduna,Standard,Surgery,1080200,Rejected,7,General Hospital
+CLM-20149,Chidi Adeleke,20,Male,Enugu,Premium,Inpatient,737200,Approved,8,State Specialist Hospital
+CLM-20150,Biodun Adeleke,46,Male,Edo,Standard,Surgery,1350600,Approved,12,Federal Medical Centre
+CLM-20151,Fatima Ibrahim,49,Female,Kaduna,Standard,Emergency,416300,Rejected,13,State Specialist Hospital
+CLM-20152,Ifeoma Ibrahim,44,Female,Lagos,Basic,Outpatient,40100,Rejected,10,Meridian Hospital
+CLM-20153,Chidinma Usman,69,Female,Delta,Basic,Dental,21700,Under Review,17,General Hospital
+CLM-20154,Yusuf Lawal,37,Male,Imo,Standard,Optical,24300,Approved,3,State Specialist Hospital
+CLM-20155,Kola Balogun,23,Male,Kaduna,Standard,Optical,9700,Pending,7,Federal Medical Centre
+CLM-20156,Ngozi Adeyemi,48,Female,Abuja,Basic,Emergency,138000,Approved,8,Garki Hospital
+CLM-20157,Obinna Nnaji,52,Male,Lagos,Premium,Optical,28200,Approved,9,Reddington Hospital
+CLM-20158,Zainab Salako,48,Female,Edo,Premium,Optical,18100,Rejected,14,State Specialist Hospital
+CLM-20159,Kola Abubakar,67,Male,Enugu,Standard,Outpatient,27600,Approved,14,Federal Medical Centre
+CLM-20160,Ifeoma Ibrahim,68,Female,Rivers,Premium,Outpatient,55100,Approved,7,Kelsey Harrison Hospital
+CLM-20161,Chidinma Lawal,35,Female,Akwa Ibom,Standard,Inpatient,106100,Approved,15,General Hospital
+CLM-20162,Amaka Salako,61,Female,Edo,Premium,Optical,19900,Pending,19,General Hospital
+CLM-20163,Ibrahim Usman,67,Male,Ogun,Standard,Surgery,1314700,Pending,16,Federal Medical Centre
+CLM-20164,Femi Lawal,46,Male,Lagos,Premium,Surgery,1102900,Rejected,11,Reddington Hospital
+CLM-20165,Hauwa Adeleke,57,Female,Plateau,Standard,Surgery,770400,Rejected,16,State Specialist Hospital
+CLM-20166,Kunle Salako,26,Male,Oyo,Basic,Surgery,808700,Approved,3,Ring Road State Hospital
+CLM-20167,Kunle Adeyemi,24,Male,Delta,Basic,Optical,12200,Approved,1,State Specialist Hospital
+CLM-20168,Fatima Abubakar,29,Female,Imo,Standard,Emergency,320700,Approved,9,General Hospital
+CLM-20169,Ngozi Salako,56,Female,Kano,Executive,Outpatient,92200,Pending,23,Aminu Kano Teaching Hospital
+CLM-20170,Ibrahim Okafor,45,Male,Oyo,Basic,Surgery,882900,Approved,7,Jericho Hospital
+CLM-20171,Hauwa Adeleke,69,Female,Kano,Standard,Maternity,315200,Approved,12,Aminu Kano Teaching Hospital
+CLM-20172,Fatima Nwosu,36,Female,Imo,Premium,Maternity,369000,Approved,5,Federal Medical Centre
+CLM-20173,Ibrahim Adeyemi,37,Male,Delta,Executive,Inpatient,1086000,Rejected,8,General Hospital
+CLM-20174,Sola Balogun,33,Female,Rivers,Executive,Surgery,1057600,Pending,19,Kelsey Harrison Hospital
+CLM-20175,Chidi Nwosu,52,Male,Oyo,Standard,Optical,22300,Approved,4,Jericho Hospital
+CLM-20176,Fatima Okafor,67,Female,Kano,Standard,Inpatient,255700,Approved,8,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20177,Sola Salako,32,Female,Delta,Standard,Emergency,142700,Approved,1,Federal Medical Centre
+CLM-20178,Ngozi Balogun,54,Female,Lagos,Basic,Outpatient,15100,Approved,9,Reddington Hospital
+CLM-20179,Ngozi Balogun,39,Female,Rivers,Basic,Maternity,141800,Pending,22,Braithwaite Memorial Hospital
+CLM-20180,Aisha Nnaji,64,Female,Enugu,Premium,Dental,10400,Under Review,16,General Hospital
+CLM-20181,Amaka Abubakar,42,Female,Plateau,Premium,Outpatient,44600,Approved,14,General Hospital
+CLM-20182,Amaka Nwosu,40,Female,Kano,Standard,Outpatient,20700,Approved,4,Aminu Kano Teaching Hospital
+CLM-20183,Kola Danjuma,45,Male,Akwa Ibom,Standard,Inpatient,384000,Under Review,9,Federal Medical Centre
+CLM-20184,Adeleke Balogun,43,Male,Imo,Premium,Surgery,438300,Approved,5,State Specialist Hospital
+CLM-20185,Blessing Ibrahim,58,Female,Delta,Premium,Emergency,312100,Rejected,8,General Hospital
+CLM-20186,Tunde Okafor,41,Male,Plateau,Premium,Emergency,185600,Pending,18,General Hospital
+CLM-20187,Biodun Eze,60,Male,Kano,Premium,Outpatient,21500,Under Review,22,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20188,Femi Okonkwo,31,Male,Kano,Standard,Surgery,436300,Under Review,18,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20189,Segun Adeyemi,64,Male,Edo,Standard,Outpatient,68600,Approved,1,General Hospital
+CLM-20190,Chidi Ibrahim,19,Male,Kaduna,Basic,Maternity,174800,Approved,3,General Hospital
+CLM-20191,Chidi Okonkwo,70,Male,Akwa Ibom,Premium,Dental,37000,Approved,4,General Hospital
+CLM-20192,Ngozi Eze,47,Female,Plateau,Basic,Emergency,314700,Rejected,14,Federal Medical Centre
+CLM-20193,Ahmed Okafor,74,Male,Kano,Standard,Maternity,176500,Pending,13,Aminu Kano Teaching Hospital
+CLM-20194,Folake Eze,66,Female,Akwa Ibom,Standard,Emergency,372400,Pending,14,Federal Medical Centre
+CLM-20195,Yusuf Eze,27,Male,Rivers,Premium,Surgery,5493500,Rejected,17,University of Port Harcourt Teaching Hospital
+CLM-20196,Blessing Nnaji,44,Female,Katsina,Standard,Surgery,392000,Approved,12,General Hospital
+CLM-20197,Ahmed Eze,32,Male,Akwa Ibom,Basic,Surgery,502200,Approved,5,State Specialist Hospital
+CLM-20198,Ahmed Adeyemi,30,Male,Plateau,Standard,Dental,37500,Pending,11,State Specialist Hospital
+CLM-20199,Ngozi Nnaji,65,Female,Anambra,Basic,Outpatient,38000,Rejected,17,State Specialist Hospital
+CLM-20200,Biodun Eze,73,Male,Imo,Basic,Outpatient,15400,Approved,9,Federal Medical Centre
+CLM-20201,Hauwa Usman,55,Female,Edo,Premium,Surgery,1050500,Pending,19,Federal Medical Centre
+CLM-20202,Amaka Eze,60,Female,Ogun,Basic,Inpatient,109000,Approved,7,General Hospital
+CLM-20203,Ifeoma Nnaji,63,Female,Plateau,Premium,Outpatient,65200,Approved,10,General Hospital
+CLM-20204,Ifeoma Okafor,62,Female,Abuja,Basic,Dental,26700,Approved,5,Maitama District Hospital
+CLM-20205,Yetunde Salako,70,Female,Edo,Basic,Maternity,153800,Under Review,19,State Specialist Hospital
+CLM-20206,Fatima Adeleke,33,Female,Kaduna,Standard,Surgery,1363800,Approved,3,State Specialist Hospital
+CLM-20207,Amaka Nwosu,29,Female,Abuja,Standard,Outpatient,75900,Approved,15,Garki Hospital
+CLM-20208,Musa Nwosu,75,Male,Plateau,Basic,Maternity,186400,Pending,8,State Specialist Hospital
+CLM-20209,Blessing Ibrahim,48,Female,Oyo,Premium,Inpatient,280700,Approved,3,Jericho Hospital
+CLM-20210,Biodun Okonkwo,47,Male,Delta,Standard,Surgery,964700,Approved,12,Federal Medical Centre
+CLM-20211,Fatima Lawal,49,Female,Akwa Ibom,Standard,Outpatient,41300,Pending,16,Federal Medical Centre
+CLM-20212,Segun Balogun,38,Male,Plateau,Basic,Surgery,414300,Approved,7,General Hospital
+CLM-20213,Amaka Okafor,20,Female,Rivers,Premium,Dental,57000,Approved,9,Braithwaite Memorial Hospital
+CLM-20214,Amaka Nnaji,56,Female,Lagos,Basic,Maternity,248500,Approved,6,Eko Hospital
+CLM-20215,Ibrahim Nwosu,23,Male,Ogun,Standard,Optical,11100,Under Review,38,General Hospital
+CLM-20216,Chidi Adeyemi,46,Male,Anambra,Premium,Maternity,384300,Pending,22,Federal Medical Centre
+CLM-20217,Tunde Nnaji,58,Male,Delta,Standard,Emergency,42200,Approved,6,Federal Medical Centre
+CLM-20218,Yusuf Okafor,49,Male,Lagos,Executive,Optical,35800,Approved,4,Lagos Island General Hospital
+CLM-20219,Musa Danjuma,37,Male,Ogun,Basic,Emergency,189600,Under Review,20,General Hospital
+CLM-20220,Tunde Usman,20,Male,Edo,Premium,Optical,21200,Approved,2,General Hospital
+CLM-20221,Tunde Ibrahim,72,Male,Anambra,Standard,Dental,24300,Approved,3,General Hospital
+CLM-20222,Musa Nnaji,64,Male,Rivers,Standard,Dental,51600,Approved,14,University of Port Harcourt Teaching Hospital
+CLM-20223,Biodun Okonkwo,67,Male,Katsina,Basic,Inpatient,170700,Pending,21,General Hospital
+CLM-20224,Musa Danjuma,64,Male,Kaduna,Premium,Inpatient,277900,Under Review,12,Federal Medical Centre
+CLM-20225,Yusuf Abubakar,57,Male,Edo,Standard,Emergency,126600,Approved,9,State Specialist Hospital
+CLM-20226,Biodun Balogun,29,Male,Enugu,Standard,Inpatient,306800,Approved,7,Federal Medical Centre
+CLM-20227,Ngozi Ibrahim,39,Female,Ogun,Premium,Emergency,529800,Rejected,13,General Hospital
+CLM-20228,Aisha Okafor,60,Female,Plateau,Standard,Surgery,1168700,Approved,8,General Hospital
+CLM-20229,Fatima Ibrahim,43,Female,Oyo,Standard,Optical,19000,Rejected,12,Ring Road State Hospital
+CLM-20230,Adaeze Okafor,51,Female,Delta,Basic,Outpatient,28600,Pending,21,State Specialist Hospital
+CLM-20231,Musa Okafor,50,Male,Imo,Basic,Emergency,351200,Rejected,15,Federal Medical Centre
+CLM-20232,Yetunde Abubakar,69,Female,Kano,Executive,Optical,45800,Under Review,13,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20233,Biodun Danjuma,56,Male,Rivers,Basic,Maternity,204000,Under Review,22,Kelsey Harrison Hospital
+CLM-20234,Blessing Lawal,46,Female,Delta,Standard,Maternity,328400,Approved,5,Federal Medical Centre
+CLM-20235,Femi Ibrahim,61,Male,Plateau,Premium,Optical,12700,Pending,29,Federal Medical Centre
+CLM-20236,Biodun Okafor,20,Male,Anambra,Premium,Inpatient,615600,Approved,3,State Specialist Hospital
+CLM-20237,Segun Abubakar,29,Male,Katsina,Premium,Optical,25900,Approved,11,State Specialist Hospital
+CLM-20238,Segun Lawal,34,Male,Oyo,Premium,Dental,24800,Approved,1,Ring Road State Hospital
+CLM-20239,Kola Okonkwo,28,Male,Katsina,Premium,Optical,14900,Approved,4,General Hospital
+CLM-20240,Obinna Nwosu,24,Male,Katsina,Standard,Optical,13000,Approved,8,State Specialist Hospital
+CLM-20241,Ifeoma Nnaji,65,Female,Enugu,Premium,Emergency,265300,Approved,2,Federal Medical Centre
+CLM-20242,Ifeoma Okonkwo,71,Female,Rivers,Executive,Emergency,418100,Approved,3,Braithwaite Memorial Hospital
+CLM-20243,Fatima Adeyemi,59,Female,Ogun,Standard,Optical,32800,Under Review,17,State Specialist Hospital
+CLM-20244,Zainab Danjuma,61,Female,Akwa Ibom,Premium,Outpatient,57200,Approved,8,General Hospital
+CLM-20245,Blessing Abubakar,36,Female,Delta,Executive,Inpatient,231300,Approved,1,General Hospital
+CLM-20246,Fatima Usman,62,Female,Enugu,Basic,Optical,14600,Approved,5,State Specialist Hospital
+CLM-20247,Biodun Usman,20,Male,Kano,Standard,Dental,34200,Rejected,3,Aminu Kano Teaching Hospital
+CLM-20248,Yusuf Nwosu,22,Male,Oyo,Premium,Surgery,723300,Approved,5,Ring Road State Hospital
+CLM-20249,Adaeze Adeyemi,49,Female,Akwa Ibom,Executive,Surgery,583700,Pending,10,General Hospital
+CLM-20250,Tunde Salako,29,Male,Akwa Ibom,Standard,Outpatient,79600,Approved,12,Federal Medical Centre
+CLM-20251,Adeleke Adeyemi,38,Male,Kaduna,Standard,Outpatient,22400,Approved,8,State Specialist Hospital
+CLM-20252,Blessing Ibrahim,73,Female,Enugu,Basic,Optical,23900,Approved,6,State Specialist Hospital
+CLM-20253,Obinna Okonkwo,66,Male,Ogun,Standard,Outpatient,30100,Approved,8,Federal Medical Centre
+CLM-20254,Chidi Lawal,49,Male,Delta,Basic,Surgery,826700,Rejected,16,General Hospital
+CLM-20255,Emeka Okafor,33,Male,Kano,Standard,Outpatient,23100,Approved,15,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20256,Aisha Salako,34,Female,Enugu,Standard,Emergency,449600,Approved,11,General Hospital
+CLM-20257,Kunle Nnaji,55,Male,Plateau,Premium,Inpatient,327900,Approved,6,State Specialist Hospital
+CLM-20258,Aisha Danjuma,64,Female,Oyo,Standard,Surgery,486400,Approved,6,Ring Road State Hospital
+CLM-20259,Yusuf Okonkwo,70,Male,Plateau,Executive,Maternity,571900,Approved,6,General Hospital
+CLM-20260,Zainab Nwosu,68,Female,Rivers,Standard,Optical,25800,Rejected,11,Braithwaite Memorial Hospital
+CLM-20261,Tunde Abubakar,42,Male,Ogun,Basic,Outpatient,9800,Pending,17,General Hospital
+CLM-20262,Yetunde Salako,62,Female,Imo,Standard,Outpatient,57400,Approved,3,State Specialist Hospital
+CLM-20263,Ngozi Ibrahim,27,Female,Plateau,Basic,Surgery,636900,Rejected,17,Federal Medical Centre
+CLM-20264,Ifeoma Nwosu,62,Female,Rivers,Premium,Inpatient,489100,Approved,10,Braithwaite Memorial Hospital
+CLM-20265,Adaeze Okafor,42,Female,Delta,Standard,Maternity,443600,Approved,1,General Hospital
+CLM-20266,Ngozi Usman,44,Female,Ogun,Standard,Emergency,336800,Pending,19,State Specialist Hospital
+CLM-20267,Chidi Adeleke,44,Male,Enugu,Standard,Surgery,1102000,Approved,7,General Hospital
+CLM-20268,Musa Salako,52,Male,Enugu,Standard,Outpatient,58300,Rejected,15,Federal Medical Centre
+CLM-20269,Ibrahim Salako,36,Male,Oyo,Executive,Emergency,744800,Approved,9,Jericho Hospital
+CLM-20270,Tunde Lawal,52,Male,Rivers,Standard,Outpatient,55300,Under Review,26,Kelsey Harrison Hospital
+CLM-20271,Biodun Balogun,57,Male,Anambra,Basic,Emergency,206600,Pending,17,State Specialist Hospital
+CLM-20272,Ngozi Okafor,31,Female,Oyo,Standard,Optical,33000,Rejected,4,Ring Road State Hospital
+CLM-20273,Emeka Okafor,51,Male,Akwa Ibom,Basic,Optical,18700,Approved,3,General Hospital
+CLM-20274,Sola Nwosu,62,Female,Imo,Premium,Surgery,1220300,Approved,7,Federal Medical Centre
+CLM-20275,Sola Eze,43,Female,Kano,Basic,Dental,15600,Pending,31,Aminu Kano Teaching Hospital
+CLM-20276,Adeleke Ibrahim,67,Male,Akwa Ibom,Standard,Dental,42000,Rejected,4,State Specialist Hospital
+CLM-20277,Fatima Usman,75,Female,Imo,Standard,Outpatient,38100,Rejected,3,General Hospital
+CLM-20278,Biodun Abubakar,65,Male,Kano,Standard,Emergency,187800,Approved,11,Aminu Kano Teaching Hospital
+CLM-20279,Chidi Salako,54,Male,Katsina,Basic,Outpatient,28300,Approved,2,State Specialist Hospital
+CLM-20280,Tunde Danjuma,70,Male,Kaduna,Premium,Outpatient,11500,Approved,11,General Hospital
+CLM-20281,Ifeoma Danjuma,45,Female,Oyo,Standard,Maternity,138300,Pending,18,University College Hospital Ibadan
+CLM-20282,Kunle Okafor,67,Male,Anambra,Basic,Inpatient,341000,Pending,11,State Specialist Hospital
+CLM-20283,Hauwa Okonkwo,25,Female,Enugu,Standard,Dental,25600,Approved,6,General Hospital
+CLM-20284,Biodun Lawal,22,Male,Akwa Ibom,Standard,Dental,12700,Approved,9,General Hospital
+CLM-20285,Blessing Balogun,19,Female,Edo,Basic,Surgery,357300,Approved,5,Federal Medical Centre
+CLM-20286,Biodun Okonkwo,49,Male,Kaduna,Premium,Inpatient,629700,Rejected,6,General Hospital
+CLM-20287,Musa Okonkwo,26,Male,Kaduna,Standard,Maternity,262000,Approved,14,State Specialist Hospital
+CLM-20288,Yetunde Okonkwo,23,Female,Enugu,Standard,Inpatient,108200,Approved,6,State Specialist Hospital
+CLM-20289,Sola Nwosu,53,Female,Oyo,Basic,Optical,20300,Approved,12,University College Hospital Ibadan
+CLM-20290,Emeka Nnaji,55,Male,Ogun,Premium,Dental,51600,Pending,21,State Specialist Hospital
+CLM-20291,Ahmed Eze,28,Male,Delta,Standard,Optical,24300,Approved,9,State Specialist Hospital
+CLM-20292,Tunde Adeleke,49,Male,Oyo,Standard,Emergency,285400,Approved,10,Jericho Hospital
+CLM-20293,Obinna Nwosu,69,Male,Ogun,Executive,Optical,33800,Approved,4,General Hospital
+CLM-20294,Adaeze Salako,36,Female,Katsina,Executive,Outpatient,81900,Approved,8,Federal Medical Centre
+CLM-20295,Tunde Nwosu,64,Male,Plateau,Premium,Inpatient,283600,Approved,6,General Hospital
+CLM-20296,Folake Nwosu,73,Female,Kaduna,Standard,Emergency,522500,Approved,11,State Specialist Hospital
+CLM-20297,Fatima Balogun,32,Female,Edo,Standard,Maternity,398800,Approved,12,General Hospital
+CLM-20298,Folake Nwosu,56,Female,Plateau,Basic,Optical,15500,Approved,7,General Hospital
+CLM-20299,Kola Lawal,45,Male,Plateau,Executive,Maternity,734200,Pending,16,State Specialist Hospital
+CLM-20300,Kunle Ibrahim,44,Male,Anambra,Basic,Dental,19000,Approved,10,State Specialist Hospital
+CLM-20301,Ibrahim Adeleke,68,Male,Anambra,Standard,Emergency,306100,Pending,16,Federal Medical Centre
+CLM-20302,Tunde Nwosu,71,Male,Oyo,Standard,Inpatient,155700,Approved,6,University College Hospital Ibadan
+CLM-20303,Segun Nwosu,24,Male,Rivers,Standard,Emergency,575500,Approved,15,Braithwaite Memorial Hospital
+CLM-20304,Chidinma Danjuma,32,Female,Edo,Basic,Surgery,875400,Approved,1,Federal Medical Centre
+CLM-20305,Adeleke Adeleke,51,Male,Anambra,Basic,Emergency,164300,Approved,8,State Specialist Hospital
+CLM-20306,Kola Ibrahim,51,Male,Abuja,Executive,Surgery,1876400,Approved,13,Maitama District Hospital
+CLM-20307,Fatima Lawal,62,Female,Imo,Standard,Outpatient,69300,Approved,8,State Specialist Hospital
+CLM-20308,Blessing Nwosu,61,Female,Katsina,Standard,Inpatient,684400,Pending,13,General Hospital
+CLM-20309,Ifeoma Lawal,56,Female,Abuja,Standard,Inpatient,424100,Approved,1,National Hospital Abuja
+CLM-20310,Tunde Abubakar,30,Male,Katsina,Executive,Maternity,630100,Approved,12,State Specialist Hospital
+CLM-20311,Chidinma Balogun,45,Female,Enugu,Basic,Emergency,300900,Pending,18,State Specialist Hospital
+CLM-20312,Adaeze Lawal,57,Female,Kano,Premium,Outpatient,48400,Approved,5,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20313,Kunle Nnaji,62,Male,Kano,Basic,Optical,8500,Approved,10,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20314,Segun Ibrahim,69,Male,Abuja,Executive,Surgery,835800,Rejected,7,Garki Hospital
+CLM-20315,Adeleke Adeyemi,53,Male,Oyo,Standard,Maternity,307400,Approved,3,Jericho Hospital
+CLM-20316,Kunle Okafor,23,Male,Oyo,Standard,Inpatient,392600,Approved,5,University College Hospital Ibadan
+CLM-20317,Musa Lawal,55,Male,Delta,Standard,Optical,9900,Approved,10,Federal Medical Centre
+CLM-20318,Yetunde Adeyemi,22,Female,Katsina,Standard,Surgery,693800,Pending,23,Federal Medical Centre
+CLM-20319,Sola Okonkwo,41,Female,Katsina,Premium,Outpatient,57100,Approved,13,State Specialist Hospital
+CLM-20320,Segun Okonkwo,47,Male,Oyo,Premium,Outpatient,77900,Under Review,20,Ring Road State Hospital
+CLM-20321,Yusuf Nnaji,39,Male,Imo,Standard,Maternity,139900,Approved,4,Federal Medical Centre
+CLM-20322,Ngozi Lawal,21,Female,Ogun,Standard,Maternity,231600,Under Review,26,General Hospital
+CLM-20323,Ifeoma Usman,57,Female,Abuja,Executive,Dental,69200,Approved,12,Maitama District Hospital
+CLM-20324,Folake Abubakar,46,Female,Plateau,Standard,Emergency,190900,Rejected,10,Federal Medical Centre
+CLM-20325,Chidi Salako,36,Male,Delta,Basic,Outpatient,24400,Pending,22,State Specialist Hospital
+CLM-20326,Femi Ibrahim,31,Male,Imo,Executive,Surgery,1137400,Approved,5,Federal Medical Centre
+CLM-20327,Kola Eze,55,Male,Rivers,Standard,Optical,37600,Rejected,3,Kelsey Harrison Hospital
+CLM-20328,Yusuf Ibrahim,20,Male,Kano,Standard,Inpatient,94800,Pending,13,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20329,Biodun Danjuma,63,Male,Anambra,Basic,Outpatient,42100,Approved,1,State Specialist Hospital
+CLM-20330,Hauwa Adeleke,56,Female,Anambra,Executive,Optical,28900,Under Review,12,Federal Medical Centre
+CLM-20331,Femi Ibrahim,43,Male,Plateau,Premium,Inpatient,358400,Rejected,14,State Specialist Hospital
+CLM-20332,Kunle Usman,65,Male,Akwa Ibom,Standard,Outpatient,77600,Rejected,17,State Specialist Hospital
+CLM-20333,Zainab Nnaji,27,Female,Plateau,Standard,Dental,57400,Rejected,15,General Hospital
+CLM-20334,Hauwa Okonkwo,50,Female,Imo,Standard,Maternity,344600,Pending,10,Federal Medical Centre
+CLM-20335,Blessing Adeleke,18,Female,Enugu,Standard,Optical,11900,Approved,1,State Specialist Hospital
+CLM-20336,Ahmed Okonkwo,45,Male,Imo,Basic,Dental,10200,Pending,16,State Specialist Hospital
+CLM-20337,Folake Okafor,40,Female,Abuja,Basic,Outpatient,34000,Rejected,5,National Hospital Abuja
+CLM-20338,Ahmed Lawal,68,Male,Edo,Premium,Outpatient,69800,Approved,15,General Hospital
+CLM-20339,Ngozi Eze,61,Female,Abuja,Premium,Surgery,1071700,Approved,9,Maitama District Hospital
+CLM-20340,Ibrahim Danjuma,74,Male,Ogun,Standard,Surgery,1059600,Approved,3,State Specialist Hospital
+CLM-20341,Folake Usman,32,Female,Ogun,Standard,Surgery,1246000,Approved,9,Federal Medical Centre
+CLM-20342,Femi Abubakar,65,Male,Edo,Executive,Maternity,397500,Approved,13,State Specialist Hospital
+CLM-20343,Segun Adeleke,22,Male,Imo,Premium,Outpatient,64000,Approved,11,State Specialist Hospital
+CLM-20344,Yetunde Balogun,62,Female,Anambra,Standard,Emergency,574700,Rejected,12,State Specialist Hospital
+CLM-20345,Biodun Usman,42,Male,Enugu,Executive,Inpatient,833000,Rejected,11,Federal Medical Centre
+CLM-20346,Obinna Okafor,21,Male,Rivers,Executive,Surgery,1030800,Pending,15,Kelsey Harrison Hospital
+CLM-20347,Sola Lawal,44,Female,Plateau,Standard,Inpatient,97600,Approved,6,General Hospital
+CLM-20348,Femi Danjuma,49,Male,Lagos,Basic,Optical,8300,Approved,2,Lagos Island General Hospital
+CLM-20349,Adeleke Usman,70,Male,Lagos,Basic,Outpatient,46400,Approved,10,Meridian Hospital
+CLM-20350,Chidinma Abubakar,54,Female,Lagos,Basic,Optical,18700,Approved,10,Lagos Island General Hospital
+CLM-20351,Ibrahim Okafor,52,Male,Abuja,Basic,Outpatient,8300,Approved,14,Maitama District Hospital
+CLM-20352,Blessing Salako,44,Female,Akwa Ibom,Basic,Inpatient,186300,Under Review,23,Federal Medical Centre
+CLM-20353,Ahmed Okonkwo,48,Male,Delta,Standard,Surgery,411900,Approved,4,State Specialist Hospital
+CLM-20354,Obinna Nwosu,35,Male,Akwa Ibom,Basic,Dental,10000,Under Review,18,Federal Medical Centre
+CLM-20355,Chidi Nwosu,36,Male,Edo,Standard,Optical,21000,Approved,9,Federal Medical Centre
+CLM-20356,Fatima Adeleke,35,Female,Kaduna,Basic,Optical,7000,Approved,8,State Specialist Hospital
+CLM-20357,Aisha Nwosu,74,Female,Anambra,Standard,Optical,16700,Approved,2,Federal Medical Centre
+CLM-20358,Sola Adeleke,57,Female,Plateau,Premium,Inpatient,261400,Approved,7,State Specialist Hospital
+CLM-20359,Adeleke Balogun,37,Male,Edo,Standard,Dental,35300,Approved,8,General Hospital
+CLM-20360,Folake Danjuma,40,Female,Rivers,Basic,Optical,6700,Under Review,18,University of Port Harcourt Teaching Hospital
+CLM-20361,Aisha Balogun,45,Female,Ogun,Premium,Dental,47900,Pending,16,General Hospital
+CLM-20362,Adeleke Okafor,73,Male,Oyo,Standard,Maternity,149400,Approved,7,Ring Road State Hospital
+CLM-20363,Emeka Balogun,58,Male,Lagos,Standard,Maternity,226900,Approved,3,Reddington Hospital
+CLM-20364,Ahmed Usman,51,Male,Rivers,Executive,Outpatient,73200,Pending,22,Braithwaite Memorial Hospital
+CLM-20365,Segun Adeyemi,48,Male,Akwa Ibom,Standard,Dental,38700,Rejected,9,State Specialist Hospital
+CLM-20366,Adeleke Nnaji,36,Male,Imo,Basic,Maternity,139100,Approved,3,State Specialist Hospital
+CLM-20367,Blessing Lawal,49,Female,Rivers,Premium,Inpatient,604500,Pending,10,Braithwaite Memorial Hospital
+CLM-20368,Chidi Eze,23,Male,Plateau,Premium,Emergency,196000,Approved,14,State Specialist Hospital
+CLM-20369,Adeleke Balogun,51,Male,Enugu,Standard,Surgery,620700,Under Review,27,State Specialist Hospital
+CLM-20370,Obinna Nwosu,45,Male,Rivers,Premium,Dental,38100,Under Review,8,Kelsey Harrison Hospital
+CLM-20371,Femi Salako,68,Male,Anambra,Premium,Inpatient,162900,Approved,1,General Hospital
+CLM-20372,Ngozi Danjuma,48,Female,Imo,Premium,Outpatient,57200,Rejected,10,Federal Medical Centre
+CLM-20373,Hauwa Okafor,32,Female,Edo,Basic,Optical,8500,Under Review,19,State Specialist Hospital
+CLM-20374,Ifeoma Salako,63,Female,Enugu,Premium,Dental,47300,Approved,4,General Hospital
+CLM-20375,Kunle Lawal,52,Male,Katsina,Basic,Dental,16200,Pending,22,State Specialist Hospital
+CLM-20376,Ahmed Nwosu,49,Male,Ogun,Premium,Surgery,432400,Approved,4,State Specialist Hospital
+CLM-20377,Sola Nwosu,29,Female,Edo,Standard,Outpatient,5200,Under Review,23,Federal Medical Centre
+CLM-20378,Chidi Ibrahim,62,Male,Anambra,Executive,Emergency,810700,Rejected,13,State Specialist Hospital
+CLM-20379,Ahmed Okafor,45,Male,Edo,Premium,Emergency,287300,Approved,4,State Specialist Hospital
+CLM-20380,Chidi Lawal,33,Male,Oyo,Premium,Surgery,1030800,Pending,7,Jericho Hospital
+CLM-20381,Yetunde Adeyemi,59,Female,Anambra,Basic,Optical,22900,Approved,7,State Specialist Hospital
+CLM-20382,Yusuf Danjuma,37,Male,Anambra,Premium,Emergency,224100,Approved,11,Federal Medical Centre
+CLM-20383,Ahmed Abubakar,33,Male,Akwa Ibom,Premium,Optical,28300,Approved,6,State Specialist Hospital
+CLM-20384,Musa Ibrahim,45,Male,Anambra,Standard,Inpatient,492700,Approved,2,Federal Medical Centre
+CLM-20385,Kola Okonkwo,69,Male,Ogun,Standard,Surgery,201400,Approved,12,General Hospital
+CLM-20386,Chidi Okafor,32,Male,Kano,Premium,Dental,38600,Under Review,8,Aminu Kano Teaching Hospital
+CLM-20387,Segun Abubakar,20,Male,Akwa Ibom,Executive,Surgery,1620700,Approved,10,State Specialist Hospital
+CLM-20388,Zainab Okonkwo,60,Female,Plateau,Basic,Maternity,264100,Under Review,7,State Specialist Hospital
+CLM-20389,Amaka Nwosu,53,Female,Lagos,Basic,Maternity,206900,Under Review,18,St. Nicholas Hospital
+CLM-20390,Sola Nwosu,56,Female,Imo,Premium,Emergency,525800,Rejected,14,Federal Medical Centre
+CLM-20391,Yetunde Danjuma,41,Female,Kano,Standard,Surgery,353900,Under Review,19,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20392,Kola Balogun,65,Male,Lagos,Premium,Dental,11800,Approved,8,Lagos Island General Hospital
+CLM-20393,Chidi Okonkwo,23,Male,Enugu,Executive,Maternity,691100,Under Review,27,General Hospital
+CLM-20394,Chidinma Ibrahim,72,Female,Imo,Standard,Emergency,95900,Rejected,6,State Specialist Hospital
+CLM-20395,Chidinma Adeyemi,39,Female,Imo,Standard,Outpatient,15600,Under Review,28,Federal Medical Centre
+CLM-20396,Hauwa Balogun,33,Female,Edo,Standard,Surgery,983400,Pending,19,State Specialist Hospital
+CLM-20397,Femi Usman,31,Male,Kaduna,Basic,Inpatient,193100,Approved,8,State Specialist Hospital
+CLM-20398,Fatima Usman,27,Female,Anambra,Basic,Optical,16400,Approved,8,General Hospital
+CLM-20399,Musa Adeyemi,70,Male,Imo,Basic,Outpatient,30800,Approved,2,General Hospital
+CLM-20400,Chidinma Abubakar,64,Female,Kano,Standard,Optical,30000,Pending,17,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20401,Ibrahim Lawal,70,Male,Katsina,Executive,Surgery,971800,Approved,3,Federal Medical Centre
+CLM-20402,Sola Danjuma,28,Female,Plateau,Standard,Outpatient,72100,Pending,5,State Specialist Hospital
+CLM-20403,Hauwa Lawal,43,Female,Edo,Basic,Optical,8400,Approved,8,State Specialist Hospital
+CLM-20404,Yusuf Okafor,68,Male,Delta,Executive,Maternity,521600,Under Review,23,State Specialist Hospital
+CLM-20405,Chidinma Nwosu,54,Female,Ogun,Standard,Inpatient,278200,Approved,8,State Specialist Hospital
+CLM-20406,Femi Adeleke,31,Male,Edo,Basic,Emergency,264000,Under Review,21,General Hospital
+CLM-20407,Chidinma Adeleke,35,Female,Plateau,Standard,Optical,12700,Approved,6,State Specialist Hospital
+CLM-20408,Chidinma Ibrahim,32,Female,Kano,Standard,Dental,35200,Approved,10,Aminu Kano Teaching Hospital
+CLM-20409,Kola Lawal,38,Male,Imo,Standard,Surgery,872100,Approved,9,Federal Medical Centre
+CLM-20410,Fatima Nwosu,58,Female,Ogun,Premium,Outpatient,40400,Pending,14,General Hospital
+CLM-20411,Adaeze Nnaji,69,Female,Kaduna,Executive,Optical,29200,Approved,7,Federal Medical Centre
+CLM-20412,Fatima Okafor,36,Female,Imo,Premium,Maternity,126100,Rejected,11,General Hospital
+CLM-20413,Blessing Ibrahim,33,Female,Enugu,Basic,Inpatient,403900,Approved,14,General Hospital
+CLM-20414,Obinna Ibrahim,34,Male,Lagos,Standard,Emergency,433800,Pending,21,Lagos Island General Hospital
+CLM-20415,Amaka Nnaji,34,Female,Enugu,Standard,Optical,26000,Under Review,22,Federal Medical Centre
+CLM-20416,Emeka Adeyemi,52,Male,Enugu,Premium,Outpatient,23300,Approved,3,Federal Medical Centre
+CLM-20417,Femi Adeyemi,49,Male,Abuja,Standard,Optical,37500,Rejected,7,Cedarcrest Hospital
+CLM-20418,Obinna Okafor,37,Male,Kaduna,Standard,Dental,29300,Approved,6,General Hospital
+CLM-20419,Chidi Nwosu,64,Male,Ogun,Basic,Inpatient,348900,Approved,3,State Specialist Hospital
+CLM-20420,Fatima Lawal,64,Female,Lagos,Standard,Emergency,213300,Approved,6,Eko Hospital
+CLM-20421,Yetunde Danjuma,38,Female,Oyo,Basic,Maternity,260700,Under Review,24,Ring Road State Hospital
+CLM-20422,Yetunde Okafor,57,Female,Rivers,Standard,Inpatient,367000,Pending,20,Braithwaite Memorial Hospital
+CLM-20423,Amaka Danjuma,57,Female,Imo,Premium,Dental,14400,Approved,8,State Specialist Hospital
+CLM-20424,Amaka Salako,66,Female,Delta,Standard,Surgery,522500,Under Review,7,State Specialist Hospital
+CLM-20425,Chidi Usman,66,Male,Katsina,Standard,Inpatient,54200,Approved,8,Federal Medical Centre
+CLM-20426,Ahmed Okafor,43,Male,Kaduna,Premium,Dental,31300,Approved,10,Federal Medical Centre
+CLM-20427,Adaeze Lawal,19,Female,Abuja,Executive,Optical,18300,Approved,8,National Hospital Abuja
+CLM-20428,Zainab Usman,47,Female,Enugu,Basic,Inpatient,408300,Approved,11,Federal Medical Centre
+CLM-20429,Amaka Lawal,64,Female,Kano,Premium,Optical,36500,Approved,10,Aminu Kano Teaching Hospital
+CLM-20430,Yetunde Ibrahim,20,Female,Lagos,Standard,Surgery,1300700,Pending,16,Lagos Island General Hospital
+CLM-20431,Obinna Adeyemi,27,Male,Lagos,Premium,Inpatient,582700,Under Review,28,Lagos Island General Hospital
+CLM-20432,Hauwa Adeyemi,61,Female,Imo,Premium,Optical,31400,Pending,14,State Specialist Hospital
+CLM-20433,Segun Ibrahim,64,Male,Katsina,Premium,Maternity,148500,Rejected,18,State Specialist Hospital
+CLM-20434,Tunde Adeyemi,64,Male,Kano,Premium,Surgery,1292400,Approved,6,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20435,Kola Salako,48,Male,Abuja,Standard,Maternity,435200,Rejected,17,National Hospital Abuja
+CLM-20436,Folake Nwosu,74,Female,Delta,Standard,Dental,49800,Approved,7,State Specialist Hospital
+CLM-20437,Femi Usman,32,Male,Kano,Standard,Inpatient,1952100,Approved,10,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20438,Ibrahim Ibrahim,42,Male,Plateau,Premium,Maternity,196200,Approved,9,State Specialist Hospital
+CLM-20439,Adeleke Abubakar,33,Male,Akwa Ibom,Executive,Inpatient,1022200,Under Review,16,State Specialist Hospital
+CLM-20440,Tunde Usman,34,Male,Edo,Premium,Surgery,1080200,Pending,26,State Specialist Hospital
+CLM-20441,Zainab Eze,54,Female,Delta,Standard,Surgery,386000,Approved,4,Federal Medical Centre
+CLM-20442,Blessing Balogun,22,Female,Abuja,Standard,Inpatient,541400,Pending,24,Cedarcrest Hospital
+CLM-20443,Kola Nnaji,35,Male,Imo,Basic,Outpatient,38700,Rejected,15,State Specialist Hospital
+CLM-20444,Blessing Adeleke,25,Female,Enugu,Standard,Outpatient,43000,Approved,1,Federal Medical Centre
+CLM-20445,Ngozi Ibrahim,56,Female,Abuja,Premium,Inpatient,572000,Rejected,17,Garki Hospital
+CLM-20446,Adaeze Usman,40,Female,Edo,Standard,Surgery,245000,Under Review,13,State Specialist Hospital
+CLM-20447,Yusuf Danjuma,33,Male,Ogun,Basic,Emergency,63000,Approved,11,General Hospital
+CLM-20448,Biodun Nnaji,40,Male,Lagos,Basic,Emergency,87400,Rejected,12,St. Nicholas Hospital
+CLM-20449,Sola Abubakar,59,Female,Plateau,Premium,Emergency,441900,Approved,12,General Hospital
+CLM-20450,Yetunde Usman,70,Female,Imo,Basic,Maternity,197600,Rejected,14,Federal Medical Centre
+CLM-20451,Chidi Okafor,34,Male,Enugu,Standard,Outpatient,28200,Approved,13,Federal Medical Centre
+CLM-20452,Yetunde Danjuma,36,Female,Kaduna,Standard,Dental,59000,Approved,9,State Specialist Hospital
+CLM-20453,Kunle Okafor,46,Male,Rivers,Premium,Dental,22700,Rejected,16,University of Port Harcourt Teaching Hospital
+CLM-20454,Segun Okonkwo,32,Male,Oyo,Standard,Emergency,309800,Under Review,8,Jericho Hospital
+CLM-20455,Fatima Abubakar,60,Female,Oyo,Standard,Outpatient,62100,Approved,1,University College Hospital Ibadan
+CLM-20456,Ngozi Abubakar,58,Female,Katsina,Premium,Inpatient,405700,Under Review,20,General Hospital
+CLM-20457,Obinna Nnaji,29,Male,Lagos,Standard,Inpatient,299000,Approved,10,Eko Hospital
+CLM-20458,Fatima Balogun,70,Female,Edo,Standard,Optical,32800,Rejected,16,General Hospital
+CLM-20459,Chidi Balogun,32,Male,Kaduna,Standard,Optical,15000,Rejected,18,Federal Medical Centre
+CLM-20460,Kunle Nnaji,42,Male,Delta,Basic,Dental,27100,Under Review,9,General Hospital
+CLM-20461,Adeleke Abubakar,60,Male,Ogun,Standard,Maternity,479100,Under Review,19,Federal Medical Centre
+CLM-20462,Emeka Adeyemi,30,Male,Rivers,Executive,Optical,22800,Approved,12,Braithwaite Memorial Hospital
+CLM-20463,Femi Okafor,44,Male,Edo,Executive,Outpatient,43000,Rejected,8,State Specialist Hospital
+CLM-20464,Aisha Adeleke,59,Female,Abuja,Standard,Optical,37000,Approved,16,Asokoro District Hospital
+CLM-20465,Kola Eze,70,Male,Katsina,Standard,Outpatient,42100,Pending,11,General Hospital
+CLM-20466,Femi Okafor,30,Male,Enugu,Standard,Inpatient,80800,Under Review,19,Federal Medical Centre
+CLM-20467,Ibrahim Adeyemi,53,Male,Kano,Basic,Dental,35700,Under Review,27,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20468,Adeleke Lawal,56,Male,Kano,Basic,Inpatient,181400,Under Review,15,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20469,Ahmed Balogun,48,Male,Kaduna,Basic,Emergency,232300,Rejected,16,State Specialist Hospital
+CLM-20470,Aisha Ibrahim,28,Female,Delta,Basic,Emergency,94500,Approved,7,State Specialist Hospital
+CLM-20471,Folake Danjuma,37,Female,Rivers,Standard,Outpatient,60700,Pending,16,Braithwaite Memorial Hospital
+CLM-20472,Biodun Adeleke,49,Male,Kano,Basic,Emergency,276900,Under Review,21,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20473,Ibrahim Eze,32,Male,Imo,Basic,Inpatient,369000,Approved,5,Federal Medical Centre
+CLM-20474,Yetunde Usman,41,Female,Lagos,Premium,Outpatient,75100,Approved,11,Reddington Hospital
+CLM-20475,Kunle Lawal,28,Male,Akwa Ibom,Basic,Surgery,689900,Under Review,15,General Hospital
+CLM-20476,Emeka Nwosu,44,Male,Plateau,Premium,Dental,48100,Approved,10,General Hospital
+CLM-20477,Femi Danjuma,37,Male,Enugu,Premium,Inpatient,567400,Rejected,9,Federal Medical Centre
+CLM-20478,Aisha Abubakar,22,Female,Enugu,Premium,Surgery,1121100,Approved,7,State Specialist Hospital
+CLM-20479,Ngozi Nwosu,23,Female,Rivers,Standard,Inpatient,443400,Approved,1,Braithwaite Memorial Hospital
+CLM-20480,Ibrahim Okafor,73,Male,Enugu,Basic,Maternity,287300,Under Review,19,State Specialist Hospital
+CLM-20481,Obinna Ibrahim,75,Male,Plateau,Standard,Maternity,467100,Approved,9,Federal Medical Centre
+CLM-20482,Adeleke Balogun,51,Male,Rivers,Standard,Dental,45200,Under Review,14,University of Port Harcourt Teaching Hospital
+CLM-20483,Aisha Balogun,26,Female,Kaduna,Standard,Maternity,231500,Approved,10,General Hospital
+CLM-20484,Ibrahim Danjuma,75,Male,Lagos,Standard,Dental,46600,Rejected,16,Eko Hospital
+CLM-20485,Kola Ibrahim,56,Male,Enugu,Basic,Emergency,295000,Approved,11,State Specialist Hospital
+CLM-20486,Musa Adeleke,59,Male,Kano,Standard,Optical,20800,Rejected,15,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20487,Hauwa Okafor,35,Female,Edo,Standard,Surgery,532000,Rejected,18,Federal Medical Centre
+CLM-20488,Sola Balogun,51,Female,Plateau,Premium,Emergency,285800,Pending,18,State Specialist Hospital
+CLM-20489,Emeka Abubakar,35,Male,Kano,Basic,Outpatient,45600,Approved,6,Aminu Kano Teaching Hospital
+CLM-20490,Ngozi Lawal,75,Female,Edo,Standard,Maternity,281800,Rejected,14,State Specialist Hospital
+CLM-20491,Femi Danjuma,44,Male,Kano,Executive,Maternity,506900,Rejected,12,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20492,Ibrahim Nnaji,45,Male,Anambra,Standard,Outpatient,11100,Approved,10,State Specialist Hospital
+CLM-20493,Biodun Nnaji,43,Male,Edo,Standard,Outpatient,23200,Approved,14,General Hospital
+CLM-20494,Fatima Ibrahim,69,Female,Anambra,Standard,Surgery,621600,Under Review,21,General Hospital
+CLM-20495,Musa Adeyemi,72,Male,Plateau,Standard,Maternity,114900,Pending,18,State Specialist Hospital
+CLM-20496,Amaka Adeleke,40,Female,Lagos,Basic,Maternity,113100,Approved,10,Eko Hospital
+CLM-20497,Yetunde Salako,61,Female,Plateau,Executive,Maternity,631200,Approved,9,Federal Medical Centre
+CLM-20498,Biodun Adeyemi,24,Male,Kaduna,Basic,Optical,10100,Approved,9,General Hospital
+CLM-20499,Aisha Salako,61,Female,Akwa Ibom,Standard,Surgery,1041100,Pending,15,General Hospital
+CLM-20500,Obinna Adeleke,19,Male,Anambra,Premium,Dental,41700,Under Review,21,State Specialist Hospital
+CLM-20501,Obinna Okonkwo,19,Male,Kaduna,Executive,Surgery,1141400,Approved,3,State Specialist Hospital
+CLM-20502,Amaka Nnaji,35,Female,Kaduna,Standard,Emergency,362200,Approved,4,General Hospital
+CLM-20503,Ibrahim Nwosu,51,Male,Oyo,Premium,Optical,31400,Approved,9,Jericho Hospital
+CLM-20504,Amaka Adeleke,36,Female,Edo,Premium,Inpatient,95600,Under Review,29,General Hospital
+CLM-20505,Sola Lawal,48,Female,Edo,Executive,Dental,63500,Under Review,23,General Hospital
+CLM-20506,Chidi Salako,71,Male,Kaduna,Premium,Dental,9500,Approved,4,Federal Medical Centre
+CLM-20507,Chidinma Salako,47,Female,Plateau,Premium,Maternity,407800,Approved,12,State Specialist Hospital
+CLM-20508,Adaeze Danjuma,34,Female,Plateau,Premium,Inpatient,658100,Approved,9,Federal Medical Centre
+CLM-20509,Sola Usman,50,Female,Lagos,Basic,Emergency,212200,Rejected,13,Lagos Island General Hospital
+CLM-20510,Femi Okonkwo,47,Male,Imo,Basic,Surgery,738000,Approved,10,State Specialist Hospital
+CLM-20511,Amaka Adeyemi,24,Female,Imo,Standard,Emergency,216200,Approved,4,State Specialist Hospital
+CLM-20512,Aisha Salako,41,Female,Anambra,Standard,Maternity,115200,Under Review,21,Federal Medical Centre
+CLM-20513,Yusuf Okafor,49,Male,Anambra,Premium,Inpatient,552600,Approved,7,General Hospital
+CLM-20514,Sola Nwosu,36,Female,Ogun,Basic,Surgery,217500,Approved,4,State Specialist Hospital
+CLM-20515,Chidi Abubakar,48,Male,Imo,Standard,Maternity,290100,Rejected,3,Federal Medical Centre
+CLM-20516,Femi Nwosu,34,Male,Delta,Basic,Inpatient,383400,Rejected,3,State Specialist Hospital
+CLM-20517,Yetunde Salako,24,Female,Anambra,Premium,Inpatient,774800,Approved,9,Federal Medical Centre
+CLM-20518,Obinna Salako,52,Male,Enugu,Standard,Emergency,251000,Approved,10,Federal Medical Centre
+CLM-20519,Zainab Abubakar,31,Female,Anambra,Standard,Optical,36400,Approved,10,Federal Medical Centre
+CLM-20520,Adaeze Okonkwo,53,Female,Akwa Ibom,Standard,Inpatient,607600,Approved,12,General Hospital
+CLM-20521,Obinna Abubakar,26,Male,Oyo,Premium,Optical,35500,Approved,9,University College Hospital Ibadan
+CLM-20522,Femi Nnaji,73,Male,Oyo,Basic,Dental,30900,Under Review,9,Ring Road State Hospital
+CLM-20523,Blessing Salako,42,Female,Anambra,Premium,Emergency,406400,Under Review,11,General Hospital
+CLM-20524,Ifeoma Okonkwo,36,Female,Kano,Standard,Inpatient,753000,Approved,9,Aminu Kano Teaching Hospital
+CLM-20525,Yetunde Balogun,51,Female,Kano,Standard,Surgery,1345000,Approved,3,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20526,Yetunde Usman,37,Female,Akwa Ibom,Premium,Emergency,150600,Under Review,10,General Hospital
+CLM-20527,Emeka Balogun,61,Male,Anambra,Premium,Inpatient,570800,Pending,23,Federal Medical Centre
+CLM-20528,Fatima Okonkwo,52,Female,Kaduna,Premium,Emergency,74500,Under Review,21,Federal Medical Centre
+CLM-20529,Ibrahim Lawal,18,Male,Ogun,Standard,Dental,11200,Under Review,19,Federal Medical Centre
+CLM-20530,Ibrahim Salako,36,Male,Enugu,Executive,Surgery,1032600,Approved,4,Federal Medical Centre
+CLM-20531,Biodun Adeleke,20,Male,Akwa Ibom,Premium,Dental,33000,Rejected,3,General Hospital
+CLM-20532,Ngozi Adeyemi,55,Female,Lagos,Premium,Inpatient,503100,Under Review,32,Lagos Island General Hospital
+CLM-20533,Musa Adeleke,31,Male,Kaduna,Standard,Dental,50100,Approved,1,General Hospital
+CLM-20534,Zainab Okonkwo,31,Female,Delta,Standard,Dental,57900,Approved,10,General Hospital
+CLM-20535,Sola Nnaji,42,Female,Enugu,Standard,Surgery,621300,Pending,20,State Specialist Hospital
+CLM-20536,Tunde Danjuma,36,Male,Katsina,Premium,Dental,27600,Pending,22,General Hospital
+CLM-20537,Amaka Danjuma,46,Female,Abuja,Standard,Surgery,883600,Approved,8,Cedarcrest Hospital
+CLM-20538,Hauwa Balogun,24,Female,Kaduna,Premium,Optical,39300,Pending,7,Federal Medical Centre
+CLM-20539,Blessing Ibrahim,69,Female,Abuja,Basic,Maternity,114100,Approved,4,Asokoro District Hospital
+CLM-20540,Zainab Salako,61,Female,Lagos,Standard,Optical,36900,Approved,5,St. Nicholas Hospital
+CLM-20541,Ngozi Salako,52,Female,Kano,Premium,Emergency,404400,Approved,5,Aminu Kano Teaching Hospital
+CLM-20542,Ibrahim Okafor,69,Male,Ogun,Premium,Surgery,817500,Rejected,12,Federal Medical Centre
+CLM-20543,Blessing Okonkwo,34,Female,Katsina,Premium,Optical,20700,Approved,12,State Specialist Hospital
+CLM-20544,Amaka Nwosu,43,Female,Edo,Standard,Inpatient,307300,Rejected,7,Federal Medical Centre
+CLM-20545,Ifeoma Balogun,55,Female,Kano,Standard,Surgery,1130000,Rejected,18,Aminu Kano Teaching Hospital
+CLM-20546,Ahmed Adeyemi,61,Male,Abuja,Premium,Inpatient,721600,Rejected,8,Garki Hospital
+CLM-20547,Blessing Balogun,55,Female,Rivers,Standard,Outpatient,21800,Approved,3,Braithwaite Memorial Hospital
+CLM-20548,Ngozi Okonkwo,56,Female,Lagos,Premium,Outpatient,11000,Approved,6,Meridian Hospital
+CLM-20549,Blessing Nnaji,24,Female,Oyo,Basic,Emergency,172700,Under Review,19,University College Hospital Ibadan
+CLM-20550,Adaeze Okonkwo,50,Female,Abuja,Executive,Outpatient,6500,Approved,6,Garki Hospital
+CLM-20551,Emeka Balogun,33,Male,Ogun,Premium,Optical,29300,Approved,5,General Hospital
+CLM-20552,Aisha Balogun,59,Female,Anambra,Standard,Inpatient,784100,Approved,4,Federal Medical Centre
+CLM-20553,Ahmed Ibrahim,24,Male,Edo,Executive,Surgery,354600,Approved,10,State Specialist Hospital
+CLM-20554,Kunle Eze,35,Male,Delta,Executive,Outpatient,44600,Rejected,8,General Hospital
+CLM-20555,Sola Ibrahim,22,Female,Rivers,Standard,Inpatient,649400,Approved,1,Braithwaite Memorial Hospital
+CLM-20556,Fatima Danjuma,63,Female,Enugu,Basic,Maternity,279600,Approved,15,General Hospital
+CLM-20557,Yetunde Nnaji,18,Female,Ogun,Basic,Surgery,875200,Pending,17,State Specialist Hospital
+CLM-20558,Aisha Abubakar,48,Female,Imo,Executive,Maternity,153600,Approved,10,General Hospital
+CLM-20559,Chidinma Adeleke,38,Female,Lagos,Standard,Outpatient,13900,Approved,1,Reddington Hospital
+CLM-20560,Adaeze Eze,37,Female,Akwa Ibom,Standard,Surgery,1215200,Approved,7,General Hospital
+CLM-20561,Ifeoma Adeyemi,26,Female,Akwa Ibom,Premium,Maternity,434700,Under Review,22,General Hospital
+CLM-20562,Ngozi Salako,55,Female,Anambra,Premium,Inpatient,622600,Approved,10,State Specialist Hospital
+CLM-20563,Yetunde Abubakar,70,Female,Delta,Premium,Maternity,415000,Approved,7,General Hospital
+CLM-20564,Ngozi Okonkwo,46,Female,Enugu,Basic,Surgery,225600,Approved,5,General Hospital
+CLM-20565,Yusuf Salako,41,Male,Lagos,Premium,Outpatient,17700,Rejected,10,St. Nicholas Hospital
+CLM-20566,Fatima Abubakar,48,Female,Edo,Standard,Inpatient,690600,Approved,12,Federal Medical Centre
+CLM-20567,Hauwa Abubakar,65,Female,Kaduna,Premium,Optical,40000,Pending,16,Federal Medical Centre
+CLM-20568,Amaka Okafor,58,Female,Enugu,Standard,Emergency,317300,Approved,13,Federal Medical Centre
+CLM-20569,Folake Salako,65,Female,Abuja,Standard,Optical,30700,Approved,7,National Hospital Abuja
+CLM-20570,Kunle Nwosu,28,Male,Kano,Standard,Emergency,254600,Pending,21,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20571,Yusuf Balogun,64,Male,Rivers,Basic,Emergency,68900,Rejected,13,Braithwaite Memorial Hospital
+CLM-20572,Aisha Usman,26,Female,Imo,Standard,Dental,51700,Rejected,18,Federal Medical Centre
+CLM-20573,Ibrahim Eze,31,Male,Ogun,Standard,Maternity,486700,Approved,7,Federal Medical Centre
+CLM-20574,Kola Nnaji,26,Male,Delta,Premium,Inpatient,621600,Under Review,7,State Specialist Hospital
+CLM-20575,Sola Adeleke,25,Female,Rivers,Basic,Outpatient,28500,Approved,3,Kelsey Harrison Hospital
+CLM-20576,Yetunde Usman,49,Female,Kano,Basic,Inpatient,461700,Approved,13,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20577,Adeleke Adeyemi,72,Male,Abuja,Standard,Inpatient,658600,Approved,6,Cedarcrest Hospital
+CLM-20578,Tunde Okonkwo,32,Male,Abuja,Basic,Maternity,118100,Pending,17,Garki Hospital
+CLM-20579,Musa Eze,44,Male,Delta,Basic,Emergency,273000,Rejected,20,Federal Medical Centre
+CLM-20580,Obinna Nwosu,39,Male,Katsina,Premium,Optical,10900,Under Review,11,State Specialist Hospital
+CLM-20581,Hauwa Lawal,41,Female,Ogun,Basic,Outpatient,28500,Approved,10,Federal Medical Centre
+CLM-20582,Adeleke Okafor,44,Male,Delta,Standard,Emergency,403000,Approved,9,State Specialist Hospital
+CLM-20583,Chidi Adeleke,48,Male,Delta,Standard,Inpatient,431800,Pending,5,State Specialist Hospital
+CLM-20584,Folake Danjuma,30,Female,Kano,Basic,Inpatient,211600,Pending,21,Aminu Kano Teaching Hospital
+CLM-20585,Folake Adeleke,38,Female,Enugu,Standard,Dental,27700,Approved,2,Federal Medical Centre
+CLM-20586,Kola Adeleke,47,Male,Katsina,Premium,Maternity,142100,Pending,11,State Specialist Hospital
+CLM-20587,Adeleke Balogun,33,Male,Anambra,Executive,Emergency,353200,Approved,13,Federal Medical Centre
+CLM-20588,Biodun Adeleke,18,Male,Enugu,Standard,Maternity,180900,Pending,10,State Specialist Hospital
+CLM-20589,Chidinma Abubakar,67,Female,Enugu,Premium,Outpatient,52600,Approved,5,Federal Medical Centre
+CLM-20590,Ifeoma Nnaji,64,Female,Abuja,Executive,Dental,81500,Approved,6,Cedarcrest Hospital
+CLM-20591,Zainab Lawal,61,Female,Akwa Ibom,Standard,Inpatient,786900,Rejected,12,Federal Medical Centre
+CLM-20592,Folake Nnaji,49,Female,Kano,Basic,Surgery,426700,Under Review,25,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20593,Tunde Adeyemi,65,Male,Rivers,Executive,Inpatient,6486200,Approved,12,University of Port Harcourt Teaching Hospital
+CLM-20594,Obinna Eze,59,Male,Imo,Standard,Emergency,440800,Pending,9,Federal Medical Centre
+CLM-20595,Chidinma Lawal,55,Female,Akwa Ibom,Standard,Outpatient,46900,Approved,8,General Hospital
+CLM-20596,Adaeze Okonkwo,67,Female,Delta,Basic,Dental,17600,Under Review,30,General Hospital
+CLM-20597,Kola Eze,33,Male,Edo,Basic,Maternity,273900,Approved,6,Federal Medical Centre
+CLM-20598,Obinna Nwosu,51,Male,Kano,Executive,Inpatient,1141200,Pending,11,Aminu Kano Teaching Hospital
+CLM-20599,Ngozi Abubakar,46,Female,Katsina,Standard,Outpatient,63100,Approved,15,Federal Medical Centre
+CLM-20600,Yusuf Danjuma,69,Male,Anambra,Premium,Maternity,252800,Pending,20,General Hospital
+CLM-20601,Chidinma Nnaji,68,Female,Kano,Basic,Dental,24100,Approved,2,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20602,Ahmed Abubakar,18,Male,Kano,Standard,Inpatient,528100,Under Review,29,Aminu Kano Teaching Hospital
+CLM-20603,Tunde Nnaji,71,Male,Edo,Basic,Surgery,287800,Under Review,13,General Hospital
+CLM-20604,Blessing Abubakar,29,Female,Imo,Basic,Maternity,298000,Rejected,4,State Specialist Hospital
+CLM-20605,Ibrahim Salako,54,Male,Plateau,Standard,Optical,12400,Rejected,14,Federal Medical Centre
+CLM-20606,Musa Adeyemi,32,Male,Rivers,Executive,Dental,23200,Approved,9,University of Port Harcourt Teaching Hospital
+CLM-20607,Blessing Balogun,61,Female,Oyo,Basic,Optical,9200,Approved,9,Ring Road State Hospital
+CLM-20608,Segun Danjuma,34,Male,Abuja,Premium,Inpatient,534600,Rejected,5,Asokoro District Hospital
+CLM-20609,Folake Okafor,37,Female,Abuja,Executive,Dental,50700,Approved,13,National Hospital Abuja
+CLM-20610,Amaka Okonkwo,74,Female,Akwa Ibom,Executive,Inpatient,923200,Pending,25,State Specialist Hospital
+CLM-20611,Zainab Lawal,26,Female,Kaduna,Premium,Surgery,859200,Under Review,26,Federal Medical Centre
+CLM-20612,Biodun Usman,59,Male,Anambra,Standard,Surgery,826200,Approved,2,Federal Medical Centre
+CLM-20613,Yusuf Nnaji,59,Male,Abuja,Premium,Surgery,1185800,Pending,14,Maitama District Hospital
+CLM-20614,Kunle Nwosu,41,Male,Akwa Ibom,Premium,Maternity,131400,Approved,2,State Specialist Hospital
+CLM-20615,Ngozi Okafor,27,Female,Kano,Standard,Inpatient,268200,Under Review,27,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20616,Musa Lawal,61,Male,Katsina,Basic,Surgery,516600,Approved,14,State Specialist Hospital
+CLM-20617,Amaka Nwosu,36,Female,Imo,Basic,Maternity,263200,Approved,10,General Hospital
+CLM-20618,Kunle Danjuma,75,Male,Imo,Standard,Dental,58500,Pending,7,Federal Medical Centre
+CLM-20619,Ahmed Okonkwo,61,Male,Oyo,Basic,Emergency,312900,Pending,22,Ring Road State Hospital
+CLM-20620,Blessing Ibrahim,55,Female,Akwa Ibom,Standard,Optical,35000,Approved,9,Federal Medical Centre
+CLM-20621,Kola Abubakar,21,Male,Oyo,Standard,Dental,16300,Under Review,17,University College Hospital Ibadan
+CLM-20622,Yetunde Lawal,28,Female,Oyo,Basic,Optical,9400,Approved,9,Jericho Hospital
+CLM-20623,Fatima Okafor,54,Female,Kano,Basic,Emergency,67600,Pending,30,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20624,Obinna Nnaji,60,Male,Rivers,Premium,Maternity,295100,Rejected,3,Kelsey Harrison Hospital
+CLM-20625,Ahmed Eze,39,Male,Plateau,Premium,Outpatient,19800,Approved,15,State Specialist Hospital
+CLM-20626,Musa Usman,72,Male,Delta,Premium,Maternity,223300,Approved,6,State Specialist Hospital
+CLM-20627,Adeleke Adeyemi,55,Male,Lagos,Basic,Maternity,120200,Approved,7,St. Nicholas Hospital
+CLM-20628,Yetunde Nnaji,22,Female,Abuja,Premium,Dental,39700,Rejected,3,National Hospital Abuja
+CLM-20629,Yusuf Danjuma,68,Male,Edo,Standard,Optical,19800,Approved,4,General Hospital
+CLM-20630,Ifeoma Nwosu,66,Female,Kaduna,Premium,Emergency,214000,Approved,7,General Hospital
+CLM-20631,Sola Okonkwo,33,Female,Kaduna,Standard,Dental,46700,Under Review,20,Federal Medical Centre
+CLM-20632,Segun Abubakar,59,Male,Oyo,Basic,Dental,19400,Approved,6,University College Hospital Ibadan
+CLM-20633,Emeka Danjuma,50,Male,Enugu,Basic,Inpatient,414600,Pending,11,State Specialist Hospital
+CLM-20634,Biodun Adeleke,69,Male,Delta,Executive,Emergency,680400,Approved,10,General Hospital
+CLM-20635,Blessing Lawal,65,Female,Rivers,Premium,Optical,17300,Rejected,16,University of Port Harcourt Teaching Hospital
+CLM-20636,Ahmed Okonkwo,73,Male,Kano,Standard,Optical,27200,Pending,12,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20637,Adeleke Abubakar,50,Male,Anambra,Premium,Emergency,114500,Rejected,18,Federal Medical Centre
+CLM-20638,Yetunde Adeyemi,38,Female,Anambra,Standard,Inpatient,540200,Approved,14,General Hospital
+CLM-20639,Chidi Okonkwo,49,Male,Plateau,Premium,Surgery,1409900,Approved,6,Federal Medical Centre
+CLM-20640,Ahmed Adeleke,49,Male,Ogun,Premium,Emergency,331600,Approved,6,State Specialist Hospital
+CLM-20641,Kola Usman,71,Male,Imo,Executive,Dental,14100,Approved,9,General Hospital
+CLM-20642,Emeka Eze,54,Male,Katsina,Standard,Optical,22000,Approved,11,State Specialist Hospital
+CLM-20643,Adaeze Ibrahim,73,Female,Ogun,Premium,Outpatient,63300,Approved,1,State Specialist Hospital
+CLM-20644,Ngozi Okonkwo,51,Female,Rivers,Standard,Emergency,326900,Approved,9,Kelsey Harrison Hospital
+CLM-20645,Ifeoma Usman,44,Female,Lagos,Executive,Dental,45200,Approved,5,Meridian Hospital
+CLM-20646,Aisha Balogun,24,Female,Anambra,Standard,Maternity,286500,Approved,4,State Specialist Hospital
+CLM-20647,Obinna Lawal,51,Male,Oyo,Standard,Maternity,174100,Rejected,15,Jericho Hospital
+CLM-20648,Adeleke Lawal,49,Male,Edo,Standard,Emergency,550500,Approved,6,State Specialist Hospital
+CLM-20649,Zainab Adeyemi,47,Female,Anambra,Premium,Inpatient,556400,Under Review,9,State Specialist Hospital
+CLM-20650,Musa Salako,73,Male,Oyo,Standard,Outpatient,58900,Approved,10,Jericho Hospital
+CLM-20651,Ahmed Ibrahim,42,Male,Abuja,Standard,Outpatient,62400,Approved,1,Garki Hospital
+CLM-20652,Adeleke Lawal,73,Male,Kaduna,Premium,Inpatient,644700,Approved,5,State Specialist Hospital
+CLM-20653,Musa Okonkwo,53,Male,Kano,Premium,Inpatient,587800,Pending,9,Aminu Kano Teaching Hospital
+CLM-20654,Fatima Danjuma,30,Female,Enugu,Standard,Dental,43900,Pending,12,General Hospital
+CLM-20655,Obinna Salako,56,Male,Kaduna,Standard,Emergency,272800,Approved,8,State Specialist Hospital
+CLM-20656,Chidi Ibrahim,35,Male,Akwa Ibom,Basic,Inpatient,399500,Under Review,10,General Hospital
+CLM-20657,Amaka Balogun,49,Female,Anambra,Premium,Optical,15600,Approved,1,General Hospital
+CLM-20658,Zainab Ibrahim,53,Female,Akwa Ibom,Standard,Surgery,717100,Under Review,17,State Specialist Hospital
+CLM-20659,Amaka Balogun,31,Female,Enugu,Standard,Inpatient,798600,Approved,7,General Hospital
+CLM-20660,Adeleke Nwosu,63,Male,Ogun,Executive,Dental,11100,Approved,7,Federal Medical Centre
+CLM-20661,Chidinma Abubakar,25,Female,Katsina,Executive,Maternity,648900,Pending,10,State Specialist Hospital
+CLM-20662,Adaeze Nnaji,49,Female,Enugu,Basic,Emergency,322500,Approved,8,State Specialist Hospital
+CLM-20663,Zainab Balogun,74,Female,Imo,Basic,Outpatient,14800,Rejected,9,State Specialist Hospital
+CLM-20664,Fatima Danjuma,53,Female,Delta,Standard,Maternity,325700,Approved,14,State Specialist Hospital
+CLM-20665,Ibrahim Adeleke,23,Male,Enugu,Standard,Outpatient,63400,Pending,17,Federal Medical Centre
+CLM-20666,Sola Salako,30,Female,Imo,Premium,Emergency,491800,Approved,15,General Hospital
+CLM-20667,Kola Okonkwo,31,Male,Katsina,Basic,Dental,9000,Approved,8,General Hospital
+CLM-20668,Chidi Nnaji,47,Male,Akwa Ibom,Basic,Outpatient,37200,Approved,10,State Specialist Hospital
+CLM-20669,Musa Balogun,62,Male,Enugu,Basic,Optical,19900,Approved,9,General Hospital
+CLM-20670,Femi Eze,43,Male,Imo,Standard,Optical,21700,Approved,6,Federal Medical Centre
+CLM-20671,Adeleke Ibrahim,44,Male,Anambra,Basic,Inpatient,1098600,Rejected,8,General Hospital
+CLM-20672,Kunle Danjuma,18,Male,Kaduna,Standard,Inpatient,469000,Under Review,23,General Hospital
+CLM-20673,Ahmed Usman,64,Male,Edo,Standard,Optical,27500,Approved,7,General Hospital
+CLM-20674,Musa Usman,65,Male,Ogun,Executive,Surgery,1804800,Rejected,16,State Specialist Hospital
+CLM-20675,Femi Danjuma,41,Male,Ogun,Basic,Emergency,146100,Rejected,7,Federal Medical Centre
+CLM-20676,Ibrahim Usman,74,Male,Kaduna,Standard,Inpatient,618600,Rejected,19,State Specialist Hospital
+CLM-20677,Biodun Balogun,62,Male,Imo,Standard,Dental,39900,Approved,7,General Hospital
+CLM-20678,Obinna Adeyemi,44,Male,Abuja,Basic,Maternity,296600,Under Review,24,Asokoro District Hospital
+CLM-20679,Ahmed Lawal,29,Male,Rivers,Standard,Maternity,268400,Under Review,17,Kelsey Harrison Hospital
+CLM-20680,Blessing Usman,37,Female,Abuja,Standard,Inpatient,162000,Rejected,13,Cedarcrest Hospital
+CLM-20681,Ngozi Eze,72,Female,Delta,Standard,Inpatient,336900,Pending,18,State Specialist Hospital
+CLM-20682,Femi Balogun,22,Male,Kaduna,Premium,Dental,14800,Rejected,13,State Specialist Hospital
+CLM-20683,Musa Adeleke,19,Male,Katsina,Premium,Inpatient,363800,Pending,10,General Hospital
+CLM-20684,Yetunde Adeleke,42,Female,Katsina,Standard,Dental,53800,Under Review,19,State Specialist Hospital
+CLM-20685,Biodun Abubakar,22,Male,Ogun,Basic,Surgery,764500,Approved,11,State Specialist Hospital
+CLM-20686,Adaeze Usman,48,Female,Edo,Standard,Outpatient,48600,Pending,15,State Specialist Hospital
+CLM-20687,Adeleke Nnaji,49,Male,Kano,Standard,Surgery,1374200,Approved,1,Aminu Kano Teaching Hospital
+CLM-20688,Chidi Danjuma,49,Male,Edo,Premium,Optical,24200,Approved,11,General Hospital
+CLM-20689,Ahmed Eze,61,Male,Enugu,Basic,Maternity,293700,Approved,10,Federal Medical Centre
+CLM-20690,Yetunde Nnaji,43,Female,Enugu,Standard,Surgery,1347300,Approved,3,General Hospital
+CLM-20691,Yetunde Nnaji,48,Female,Imo,Executive,Inpatient,302200,Approved,8,State Specialist Hospital
+CLM-20692,Yetunde Balogun,68,Female,Imo,Basic,Outpatient,42300,Rejected,8,State Specialist Hospital
+CLM-20693,Hauwa Danjuma,40,Female,Anambra,Standard,Maternity,371600,Approved,8,General Hospital
+CLM-20694,Ngozi Usman,46,Female,Anambra,Basic,Surgery,593700,Approved,8,State Specialist Hospital
+CLM-20695,Aisha Usman,22,Female,Imo,Standard,Outpatient,42500,Approved,5,Federal Medical Centre
+CLM-20696,Musa Nnaji,44,Male,Oyo,Basic,Emergency,166900,Pending,15,University College Hospital Ibadan
+CLM-20697,Fatima Okonkwo,67,Female,Enugu,Basic,Inpatient,101900,Pending,22,General Hospital
+CLM-20698,Ahmed Adeleke,64,Male,Enugu,Standard,Optical,24300,Approved,10,Federal Medical Centre
+CLM-20699,Sola Okafor,56,Female,Lagos,Executive,Optical,22400,Approved,6,Lagos Island General Hospital
+CLM-20700,Chidinma Okonkwo,43,Female,Delta,Standard,Surgery,365100,Under Review,21,General Hospital
+CLM-20701,Fatima Danjuma,19,Female,Plateau,Standard,Dental,20800,Approved,4,General Hospital
+CLM-20702,Amaka Abubakar,58,Female,Oyo,Basic,Emergency,290000,Under Review,14,Jericho Hospital
+CLM-20703,Musa Adeyemi,51,Male,Rivers,Premium,Maternity,134700,Under Review,22,Kelsey Harrison Hospital
+CLM-20704,Segun Nnaji,70,Male,Katsina,Standard,Inpatient,315900,Approved,19,State Specialist Hospital
+CLM-20705,Chidinma Usman,65,Female,Abuja,Basic,Emergency,249400,Under Review,7,Asokoro District Hospital
+CLM-20706,Folake Usman,68,Female,Kano,Premium,Optical,19300,Rejected,15,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20707,Blessing Nwosu,25,Female,Kaduna,Basic,Optical,23300,Approved,13,General Hospital
+CLM-20708,Hauwa Ibrahim,53,Female,Delta,Premium,Dental,46800,Pending,19,State Specialist Hospital
+CLM-20709,Sola Adeyemi,65,Female,Delta,Standard,Maternity,365400,Approved,15,General Hospital
+CLM-20710,Chidi Balogun,59,Male,Rivers,Premium,Outpatient,49300,Approved,7,Braithwaite Memorial Hospital
+CLM-20711,Emeka Balogun,48,Male,Kano,Standard,Maternity,299100,Approved,7,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20712,Fatima Ibrahim,35,Female,Abuja,Basic,Outpatient,12100,Approved,9,Garki Hospital
+CLM-20713,Sola Salako,24,Female,Oyo,Standard,Outpatient,31400,Approved,1,Ring Road State Hospital
+CLM-20714,Adaeze Okafor,37,Female,Anambra,Premium,Outpatient,63800,Pending,5,General Hospital
+CLM-20715,Aisha Adeyemi,49,Female,Kaduna,Basic,Outpatient,27700,Rejected,11,State Specialist Hospital
+CLM-20716,Kola Balogun,50,Male,Anambra,Basic,Maternity,208300,Approved,15,Federal Medical Centre
+CLM-20717,Yusuf Usman,52,Male,Imo,Executive,Emergency,224300,Approved,9,Federal Medical Centre
+CLM-20718,Zainab Lawal,39,Female,Delta,Executive,Optical,14000,Approved,6,State Specialist Hospital
+CLM-20719,Kunle Eze,30,Male,Akwa Ibom,Executive,Outpatient,42900,Pending,23,Federal Medical Centre
+CLM-20720,Chidinma Salako,41,Female,Plateau,Premium,Maternity,219400,Approved,8,State Specialist Hospital
+CLM-20721,Adeleke Okafor,29,Male,Kano,Executive,Inpatient,619000,Approved,6,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20722,Ifeoma Nwosu,52,Female,Rivers,Basic,Dental,30600,Approved,5,Braithwaite Memorial Hospital
+CLM-20723,Biodun Nnaji,58,Male,Kano,Standard,Emergency,203300,Approved,16,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20724,Ifeoma Danjuma,35,Female,Kano,Basic,Maternity,225800,Approved,14,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20725,Chidi Eze,70,Male,Anambra,Basic,Emergency,170300,Approved,5,Federal Medical Centre
+CLM-20726,Ngozi Danjuma,42,Female,Plateau,Standard,Emergency,486700,Under Review,20,General Hospital
+CLM-20727,Chidinma Balogun,18,Female,Kaduna,Premium,Maternity,358100,Approved,6,General Hospital
+CLM-20728,Musa Nnaji,53,Male,Enugu,Basic,Emergency,60600,Approved,9,General Hospital
+CLM-20729,Ngozi Abubakar,22,Female,Delta,Standard,Inpatient,385100,Approved,6,General Hospital
+CLM-20730,Musa Okonkwo,65,Male,Edo,Executive,Inpatient,603900,Approved,13,Federal Medical Centre
+CLM-20731,Ibrahim Balogun,66,Male,Enugu,Standard,Inpatient,159800,Rejected,24,General Hospital
+CLM-20732,Blessing Adeyemi,21,Female,Kano,Standard,Emergency,44800,Under Review,7,Aminu Kano Teaching Hospital
+CLM-20733,Ahmed Lawal,67,Male,Delta,Premium,Optical,11000,Approved,10,State Specialist Hospital
+CLM-20734,Fatima Balogun,57,Female,Kaduna,Standard,Dental,44700,Approved,3,General Hospital
+CLM-20735,Ahmed Ibrahim,63,Male,Akwa Ibom,Standard,Dental,31800,Approved,9,State Specialist Hospital
+CLM-20736,Segun Okafor,29,Male,Lagos,Premium,Dental,40700,Rejected,14,St. Nicholas Hospital
+CLM-20737,Ibrahim Okonkwo,32,Male,Lagos,Executive,Surgery,1754000,Pending,21,Reddington Hospital
+CLM-20738,Obinna Adeleke,70,Male,Kano,Standard,Inpatient,653800,Pending,10,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20739,Emeka Okafor,45,Male,Rivers,Premium,Inpatient,574400,Approved,10,University of Port Harcourt Teaching Hospital
+CLM-20740,Adeleke Balogun,63,Male,Rivers,Basic,Emergency,132000,Approved,9,Braithwaite Memorial Hospital
+CLM-20741,Zainab Eze,29,Female,Kaduna,Standard,Optical,7200,Rejected,15,Federal Medical Centre
+CLM-20742,Aisha Nwosu,65,Female,Imo,Standard,Maternity,133700,Approved,8,Federal Medical Centre
+CLM-20743,Fatima Okafor,34,Female,Edo,Standard,Emergency,592500,Approved,8,State Specialist Hospital
+CLM-20744,Ahmed Lawal,71,Male,Kaduna,Standard,Optical,29200,Pending,15,General Hospital
+CLM-20745,Sola Okafor,18,Female,Edo,Premium,Outpatient,23400,Pending,18,Federal Medical Centre
+CLM-20746,Ifeoma Salako,32,Female,Plateau,Standard,Dental,16000,Approved,2,State Specialist Hospital
+CLM-20747,Adeleke Adeyemi,57,Male,Katsina,Basic,Optical,18900,Pending,22,Federal Medical Centre
+CLM-20748,Adaeze Adeyemi,64,Female,Katsina,Premium,Inpatient,50000,Rejected,20,Federal Medical Centre
+CLM-20749,Ibrahim Lawal,59,Male,Lagos,Executive,Dental,32600,Rejected,10,Lagos Island General Hospital
+CLM-20750,Femi Adeyemi,38,Male,Kaduna,Premium,Dental,28600,Rejected,19,Federal Medical Centre
+CLM-20751,Kunle Adeleke,73,Male,Oyo,Standard,Surgery,1204800,Rejected,4,Ring Road State Hospital
+CLM-20752,Adaeze Lawal,40,Female,Kaduna,Premium,Inpatient,713200,Under Review,25,General Hospital
+CLM-20753,Yetunde Ibrahim,66,Female,Ogun,Standard,Outpatient,13300,Rejected,9,General Hospital
+CLM-20754,Yetunde Abubakar,56,Female,Imo,Standard,Inpatient,556400,Approved,11,General Hospital
+CLM-20755,Tunde Okafor,56,Male,Oyo,Premium,Dental,39600,Approved,8,Jericho Hospital
+CLM-20756,Fatima Eze,34,Female,Kaduna,Premium,Optical,29100,Rejected,10,General Hospital
+CLM-20757,Aisha Danjuma,29,Female,Edo,Premium,Surgery,1395700,Approved,9,General Hospital
+CLM-20758,Obinna Usman,60,Male,Rivers,Standard,Dental,27200,Approved,11,Braithwaite Memorial Hospital
+CLM-20759,Tunde Eze,75,Male,Enugu,Standard,Outpatient,20200,Approved,3,General Hospital
+CLM-20760,Kunle Salako,68,Male,Enugu,Basic,Emergency,331900,Approved,7,State Specialist Hospital
+CLM-20761,Fatima Nwosu,25,Female,Oyo,Executive,Dental,51000,Approved,13,Ring Road State Hospital
+CLM-20762,Hauwa Danjuma,55,Female,Kaduna,Standard,Maternity,476300,Rejected,9,State Specialist Hospital
+CLM-20763,Yetunde Salako,34,Female,Imo,Premium,Dental,24000,Under Review,21,State Specialist Hospital
+CLM-20764,Kunle Usman,38,Male,Enugu,Basic,Maternity,233400,Approved,9,General Hospital
+CLM-20765,Femi Salako,49,Male,Abuja,Standard,Maternity,242400,Approved,8,Cedarcrest Hospital
+CLM-20766,Adeleke Danjuma,32,Male,Kaduna,Basic,Surgery,388300,Approved,17,State Specialist Hospital
+CLM-20767,Zainab Adeleke,19,Female,Lagos,Executive,Outpatient,8900,Rejected,10,Eko Hospital
+CLM-20768,Ngozi Adeyemi,55,Female,Enugu,Basic,Inpatient,332500,Pending,27,Federal Medical Centre
+CLM-20769,Kunle Nnaji,42,Male,Abuja,Premium,Dental,55300,Approved,4,National Hospital Abuja
+CLM-20770,Obinna Usman,64,Male,Anambra,Premium,Emergency,214000,Approved,2,State Specialist Hospital
+CLM-20771,Ngozi Danjuma,54,Female,Edo,Standard,Maternity,384100,Approved,9,State Specialist Hospital
+CLM-20772,Adaeze Nwosu,49,Female,Anambra,Premium,Inpatient,88300,Pending,13,State Specialist Hospital
+CLM-20773,Blessing Usman,48,Female,Edo,Executive,Dental,38400,Pending,11,Federal Medical Centre
+CLM-20774,Emeka Lawal,18,Male,Imo,Standard,Surgery,1200900,Pending,7,General Hospital
+CLM-20775,Aisha Adeyemi,48,Female,Kaduna,Standard,Outpatient,13700,Pending,8,General Hospital
+CLM-20776,Chidi Adeleke,45,Male,Akwa Ibom,Basic,Emergency,196300,Rejected,13,General Hospital
+CLM-20777,Chidi Abubakar,47,Male,Kaduna,Basic,Emergency,63300,Approved,11,General Hospital
+CLM-20778,Ibrahim Salako,21,Male,Kaduna,Standard,Emergency,141800,Rejected,14,General Hospital
+CLM-20779,Chidinma Danjuma,30,Female,Katsina,Premium,Optical,36700,Pending,16,General Hospital
+CLM-20780,Zainab Adeleke,30,Female,Ogun,Standard,Inpatient,735200,Under Review,19,State Specialist Hospital
+CLM-20781,Aisha Abubakar,57,Female,Ogun,Premium,Surgery,1185300,Under Review,10,State Specialist Hospital
+CLM-20782,Kola Okonkwo,70,Male,Anambra,Premium,Emergency,286200,Approved,9,Federal Medical Centre
+CLM-20783,Fatima Adeyemi,41,Female,Katsina,Executive,Outpatient,7600,Approved,7,State Specialist Hospital
+CLM-20784,Kunle Abubakar,55,Male,Abuja,Premium,Dental,13400,Under Review,8,Cedarcrest Hospital
+CLM-20785,Chidi Usman,40,Male,Kaduna,Executive,Inpatient,730300,Pending,15,General Hospital
+CLM-20786,Yusuf Nnaji,46,Male,Kaduna,Basic,Optical,13800,Approved,7,Federal Medical Centre
+CLM-20787,Chidi Salako,26,Male,Abuja,Standard,Surgery,368700,Approved,10,Maitama District Hospital
+CLM-20788,Ngozi Adeyemi,35,Female,Katsina,Premium,Maternity,237700,Rejected,9,State Specialist Hospital
+CLM-20789,Aisha Balogun,52,Female,Imo,Premium,Surgery,1306700,Pending,27,General Hospital
+CLM-20790,Segun Ibrahim,54,Male,Abuja,Standard,Optical,38800,Under Review,31,Garki Hospital
+CLM-20791,Emeka Nwosu,65,Male,Akwa Ibom,Basic,Inpatient,471600,Approved,15,Federal Medical Centre
+CLM-20792,Segun Okonkwo,54,Male,Ogun,Premium,Outpatient,76400,Rejected,16,Federal Medical Centre
+CLM-20793,Ifeoma Adeyemi,53,Female,Ogun,Executive,Emergency,68900,Under Review,12,State Specialist Hospital
+CLM-20794,Yetunde Adeyemi,63,Female,Ogun,Executive,Emergency,224700,Under Review,22,Federal Medical Centre
+CLM-20795,Hauwa Usman,30,Female,Rivers,Basic,Inpatient,435200,Under Review,15,Kelsey Harrison Hospital
+CLM-20796,Ngozi Nnaji,51,Female,Ogun,Standard,Outpatient,68500,Approved,1,State Specialist Hospital
+CLM-20797,Yetunde Nwosu,50,Female,Anambra,Executive,Inpatient,100900,Under Review,19,Federal Medical Centre
+CLM-20798,Chidi Ibrahim,62,Male,Kaduna,Basic,Surgery,288000,Approved,4,Federal Medical Centre
+CLM-20799,Chidi Eze,39,Male,Anambra,Standard,Inpatient,569100,Approved,6,Federal Medical Centre
+CLM-20800,Zainab Usman,59,Female,Delta,Premium,Dental,16500,Approved,1,Federal Medical Centre
+CLM-20801,Musa Okafor,25,Male,Abuja,Basic,Dental,19100,Under Review,15,Garki Hospital
+CLM-20802,Aisha Eze,53,Female,Enugu,Basic,Maternity,114200,Under Review,25,General Hospital
+CLM-20803,Tunde Adeleke,53,Male,Imo,Premium,Optical,23500,Approved,10,State Specialist Hospital
+CLM-20804,Fatima Danjuma,53,Female,Katsina,Standard,Surgery,503900,Approved,7,State Specialist Hospital
+CLM-20805,Femi Salako,56,Male,Oyo,Standard,Outpatient,49800,Approved,5,Ring Road State Hospital
+CLM-20806,Aisha Abubakar,49,Female,Oyo,Premium,Maternity,347700,Pending,18,Ring Road State Hospital
+CLM-20807,Aisha Okafor,57,Female,Imo,Standard,Outpatient,57300,Rejected,9,Federal Medical Centre
+CLM-20808,Adeleke Abubakar,56,Male,Delta,Executive,Maternity,440700,Approved,4,General Hospital
+CLM-20809,Segun Nwosu,49,Male,Rivers,Standard,Outpatient,60800,Rejected,4,Kelsey Harrison Hospital
+CLM-20810,Tunde Danjuma,30,Male,Akwa Ibom,Basic,Surgery,462300,Approved,3,Federal Medical Centre
+CLM-20811,Amaka Danjuma,70,Female,Lagos,Premium,Outpatient,61000,Rejected,8,Lagos Island General Hospital
+CLM-20812,Fatima Okafor,19,Female,Kano,Standard,Outpatient,67100,Approved,4,Aminu Kano Teaching Hospital
+CLM-20813,Folake Nwosu,49,Female,Ogun,Premium,Emergency,412200,Pending,30,Federal Medical Centre
+CLM-20814,Yusuf Usman,56,Male,Katsina,Basic,Outpatient,37600,Pending,7,General Hospital
+CLM-20815,Yetunde Adeyemi,59,Female,Delta,Standard,Dental,57900,Approved,12,Federal Medical Centre
+CLM-20816,Folake Adeleke,57,Female,Lagos,Standard,Dental,12200,Pending,13,Meridian Hospital
+CLM-20817,Emeka Eze,43,Male,Abuja,Standard,Emergency,290300,Pending,9,Maitama District Hospital
+CLM-20818,Tunde Danjuma,40,Male,Akwa Ibom,Premium,Outpatient,44200,Approved,11,Federal Medical Centre
+CLM-20819,Ahmed Lawal,46,Male,Anambra,Standard,Inpatient,677000,Approved,12,General Hospital
+CLM-20820,Sola Lawal,54,Female,Ogun,Standard,Dental,44800,Approved,1,General Hospital
+CLM-20821,Obinna Eze,51,Male,Imo,Premium,Inpatient,444000,Approved,8,State Specialist Hospital
+CLM-20822,Hauwa Usman,70,Female,Edo,Premium,Maternity,143700,Approved,8,Federal Medical Centre
+CLM-20823,Ngozi Adeyemi,64,Female,Kano,Standard,Surgery,1149300,Pending,25,Aminu Kano Teaching Hospital
+CLM-20824,Emeka Danjuma,40,Male,Imo,Premium,Surgery,325200,Approved,6,State Specialist Hospital
+CLM-20825,Femi Nwosu,29,Male,Oyo,Premium,Optical,24000,Pending,27,Ring Road State Hospital
+CLM-20826,Chidinma Salako,49,Female,Edo,Standard,Dental,14500,Pending,6,State Specialist Hospital
+CLM-20827,Kunle Nwosu,57,Male,Delta,Premium,Optical,33000,Under Review,10,State Specialist Hospital
+CLM-20828,Femi Ibrahim,40,Male,Edo,Standard,Emergency,278300,Approved,7,General Hospital
+CLM-20829,Adeleke Okonkwo,44,Male,Plateau,Basic,Maternity,158200,Approved,8,General Hospital
+CLM-20830,Fatima Salako,64,Female,Enugu,Basic,Maternity,229500,Under Review,29,Federal Medical Centre
+CLM-20831,Adeleke Ibrahim,31,Male,Lagos,Premium,Maternity,206200,Under Review,26,Reddington Hospital
+CLM-20832,Adeleke Abubakar,53,Male,Rivers,Standard,Surgery,655900,Rejected,6,University of Port Harcourt Teaching Hospital
+CLM-20833,Tunde Okonkwo,44,Male,Abuja,Premium,Optical,22300,Approved,7,National Hospital Abuja
+CLM-20834,Blessing Abubakar,74,Female,Kano,Basic,Optical,16200,Approved,1,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20835,Kola Abubakar,22,Male,Enugu,Basic,Emergency,218100,Approved,8,General Hospital
+CLM-20836,Biodun Adeyemi,58,Male,Kaduna,Basic,Optical,6300,Approved,11,General Hospital
+CLM-20837,Aisha Usman,39,Female,Enugu,Standard,Surgery,777700,Rejected,12,Federal Medical Centre
+CLM-20838,Ifeoma Okafor,40,Female,Imo,Standard,Dental,41700,Under Review,8,General Hospital
+CLM-20839,Zainab Nwosu,44,Female,Delta,Basic,Optical,7500,Pending,21,State Specialist Hospital
+CLM-20840,Chidinma Eze,64,Female,Oyo,Premium,Maternity,352300,Approved,6,Jericho Hospital
+CLM-20841,Obinna Ibrahim,51,Male,Delta,Executive,Dental,40900,Approved,13,State Specialist Hospital
+CLM-20842,Folake Adeyemi,75,Female,Imo,Premium,Emergency,110400,Rejected,8,Federal Medical Centre
+CLM-20843,Kola Salako,53,Male,Rivers,Basic,Outpatient,36700,Approved,6,University of Port Harcourt Teaching Hospital
+CLM-20844,Sola Abubakar,61,Female,Kaduna,Standard,Outpatient,59600,Approved,10,General Hospital
+CLM-20845,Musa Danjuma,25,Male,Akwa Ibom,Standard,Outpatient,19500,Approved,10,General Hospital
+CLM-20846,Blessing Nwosu,47,Female,Imo,Executive,Dental,79600,Approved,1,State Specialist Hospital
+CLM-20847,Ibrahim Okafor,50,Male,Edo,Basic,Emergency,54900,Approved,7,State Specialist Hospital
+CLM-20848,Musa Nwosu,65,Male,Katsina,Standard,Dental,32900,Pending,18,General Hospital
+CLM-20849,Chidi Danjuma,45,Male,Imo,Premium,Maternity,226400,Approved,10,State Specialist Hospital
+CLM-20850,Adaeze Nnaji,62,Female,Lagos,Premium,Outpatient,39800,Rejected,11,Lagos Island General Hospital
+CLM-20851,Chidinma Adeleke,64,Female,Edo,Premium,Inpatient,494100,Rejected,15,Federal Medical Centre
+CLM-20852,Blessing Adeyemi,66,Female,Akwa Ibom,Premium,Dental,52400,Approved,10,General Hospital
+CLM-20853,Aisha Adeyemi,41,Female,Anambra,Premium,Optical,15800,Approved,14,General Hospital
+CLM-20854,Yusuf Eze,44,Male,Oyo,Executive,Optical,25400,Rejected,16,Jericho Hospital
+CLM-20855,Musa Nnaji,33,Male,Lagos,Basic,Dental,15700,Approved,9,Lagos Island General Hospital
+CLM-20856,Fatima Balogun,51,Female,Lagos,Basic,Maternity,123900,Rejected,12,Reddington Hospital
+CLM-20857,Aisha Eze,43,Female,Lagos,Standard,Surgery,1461800,Approved,10,St. Nicholas Hospital
+CLM-20858,Fatima Salako,41,Female,Katsina,Premium,Optical,38200,Pending,22,Federal Medical Centre
+CLM-20859,Ibrahim Lawal,44,Male,Edo,Standard,Outpatient,33400,Approved,2,State Specialist Hospital
+CLM-20860,Hauwa Nnaji,61,Female,Akwa Ibom,Standard,Inpatient,684200,Approved,13,General Hospital
+CLM-20861,Blessing Balogun,63,Female,Kaduna,Premium,Maternity,380300,Approved,15,Federal Medical Centre
+CLM-20862,Adeleke Ibrahim,61,Male,Imo,Basic,Dental,36000,Approved,8,State Specialist Hospital
+CLM-20863,Adaeze Nwosu,37,Female,Enugu,Basic,Dental,18200,Rejected,6,General Hospital
+CLM-20864,Obinna Ibrahim,54,Male,Rivers,Premium,Maternity,450100,Approved,13,Braithwaite Memorial Hospital
+CLM-20865,Hauwa Eze,34,Female,Plateau,Standard,Dental,47900,Approved,15,General Hospital
+CLM-20866,Ahmed Lawal,22,Male,Enugu,Basic,Optical,15700,Approved,12,State Specialist Hospital
+CLM-20867,Folake Danjuma,58,Female,Abuja,Standard,Emergency,422400,Rejected,17,Asokoro District Hospital
+CLM-20868,Sola Nnaji,62,Female,Enugu,Basic,Surgery,296600,Rejected,9,Federal Medical Centre
+CLM-20869,Ifeoma Eze,60,Female,Edo,Basic,Emergency,107200,Approved,8,State Specialist Hospital
+CLM-20870,Ifeoma Eze,28,Female,Rivers,Standard,Emergency,290900,Approved,6,University of Port Harcourt Teaching Hospital
+CLM-20871,Adaeze Danjuma,27,Female,Edo,Standard,Surgery,1139100,Under Review,22,State Specialist Hospital
+CLM-20872,Zainab Abubakar,38,Female,Rivers,Standard,Outpatient,25200,Approved,4,Kelsey Harrison Hospital
+CLM-20873,Folake Ibrahim,41,Female,Katsina,Premium,Dental,56400,Approved,4,Federal Medical Centre
+CLM-20874,Ibrahim Salako,51,Male,Katsina,Basic,Emergency,298700,Approved,6,Federal Medical Centre
+CLM-20875,Musa Nnaji,59,Male,Rivers,Basic,Maternity,293500,Rejected,9,University of Port Harcourt Teaching Hospital
+CLM-20876,Blessing Balogun,55,Female,Katsina,Standard,Dental,42100,Approved,4,State Specialist Hospital
+CLM-20877,Ngozi Ibrahim,57,Female,Oyo,Premium,Maternity,200400,Pending,20,University College Hospital Ibadan
+CLM-20878,Tunde Danjuma,56,Male,Kano,Standard,Dental,30800,Rejected,9,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20879,Kola Abubakar,73,Male,Edo,Standard,Dental,19700,Approved,11,General Hospital
+CLM-20880,Tunde Usman,72,Male,Kaduna,Basic,Optical,11900,Under Review,26,State Specialist Hospital
+CLM-20881,Ahmed Balogun,43,Male,Ogun,Basic,Surgery,755900,Approved,9,General Hospital
+CLM-20882,Chidinma Nnaji,49,Female,Ogun,Basic,Maternity,270600,Pending,20,Federal Medical Centre
+CLM-20883,Yusuf Usman,36,Male,Anambra,Premium,Inpatient,584900,Under Review,7,State Specialist Hospital
+CLM-20884,Aisha Lawal,59,Female,Akwa Ibom,Premium,Dental,43200,Pending,15,General Hospital
+CLM-20885,Musa Okonkwo,67,Male,Kano,Basic,Optical,16200,Rejected,6,Aminu Kano Teaching Hospital
+CLM-20886,Folake Balogun,70,Female,Lagos,Basic,Outpatient,11700,Rejected,6,Lagos Island General Hospital
+CLM-20887,Kunle Okafor,30,Male,Katsina,Standard,Inpatient,540900,Pending,11,Federal Medical Centre
+CLM-20888,Emeka Usman,69,Male,Kano,Premium,Surgery,1084000,Approved,6,Aminu Kano Teaching Hospital
+CLM-20889,Yetunde Abubakar,41,Female,Kano,Basic,Emergency,195100,Approved,9,Aminu Kano Teaching Hospital
+CLM-20890,Biodun Danjuma,50,Male,Plateau,Standard,Dental,39400,Approved,8,General Hospital
+CLM-20891,Yusuf Okafor,54,Male,Enugu,Executive,Outpatient,96900,Pending,20,Federal Medical Centre
+CLM-20892,Obinna Balogun,51,Male,Delta,Executive,Optical,15900,Approved,11,State Specialist Hospital
+CLM-20893,Adaeze Adeleke,40,Female,Lagos,Basic,Emergency,111900,Rejected,9,Lagos Island General Hospital
+CLM-20894,Adaeze Abubakar,48,Female,Delta,Executive,Dental,64900,Approved,11,Federal Medical Centre
+CLM-20895,Folake Usman,69,Female,Ogun,Basic,Optical,14100,Approved,18,State Specialist Hospital
+CLM-20896,Aisha Lawal,46,Female,Kano,Standard,Surgery,1201900,Pending,18,Aminu Kano Teaching Hospital
+CLM-20897,Folake Okafor,56,Female,Enugu,Executive,Outpatient,57400,Approved,8,State Specialist Hospital
+CLM-20898,Femi Balogun,22,Male,Enugu,Standard,Outpatient,15700,Under Review,38,State Specialist Hospital
+CLM-20899,Hauwa Salako,46,Female,Plateau,Premium,Dental,51300,Approved,6,Federal Medical Centre
+CLM-20900,Hauwa Okonkwo,36,Female,Kano,Premium,Maternity,184100,Pending,17,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20901,Chidinma Danjuma,41,Female,Anambra,Premium,Optical,13600,Under Review,36,State Specialist Hospital
+CLM-20902,Hauwa Adeleke,39,Female,Katsina,Standard,Dental,43300,Approved,2,General Hospital
+CLM-20903,Obinna Nwosu,62,Male,Kano,Premium,Surgery,531900,Pending,22,Aminu Kano Teaching Hospital
+CLM-20904,Chidinma Okafor,20,Female,Kaduna,Standard,Emergency,274900,Rejected,13,General Hospital
+CLM-20905,Adeleke Lawal,18,Male,Akwa Ibom,Basic,Surgery,341900,Rejected,9,Federal Medical Centre
+CLM-20906,Musa Ibrahim,35,Male,Akwa Ibom,Standard,Inpatient,562200,Approved,8,General Hospital
+CLM-20907,Ifeoma Usman,32,Female,Ogun,Basic,Emergency,266500,Pending,20,Federal Medical Centre
+CLM-20908,Folake Nnaji,43,Female,Edo,Basic,Optical,10500,Approved,4,State Specialist Hospital
+CLM-20909,Emeka Danjuma,43,Male,Rivers,Basic,Dental,20300,Rejected,11,Kelsey Harrison Hospital
+CLM-20910,Ibrahim Adeyemi,73,Male,Lagos,Standard,Dental,45300,Rejected,6,St. Nicholas Hospital
+CLM-20911,Amaka Balogun,44,Female,Plateau,Premium,Surgery,1116800,Pending,18,Federal Medical Centre
+CLM-20912,Yetunde Salako,52,Female,Plateau,Premium,Optical,19400,Approved,5,General Hospital
+CLM-20913,Chidinma Salako,66,Female,Kaduna,Basic,Maternity,126800,Under Review,12,State Specialist Hospital
+CLM-20914,Folake Abubakar,41,Female,Ogun,Premium,Dental,59100,Approved,10,General Hospital
+CLM-20915,Adaeze Abubakar,59,Female,Ogun,Executive,Optical,21600,Rejected,3,State Specialist Hospital
+CLM-20916,Fatima Usman,31,Female,Plateau,Executive,Inpatient,513900,Approved,7,State Specialist Hospital
+CLM-20917,Hauwa Adeleke,62,Female,Delta,Standard,Surgery,1334200,Rejected,14,State Specialist Hospital
+CLM-20918,Kunle Nwosu,43,Male,Kano,Standard,Inpatient,67200,Approved,7,Aminu Kano Teaching Hospital
+CLM-20919,Tunde Ibrahim,38,Male,Edo,Premium,Emergency,519300,Under Review,27,Federal Medical Centre
+CLM-20920,Aisha Salako,49,Female,Katsina,Basic,Outpatient,25100,Under Review,24,General Hospital
+CLM-20921,Adaeze Balogun,38,Female,Kaduna,Executive,Optical,7200,Approved,5,State Specialist Hospital
+CLM-20922,Amaka Balogun,46,Female,Kaduna,Standard,Outpatient,15900,Approved,9,State Specialist Hospital
+CLM-20923,Fatima Adeyemi,43,Female,Lagos,Standard,Dental,49100,Under Review,22,Eko Hospital
+CLM-20924,Femi Ibrahim,49,Male,Kaduna,Premium,Emergency,373000,Under Review,11,State Specialist Hospital
+CLM-20925,Folake Danjuma,60,Female,Oyo,Premium,Dental,45900,Under Review,19,Ring Road State Hospital
+CLM-20926,Blessing Nwosu,70,Female,Lagos,Standard,Inpatient,628300,Pending,20,Meridian Hospital
+CLM-20927,Musa Usman,31,Male,Plateau,Standard,Outpatient,37900,Approved,9,Federal Medical Centre
+CLM-20928,Sola Salako,21,Female,Abuja,Premium,Maternity,235400,Pending,24,Garki Hospital
+CLM-20929,Aisha Adeyemi,75,Female,Akwa Ibom,Premium,Emergency,295100,Under Review,18,State Specialist Hospital
+CLM-20930,Adeleke Nwosu,44,Male,Plateau,Premium,Maternity,124400,Approved,4,General Hospital
+CLM-20931,Kola Ibrahim,75,Male,Akwa Ibom,Standard,Dental,9100,Approved,3,Federal Medical Centre
+CLM-20932,Yusuf Ibrahim,70,Male,Ogun,Premium,Surgery,947000,Approved,6,General Hospital
+CLM-20933,Tunde Adeleke,63,Male,Katsina,Executive,Outpatient,20100,Approved,8,General Hospital
+CLM-20934,Chidinma Usman,25,Female,Rivers,Standard,Inpatient,368900,Rejected,22,Braithwaite Memorial Hospital
+CLM-20935,Ngozi Balogun,50,Female,Oyo,Basic,Maternity,168100,Under Review,19,Ring Road State Hospital
+CLM-20936,Zainab Abubakar,43,Female,Katsina,Standard,Dental,31400,Approved,18,Federal Medical Centre
+CLM-20937,Tunde Lawal,58,Male,Imo,Executive,Optical,23700,Approved,1,Federal Medical Centre
+CLM-20938,Chidi Nwosu,58,Male,Plateau,Premium,Inpatient,3505300,Approved,4,General Hospital
+CLM-20939,Zainab Eze,57,Female,Rivers,Standard,Emergency,531700,Approved,6,Braithwaite Memorial Hospital
+CLM-20940,Yusuf Nnaji,46,Male,Rivers,Standard,Maternity,134400,Approved,12,Braithwaite Memorial Hospital
+CLM-20941,Chidi Nwosu,20,Male,Imo,Basic,Inpatient,269100,Pending,14,State Specialist Hospital
+CLM-20942,Adaeze Nnaji,34,Female,Ogun,Standard,Dental,25300,Approved,3,Federal Medical Centre
+CLM-20943,Amaka Salako,49,Female,Katsina,Premium,Emergency,381100,Under Review,7,General Hospital
+CLM-20944,Kola Nnaji,38,Male,Akwa Ibom,Premium,Outpatient,60400,Under Review,23,General Hospital
+CLM-20945,Aisha Adeleke,37,Female,Oyo,Standard,Surgery,629400,Approved,12,Ring Road State Hospital
+CLM-20946,Kola Salako,55,Male,Katsina,Premium,Optical,38300,Approved,6,Federal Medical Centre
+CLM-20947,Chidi Balogun,71,Male,Lagos,Executive,Outpatient,73100,Pending,21,Reddington Hospital
+CLM-20948,Ngozi Danjuma,43,Female,Abuja,Executive,Inpatient,501100,Approved,10,Cedarcrest Hospital
+CLM-20949,Zainab Nnaji,29,Female,Plateau,Premium,Emergency,392700,Approved,11,Federal Medical Centre
+CLM-20950,Chidi Eze,49,Male,Lagos,Standard,Optical,8300,Approved,7,Reddington Hospital
+CLM-20951,Segun Adeleke,19,Male,Katsina,Premium,Dental,42600,Pending,14,State Specialist Hospital
+CLM-20952,Kola Ibrahim,50,Male,Ogun,Standard,Maternity,283400,Approved,9,General Hospital
+CLM-20953,Musa Okonkwo,30,Male,Enugu,Basic,Optical,12500,Approved,8,General Hospital
+CLM-20954,Fatima Adeyemi,62,Female,Plateau,Basic,Maternity,136700,Approved,6,Federal Medical Centre
+CLM-20955,Blessing Danjuma,68,Female,Ogun,Basic,Dental,29900,Rejected,20,General Hospital
+CLM-20956,Biodun Ibrahim,71,Male,Ogun,Standard,Optical,30000,Approved,4,State Specialist Hospital
+CLM-20957,Ahmed Eze,48,Male,Oyo,Standard,Emergency,233400,Approved,5,Jericho Hospital
+CLM-20958,Zainab Balogun,67,Female,Ogun,Standard,Inpatient,635300,Approved,8,State Specialist Hospital
+CLM-20959,Aisha Nnaji,18,Female,Katsina,Basic,Surgery,882800,Pending,23,General Hospital
+CLM-20960,Ngozi Salako,56,Female,Edo,Basic,Optical,16200,Approved,7,Federal Medical Centre
+CLM-20961,Segun Nwosu,42,Male,Ogun,Standard,Maternity,452700,Approved,9,General Hospital
+CLM-20962,Amaka Balogun,29,Female,Oyo,Basic,Dental,9800,Approved,1,Ring Road State Hospital
+CLM-20963,Biodun Okonkwo,43,Male,Enugu,Premium,Emergency,160600,Approved,9,State Specialist Hospital
+CLM-20964,Yetunde Adeleke,18,Female,Edo,Standard,Emergency,263300,Approved,4,General Hospital
+CLM-20965,Aisha Usman,23,Female,Oyo,Standard,Inpatient,192500,Pending,26,University College Hospital Ibadan
+CLM-20966,Kola Adeleke,30,Male,Anambra,Premium,Maternity,479100,Rejected,9,Federal Medical Centre
+CLM-20967,Tunde Danjuma,42,Male,Imo,Standard,Outpatient,12400,Under Review,7,General Hospital
+CLM-20968,Ibrahim Okafor,70,Male,Delta,Premium,Optical,37700,Approved,10,General Hospital
+CLM-20969,Zainab Nnaji,57,Female,Anambra,Standard,Maternity,182900,Under Review,21,General Hospital
+CLM-20970,Tunde Eze,37,Male,Katsina,Standard,Surgery,236300,Rejected,18,Federal Medical Centre
+CLM-20971,Ahmed Balogun,67,Male,Kano,Basic,Inpatient,116700,Approved,12,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20972,Sola Ibrahim,63,Female,Kano,Executive,Optical,46000,Under Review,27,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20973,Tunde Abubakar,27,Male,Edo,Standard,Surgery,725200,Under Review,28,General Hospital
+CLM-20974,Kola Usman,53,Male,Abuja,Standard,Surgery,591400,Approved,9,Maitama District Hospital
+CLM-20975,Blessing Danjuma,39,Female,Ogun,Executive,Outpatient,102500,Rejected,11,State Specialist Hospital
+CLM-20976,Emeka Ibrahim,47,Male,Edo,Standard,Surgery,461100,Approved,6,State Specialist Hospital
+CLM-20977,Sola Balogun,35,Female,Kano,Premium,Optical,23300,Under Review,22,Muhammad Abdullahi Wase Specialist Hospital
+CLM-20978,Obinna Lawal,54,Male,Lagos,Standard,Optical,10800,Rejected,14,Eko Hospital
+CLM-20979,Folake Danjuma,41,Female,Katsina,Executive,Emergency,138800,Approved,8,General Hospital
+CLM-20980,Emeka Okafor,22,Male,Abuja,Standard,Inpatient,270800,Approved,10,Garki Hospital
+CLM-20981,Ahmed Eze,69,Male,Akwa Ibom,Premium,Optical,38600,Approved,8,General Hospital
+CLM-20982,Ibrahim Salako,38,Male,Rivers,Basic,Optical,6600,Approved,5,Braithwaite Memorial Hospital
+CLM-20983,Chidi Lawal,22,Male,Oyo,Standard,Dental,18100,Approved,16,University College Hospital Ibadan
+CLM-20984,Yusuf Nwosu,68,Male,Enugu,Standard,Dental,26400,Pending,17,General Hospital
+CLM-20985,Zainab Okonkwo,34,Female,Kaduna,Basic,Inpatient,120200,Approved,14,General Hospital
+CLM-20986,Fatima Eze,50,Female,Rivers,Basic,Surgery,434400,Approved,8,Kelsey Harrison Hospital
+CLM-20987,Tunde Abubakar,53,Male,Imo,Basic,Outpatient,11600,Approved,10,Federal Medical Centre
+CLM-20988,Chidinma Lawal,71,Female,Delta,Basic,Emergency,90500,Under Review,28,General Hospital
+CLM-20989,Kola Adeleke,47,Male,Rivers,Executive,Optical,17900,Approved,9,University of Port Harcourt Teaching Hospital
+CLM-20990,Obinna Balogun,21,Male,Ogun,Standard,Dental,59000,Approved,6,General Hospital
+CLM-20991,Chidinma Abubakar,65,Female,Lagos,Basic,Maternity,102500,Rejected,14,Meridian Hospital
+CLM-20992,Kunle Abubakar,63,Male,Rivers,Executive,Inpatient,309600,Approved,9,Braithwaite Memorial Hospital
+CLM-20993,Hauwa Ibrahim,54,Female,Rivers,Standard,Emergency,542700,Pending,12,Kelsey Harrison Hospital
+CLM-20994,Ahmed Balogun,24,Male,Oyo,Standard,Emergency,249400,Pending,19,University College Hospital Ibadan
+CLM-20995,Kunle Adeyemi,64,Male,Katsina,Standard,Inpatient,151300,Rejected,17,State Specialist Hospital
+CLM-20996,Yetunde Danjuma,56,Female,Akwa Ibom,Premium,Maternity,334900,Approved,13,General Hospital
+CLM-20997,Ifeoma Balogun,39,Female,Imo,Premium,Emergency,489800,Pending,17,General Hospital
+CLM-20998,Hauwa Okonkwo,24,Female,Plateau,Premium,Dental,30000,Approved,7,General Hospital
+CLM-20999,Chidi Nwosu,26,Male,Edo,Executive,Outpatient,109400,Under Review,18,Federal Medical Centre
+CLM-21000,Ahmed Usman,39,Male,Katsina,Basic,Dental,11800,Approved,7,Federal Medical Centre
