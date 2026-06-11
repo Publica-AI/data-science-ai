@@ -1,0 +1,201 @@
+product_category,state,month,units_sold_last_month,promotion_active,units_sold_this_month
+Health & Beauty,Abuja,12,301,0,414
+Sports,Delta,5,277,0,340
+Books,Anambra,12,260,0,284
+Fashion,Kano,9,365,0,410
+Phones & Tablets,Lagos,12,401,0,777
+Books,Anambra,11,80,0,86
+Sports,Rivers,1,399,0,353
+Books,Delta,3,395,0,347
+Health & Beauty,Kano,6,411,0,382
+Phones & Tablets,Abuja,7,122,0,163
+Electronics,Delta,4,395,0,519
+Phones & Tablets,Kano,10,416,1,690
+Phones & Tablets,Lagos,6,440,0,693
+Fashion,Abuja,6,257,0,300
+Home & Kitchen,Rivers,10,177,0,270
+Health & Beauty,Anambra,3,355,0,281
+Home & Kitchen,Abuja,10,356,0,440
+Electronics,Abuja,8,365,0,499
+Home & Kitchen,Abuja,2,105,0,106
+Home & Kitchen,Rivers,9,455,1,713
+Books,Rivers,4,436,0,419
+Phones & Tablets,Delta,12,133,0,223
+Health & Beauty,Abuja,4,406,1,622
+Home & Kitchen,Kano,12,461,0,720
+Phones & Tablets,Delta,9,198,0,245
+Fashion,Anambra,4,469,0,485
+Phones & Tablets,Abuja,4,254,0,315
+Electronics,Anambra,10,292,0,370
+Phones & Tablets,Lagos,9,97,0,163
+Fashion,Lagos,2,330,0,429
+Phones & Tablets,Abuja,11,102,1,228
+Books,Rivers,11,229,0,325
+Health & Beauty,Oyo,8,447,1,596
+Fashion,Abuja,5,208,0,199
+Sports,Abuja,6,238,0,277
+Sports,Abuja,9,219,0,253
+Fashion,Oyo,8,288,1,390
+Home & Kitchen,Lagos,9,179,0,230
+Books,Delta,3,120,0,136
+Electronics,Abuja,3,17,0,16
+Home & Kitchen,Kano,8,87,0,102
+Health & Beauty,Oyo,6,86,0,60
+Sports,Lagos,2,191,1,336
+Books,Lagos,1,342,1,598
+Electronics,Anambra,5,123,0,132
+Fashion,Abuja,10,303,0,387
+Health & Beauty,Lagos,10,366,0,446
+Fashion,Lagos,9,68,0,91
+Health & Beauty,Oyo,10,213,1,281
+Books,Abuja,9,475,0,456
+Sports,Kano,10,187,1,243
+Sports,Kano,6,261,0,231
+Fashion,Anambra,6,121,1,175
+Home & Kitchen,Delta,11,477,0,530
+Health & Beauty,Delta,9,32,0,27
+Home & Kitchen,Rivers,9,73,0,84
+Home & Kitchen,Delta,9,417,0,424
+Health & Beauty,Oyo,5,156,0,128
+Books,Oyo,7,383,0,524
+Health & Beauty,Anambra,6,500,0,445
+Phones & Tablets,Delta,7,360,0,436
+Electronics,Rivers,10,170,0,149
+Sports,Lagos,10,135,0,188
+Books,Anambra,9,101,1,117
+Fashion,Abuja,12,246,0,337
+Phones & Tablets,Kano,3,388,1,664
+Sports,Oyo,11,55,0,72
+Home & Kitchen,Delta,3,423,1,546
+Books,Lagos,3,178,1,304
+Phones & Tablets,Anambra,4,15,0,21
+Health & Beauty,Abuja,10,141,0,96
+Fashion,Oyo,3,364,1,505
+Books,Oyo,4,69,0,66
+Electronics,Delta,10,352,0,388
+Health & Beauty,Oyo,7,22,1,34
+Health & Beauty,Kano,5,251,1,401
+Phones & Tablets,Delta,1,353,0,453
+Health & Beauty,Delta,6,262,1,419
+Home & Kitchen,Abuja,2,264,0,278
+Home & Kitchen,Oyo,1,77,0,89
+Health & Beauty,Lagos,5,392,0,503
+Health & Beauty,Rivers,4,274,0,258
+Books,Delta,11,165,0,182
+Books,Abuja,11,377,1,692
+Books,Abuja,5,337,0,337
+Phones & Tablets,Oyo,9,138,0,171
+Home & Kitchen,Abuja,1,183,0,150
+Fashion,Abuja,5,418,1,513
+Phones & Tablets,Lagos,3,56,1,117
+Health & Beauty,Abuja,11,73,0,87
+Home & Kitchen,Lagos,8,189,1,356
+Sports,Oyo,8,172,0,165
+Books,Delta,10,429,1,576
+Fashion,Abuja,2,265,1,304
+Health & Beauty,Rivers,8,236,0,297
+Health & Beauty,Anambra,11,332,0,387
+Home & Kitchen,Anambra,2,194,0,249
+Health & Beauty,Oyo,10,248,0,281
+Books,Rivers,12,427,1,728
+Electronics,Lagos,4,444,1,969
+Fashion,Anambra,3,101,0,105
+Electronics,Kano,3,122,0,133
+Phones & Tablets,Kano,2,84,0,101
+Home & Kitchen,Lagos,9,194,0,315
+Electronics,Kano,5,406,0,516
+Sports,Oyo,7,233,0,190
+Sports,Lagos,11,400,0,681
+Phones & Tablets,Lagos,8,470,0,668
+Home & Kitchen,Rivers,1,79,0,71
+Electronics,Rivers,2,406,0,557
+Fashion,Lagos,2,463,0,569
+Books,Abuja,4,246,1,326
+Phones & Tablets,Oyo,2,399,1,676
+Phones & Tablets,Kano,11,371,0,486
+Fashion,Kano,12,105,0,112
+Books,Abuja,5,216,0,222
+Books,Rivers,7,429,0,376
+Phones & Tablets,Delta,2,377,0,493
+Phones & Tablets,Kano,10,80,0,109
+Electronics,Kano,8,67,0,90
+Fashion,Oyo,3,418,1,653
+Health & Beauty,Delta,10,298,1,455
+Books,Rivers,8,170,0,187
+Sports,Abuja,4,319,1,398
+Electronics,Oyo,8,385,0,554
+Fashion,Delta,10,145,0,155
+Fashion,Oyo,11,354,1,766
+Sports,Rivers,6,270,0,239
+Health & Beauty,Delta,9,456,0,450
+Phones & Tablets,Abuja,12,248,0,393
+Books,Kano,8,223,0,253
+Health & Beauty,Kano,5,262,0,307
+Sports,Lagos,3,101,0,111
+Electronics,Oyo,11,259,0,390
+Sports,Anambra,11,387,0,528
+Fashion,Anambra,9,169,0,185
+Sports,Anambra,12,172,0,207
+Fashion,Anambra,7,235,0,236
+Phones & Tablets,Delta,1,24,1,39
+Sports,Lagos,2,308,0,469
+Books,Abuja,2,422,0,440
+Electronics,Delta,2,290,0,332
+Sports,Anambra,10,316,1,454
+Home & Kitchen,Delta,6,203,0,222
+Electronics,Lagos,12,269,1,735
+Phones & Tablets,Abuja,8,81,0,106
+Home & Kitchen,Delta,11,68,0,80
+Phones & Tablets,Kano,9,443,0,426
+Health & Beauty,Abuja,6,390,0,449
+Electronics,Abuja,4,434,0,592
+Home & Kitchen,Lagos,12,306,0,449
+Health & Beauty,Abuja,1,335,0,336
+Home & Kitchen,Abuja,12,165,1,264
+Books,Anambra,1,299,0,238
+Electronics,Oyo,4,257,0,310
+Fashion,Delta,9,193,0,158
+Phones & Tablets,Anambra,1,235,1,380
+Electronics,Abuja,6,414,0,553
+Sports,Abuja,11,391,0,388
+Home & Kitchen,Rivers,4,13,1,17
+Books,Abuja,11,197,0,275
+Fashion,Anambra,12,465,0,657
+Phones & Tablets,Anambra,2,119,0,121
+Home & Kitchen,Abuja,5,373,0,267
+Health & Beauty,Kano,7,220,0,216
+Electronics,Rivers,1,451,0,534
+Phones & Tablets,Abuja,10,128,1,231
+Electronics,Delta,2,55,0,81
+Electronics,Rivers,12,31,0,50
+Phones & Tablets,Oyo,1,396,0,369
+Phones & Tablets,Lagos,4,297,1,663
+Electronics,Lagos,1,223,0,353
+Sports,Delta,2,343,0,365
+Books,Rivers,9,411,0,335
+Health & Beauty,Rivers,8,61,1,82
+Sports,Rivers,3,260,0,274
+Fashion,Abuja,1,156,0,152
+Health & Beauty,Kano,12,19,1,35
+Sports,Anambra,1,440,0,569
+Home & Kitchen,Anambra,3,192,0,170
+Health & Beauty,Lagos,3,158,0,191
+Books,Rivers,4,446,0,411
+Health & Beauty,Delta,11,22,0,32
+Electronics,Delta,1,432,1,779
+Fashion,Abuja,5,224,1,321
+Sports,Delta,8,26,0,23
+Phones & Tablets,Oyo,10,244,0,256
+Health & Beauty,Abuja,3,500,0,454
+Books,Rivers,6,42,0,50
+Health & Beauty,Anambra,12,155,1,277
+Sports,Delta,10,375,0,420
+Health & Beauty,Lagos,6,384,1,679
+Health & Beauty,Lagos,5,397,1,711
+Electronics,Rivers,10,196,1,338
+Sports,Abuja,1,38,0,42
+Books,Anambra,6,270,0,290
+Electronics,Lagos,1,476,0,739
+Home & Kitchen,Lagos,10,31,0,38
+Phones & Tablets,Kano,5,12,1,16
+Books,Oyo,7,245,0,256
