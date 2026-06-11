@@ -1,0 +1,501 @@
+﻿order_id,customer_name,phone,email,state,city,product_category,product_name,quantity,unit_price,total_amount,order_date,delivery_status,payment_method
+ORD-0001,Rukayat Obi,07086001338,rukayatobi@hotmail.com,Abuja,Maitama,Fashion,Handbag,2,₦5358,10716,2024-02-08,Shipped,Cash on Delivery
+ORD-0002,Emeka Obiora,08066155940,emekaobiora@hotmail.com,Oyo,Ogbomosho,Home & Kitchen,Laundry Basket,3,₦11689,35067,2024-02-03,Processing,USSD
+ORD-0003,Adaeze Abubakar,08131647525,adaeze_abubakar27@gmail.com,OGUN,Ota,Fashion,Women's Dress,1,₦23668,23668,2024-02-20,Cancelled,Bank Transfer
+ORD-0004,Rukayat Obiora,08130564139,rukayatobiora@hotmail.com,anambra,Awka,Home & Kitchen,Curtains Set,3,₦15892,47676,2024-01-13,Cancelled,Opay Wallet
+ORD-0005,Segun Chukwu,,segunchukwu21@gmail.com,KANO,Fagge,Fashion,Sunglasses,5,₦16038,80190,2024-06-13,Shipped,Cash on Delivery
+ORD-0006,Ifeanyi Obiora,08166270482,ifeanyiobiora14@yahoo.com,delta,Agbor,Electronics,USB Charger,5,₦20986,104930,2024-02-05,Delivered,Bank Transfer
+ORD-0007,Blessing Abubakar,08033911718,blessing.abubakar17@yahoo.com,Anambra,Ogidi,Food & Drinks,Lipton Tea Box,1,₦1716,1716,2024-04-09,Processing,Cash on Delivery
+ORD-0008,Chidi Salami,09057133150,chidisalami@yahoo.com,enugu,Awgu,Fashion,Sunglasses,4,₦24009,96036,2024-08-01,Delivered,Card
+ORD-0009,Ibrahim Nwachukwu,09052997376,ibrahim.nwachukwu@hotmail.com,Rivers,Port Harcourt,Food & Drinks,Indomie Noodles (12-pack),5,₦2749,13745,2024-04-12,Shipped,Opay Wallet
+ORD-0010,Adaeze Lawal,09057262473,adaeze.lawal@gmail.com,Delta,Warri,Electronics,Power Bank,3,₦10661,,2024-04-21,Processing,Card
+ORD-0011,Tunde Adeyemi,07060647468,tundeadeyemi92@yahoo.com,ABUJA,Wuse,Home & Kitchen,Bed Sheets,4,₦15508,285000,2024-03-07,Delivered,Bank Transfer
+ORD-0012,Musa Usman,08038121913,musa_usman@gmail.com,Lagos,Surulere,Electronics,Bluetooth Speaker,5,₦34746,173730,2024-03-20,Delivered,Opay Wallet
+ORD-0013,Tunde Bello,08167510799,tunde.bello@outlook.com,OGUN,Ijebu-Ode,Fashion,Wristwatch,2,₦10703,21406,2024-11-05,Delivered,Card
+ORD-0014,Halima Usman,09054124118,halima.usman35@yahoo.com,RIVERS,Eleme,Fashion,Ankara Top,5,₦11912,59560,2024-01-23,Delivered,Bank Transfer
+ORD-0015,Ngozi Okafor,08104278680,ngozi.okafor@gmail.com,Oyo,Oyo,Electronics,USB Charger,4,₦21632,86528,2024-06-27,Delivered,Cash on Delivery
+ORD-0016,Ngozi Salami,08131586923,ngozi.salami23@gmail.com,anambra,Ekwulobia,Fashion,Men's Shirt,3,₦13948,41844,2024-04-06,Cancelled,USSD
+ORD-0017,Kemi Musa,09025433036,kemi_musa@outlook.com,enugu,Agbani,Fashion,Women's Dress,4,₦3268,13072,2024-04-12,Cancelled,Cash on Delivery
+ORD-0018,Ibrahim Adeyemi,,ibrahim_adeyemi@outlook.com,ENUGU,Enugu,Electronics,Laptop Stand,2,₦41549,83098,2024-02-02,Cancelled,Opay Wallet
+ORD-0019,Rukayat Nwosu,08168465648,rukayat.nwosu25@hotmail.com,lagos,Surulere,Home & Kitchen,Blender,3,₦22072,66216,2024-12-22,Cancelled,Bank Transfer
+ORD-0020,Emeka Garba,07085777387,emekagarba@outlook.com,OGUN,Ilaro,Beauty & Health,Hair Relaxer,3,₦10601,31803,2024-10-17,Cancelled,Cash on Delivery
+ORD-0021,Chukwuemeka Adeyemi,09029176936,chukwuemeka_adeyemi@yahoo.com,Kaduna,Kaduna North,Food & Drinks,Milo 400g,2,₦2007,4014,2024-04-21,Cancelled,Card
+ORD-0022,Adaeze Nwosu,08107889579,adaezenwosu65@hotmail.com,Abuja,Wuse,Fashion,Ankara Top,1,₦20265,20265,2024-08-29,Delivered,Opay Wallet
+ORD-0023,Adaeze Eze,08064345581,adaeze.eze@hotmail.com,delta,Asaba,Food & Drinks,Bournvita 500g,4,₦5934,23736,2024-08-23,Delivered,Bank Transfer
+ORD-0024,Ngozi Lawal,07069096705,ngozi_lawal97@hotmail.com,Abuja,Gwarinpa,Food & Drinks,Bournvita 500g,4,₦4206,16824,2024-07-18,Cancelled,Cash on Delivery
+ORD-0025,Chukwuemeka Chukwu,07062729806,chukwuemekachukwu@gmail.com,ogun,Ilaro,Fashion,Sunglasses,4,₦17913,71652,2024-06-21,Shipped,Bank Transfer
+ORD-0026,Obinna Obiora,07064641708,obinna.obiora@gmail.com,DELTA,Warri,Food & Drinks,Lipton Tea Box,3,₦2533,,2024-06-25,Cancelled,Card
+ORD-0027,Kemi Nwosu,08137452991,kemi.nwosu@gmail.com,lagos,Lekki,Electronics,Wireless Earbuds,2,₦11772,23544,2024-10-30,Delivered,Cash on Delivery
+ORD-0028,Rukayat Ogundipe,07080586518,rukayatogundipe@hotmail.com,Enugu,Nsukka,Electronics,Phone Case,1,₦23264,23264,2024-02-27,Shipped,Card
+ORD-0029,Chidi Eze,09057769453,chidi.eze36@yahoo.com,ENUGU,Oji River,Fashion,Jeans,2,₦19096,38192,2024-10-25,Shipped,Cash on Delivery
+ORD-0030,Kemi Lawal,08165494808,kemi.lawal@hotmail.com,Ogun,Ijebu-Ode,Electronics,Webcam,3,₦15417,46251,2024-06-16,Processing,Bank Transfer
+ORD-0031,Tunde Musa,07085788568,tunde_musa46@outlook.com,Delta,Ughelli,Electronics,USB Charger,3,₦18022,54066,2024-05-10,Delivered,Bank Transfer
+ORD-0032,Zainab Nwachukwu,07088941343,zainab_nwachukwu23@gmail.com,ABUJA,Maitama,Electronics,Wireless Earbuds,2,₦17680,35360,2024-05-23,Processing,Bank Transfer
+ORD-0033,Amina Okafor,08167775204,amina_okafor@hotmail.com,Oyo,Ibadan,Beauty & Health,Vitamin C Serum,2,₦17285,34570,2024-10-16,Delivered,Cash on Delivery
+ORD-0034,Amina Obi,07089938677,amina_obi76@outlook.com,lagos,Lekki,Beauty & Health,Vitamin C Serum,1,₦9332,9332,2024-07-19,Processing,Card
+ORD-0035,Adaeze Okonkwo,08062067974,adaeze.okonkwo30@outlook.com,Ogun,Sagamu,Fashion,Sunglasses,1,₦7146,7146,2024-09-23,Shipped,Card
+ORD-0036,Adaeze Bello,08101024994,adaeze_bello16@outlook.com,RIVERS,Oyigbo,Fashion,Jeans,1,₦19844,19844,2024-05-23,Shipped,USSD
+ORD-0037,Halima Eze,08063990490,halima.eze61@outlook.com,Anambra,Ekwulobia,Electronics,Bluetooth Speaker,4,₦24623,98492,2024-01-06,Processing,Opay Wallet
+ORD-0038,Rukayat Nwosu,07036746807,rukayat.nwosu41@outlook.com,Delta,Ughelli,Food & Drinks,Lipton Tea Box,3,₦3430,10290,2024-03-04,Shipped,Cash on Delivery
+ORD-0039,Halima Nwachukwu,,halimanwachukwu@gmail.com,Lagos,Yaba,Electronics,Phone Case,5,₦27209,136045,2024-11-21,Processing,Bank Transfer
+ORD-0040,Amina Adeleke,08107484677,amina.adeleke@hotmail.com,KANO,Tarauni,Electronics,Power Bank,1,₦18225,18225,2024-02-07,Processing,Cash on Delivery
+ORD-0041,Chukwuemeka Abubakar,08169972787,chukwuemeka_abubakar43@hotmail.com,Kano,Dala,Home & Kitchen,Laundry Basket,5,₦19009,95045,2024-12-30,Delivered,Bank Transfer
+ORD-0042,Damilola Chukwu,08107028951,damilola_chukwu13@gmail.com,Rivers,Obio-Akpor,Home & Kitchen,Non-stick Pot,3,₦32496,97488,2024-07-24,Delivered,Opay Wallet
+ORD-0043,Tunde Mohammed,09056578091,tunde.mohammed81@yahoo.com,Kano,Gwale,Food & Drinks,Golden Morn 1kg,5,₦6474,32370,2024-06-24,Delivered,Opay Wallet
+ORD-0044,Yusuf Adeyemi,07035623869,yusufadeyemi@yahoo.com,Abuja,Gwarinpa,Fashion,Sunglasses,1,₦3507,3507,2024-05-03,Processing,Opay Wallet
+ORD-0045,Chidi Eze,08160748217,chidi_eze76@hotmail.com,ogun,Ilaro,Beauty & Health,Face Moisturiser,2,₦16310,32620,2024-08-23,Delivered,Opay Wallet
+ORD-0046,Segun Salami,08164064090,segunsalami96@outlook.com,OYO,Iseyin,Home & Kitchen,Blender,2,₦26493,52986,2024-10-25,Delivered,Cash on Delivery
+ORD-0047,Chidi Adeyemi,09020952145,chidiadeyemi@yahoo.com,kaduna,Kaduna North,Beauty & Health,Vitamin C Serum,2,₦4383,8766,2024-05-05,Processing,USSD
+ORD-0048,Yusuf Nwosu,08062368516,yusuf.nwosu@hotmail.com,ANAMBRA,Awka,Food & Drinks,Lipton Tea Box,3,₦6915,20745,2024-08-12,Cancelled,USSD
+ORD-0049,Halima Obi,07083174612,halima.obi5@hotmail.com,Ogun,Ijebu-Ode,Electronics,Phone Case,4,₦5140,20560,2024-06-04,Delivered,Bank Transfer
+ORD-0050,Segun Bello,08067964053,segun_bello@outlook.com,anambra,Ekwulobia,Home & Kitchen,Laundry Basket,5,₦28967,144835,2024-07-04,Cancelled,USSD
+ORD-0051,Obinna Mohammed,08139005329,obinna.mohammed@yahoo.com,ANAMBRA,Onitsha,Home & Kitchen,Chopping Board,2,₦9505,19010,2024-11-27,Delivered,USSD
+ORD-0052,Fatima Nwosu,08032053950,fatima.nwosu@yahoo.com,Kano,Dala,Fashion,Sneakers,5,₦10213,51065,2024-11-24,Shipped,Cash on Delivery
+ORD-0053,Obinna Usman,07080847007,obinna_usman@hotmail.com,Abuja,Gwarinpa,Home & Kitchen,Laundry Basket,5,₦8646,43230,2024-04-23,Shipped,Card
+ORD-0054,Halima Yusuf,07036984789,halima_yusuf@yahoo.com,abuja,Asokoro,Fashion,Women's Dress,2,₦11011,22022,2024-09-14,Shipped,Bank Transfer
+ORD-0055,Aisha Obiora,08165271111,aisha_obiora13@yahoo.com,ENUGU,Oji River,Home & Kitchen,Curtains Set,1,₦21983,21983,2024-11-18,Delivered,Cash on Delivery
+ORD-0056,Chioma Ogundipe,07031983273,chioma.ogundipe45@gmail.com,ANAMBRA,Onitsha,Home & Kitchen,Laundry Basket,4,₦4871,312000,2024-05-25,Delivered,Cash on Delivery
+ORD-0057,Chukwuemeka Okonkwo,08165502296,chukwuemeka.okonkwo@gmail.com,Rivers,Oyigbo,Beauty & Health,Hair Relaxer,5,₦9963,49815,2024-05-24,Processing,Bank Transfer
+ORD-0058,Zainab Obiora,07081022901,zainab_obiora57@hotmail.com,Enugu,Oji River,Food & Drinks,Milo 400g,3,₦3352,10056,2024-10-20,Shipped,Opay Wallet
+ORD-0059,Chioma Yusuf,09054036900,chioma.yusuf@yahoo.com,OYO,Saki,Electronics,Smart Watch,4,₦10767,43068,2024-08-25,Delivered,USSD
+ORD-0060,Tunde Obi,08138851606,tunde.obi@outlook.com,Kaduna,Kaduna South,Home & Kitchen,Curtains Set,2,₦9966,19932,2024-12-19,Shipped,Cash on Delivery
+ORD-0061,Fatima Ogundipe,07031613696,fatimaogundipe11@outlook.com,Enugu,Agbani,Electronics,Power Bank,1,₦24784,24784,2024-08-24,Delivered,Bank Transfer
+ORD-0062,Emeka Salami,08103124329,emeka.salami@yahoo.com,kaduna,Kaduna South,Beauty & Health,Body Lotion,5,₦17910,,2024-06-25,Cancelled,Opay Wallet
+ORD-0063,Obinna Mohammed,09024490581,obinna_mohammed60@gmail.com,Delta,Agbor,Beauty & Health,Hair Weave,3,₦6146,18438,2024-08-02,Delivered,USSD
+ORD-0064,Obinna Yusuf,08135978207,obinna.yusuf@yahoo.com,Abuja,Asokoro,Beauty & Health,Perfume 50ml,4,₦2544,10176,2024-11-02,Delivered,Opay Wallet
+ORD-0065,Ifeanyi Obiora,07080515186,ifeanyi_obiora@outlook.com,DELTA,Sapele,Food & Drinks,Golden Morn 1kg,4,₦4148,16592,2024-11-03,Processing,Bank Transfer
+ORD-0066,Tunde Obiora,09051685054,tunde.obiora28@hotmail.com,KADUNA,Kafanchan,Fashion,Women's Dress,3,₦20314,60942,2024-03-07,Delivered,Bank Transfer
+ORD-0067,Oluwaseun Ogundipe,08102292706,oluwaseun_ogundipe@hotmail.com,Kano,Dala,Electronics,Bluetooth Speaker,3,₦44003,132009,2024-07-20,Delivered,Opay Wallet
+ORD-0068,Obinna Abubakar,09058623924,obinna.abubakar83@outlook.com,rivers,Eleme,Home & Kitchen,Dish Rack,3,₦30374,91122,2024-07-18,Delivered,Cash on Delivery
+ORD-0069,Oluwaseun Garba,08137506068,oluwaseun_garba31@gmail.com,abuja,Garki,Fashion,Sunglasses,4,₦18821,75284,2024-02-12,Delivered,Card
+ORD-0070,Kemi Bello,09027901043,kemi.bello71@gmail.com,Kaduna,Zaria,Fashion,Sneakers,1,₦11400,11400,2024-12-25,Delivered,Bank Transfer
+ORD-0071,Babatunde Nwosu,07088089324,babatunde_nwosu1@yahoo.com,Oyo,Ibadan,Fashion,Jeans,5,₦16978,84890,2024-08-19,Shipped,Bank Transfer
+ORD-0072,Ngozi Chukwu,08160515319,ngozichukwu97@yahoo.com,abuja,Garki,Beauty & Health,Hair Relaxer,4,₦16605,66420,2024-06-02,Delivered,Cash on Delivery
+ORD-0073,Damilola Adeleke,,damilola_adeleke70@outlook.com,kaduna,Kafanchan,Home & Kitchen,Electric Kettle,2,₦5635,11270,2024-01-02,Cancelled,Bank Transfer
+ORD-0074,Blessing Garba,09026527758,blessing_garba11@gmail.com,oyo,Ibadan,Food & Drinks,Golden Morn 1kg,1,₦7348,7348,2024-07-14,Processing,Bank Transfer
+ORD-0075,Chioma Adeleke,07062757059,chioma_adeleke@gmail.com,ANAMBRA,Nnewi,Electronics,USB Charger,3,₦22875,68625,2024-10-22,Cancelled,Opay Wallet
+ORD-0076,Babatunde Musa,07035690927,babatunde_musa48@gmail.com,kaduna,Kaduna South,Fashion,Ankara Top,1,₦6136,6136,2024-11-19,Delivered,Cash on Delivery
+ORD-0077,Zainab Okonkwo,09056814473,zainabokonkwo37@yahoo.com,Kaduna,Zaria,Food & Drinks,Milo 400g,1,₦1012,1012,2024-08-04,Delivered,Card
+ORD-0078,Nneka Obi,08162258313,nneka.obi31@gmail.com,DELTA,Ughelli,Electronics,Smart Watch,3,₦7755,23265,2024-05-12,Processing,Cash on Delivery
+ORD-0079,Tunde Nwachukwu,07066912517,tunde_nwachukwu88@yahoo.com,Kaduna,Igabi,Fashion,Women's Dress,1,₦12134,12134,2024-09-29,Processing,Cash on Delivery
+ORD-0080,Chioma Okonkwo,07033584143,chiomaokonkwo71@yahoo.com,kano,Gwale,Beauty & Health,Hair Relaxer,1,₦6214,6214,2024-03-21,Delivered,Cash on Delivery
+ORD-0081,Halima Ogundipe,07080010943,halimaogundipe@hotmail.com,Anambra,Ogidi,Fashion,Sneakers,2,₦23585,47170,2024-06-29,Cancelled,Cash on Delivery
+ORD-0082,Babatunde Adeyemi,09026773592,babatunde_adeyemi92@outlook.com,oyo,Iseyin,Fashion,Jeans,3,₦16861,50583,2024-03-13,Delivered,USSD
+ORD-0083,Obinna Musa,08060469632,obinna_musa74@yahoo.com,Anambra,Nnewi,Fashion,Ankara Top,1,₦10764,10764,2024-03-25,Delivered,Opay Wallet
+ORD-0084,Tunde Usman,08133950047,tundeusman84@outlook.com,Anambra,Ekwulobia,Food & Drinks,Lipton Tea Box,1,₦1537,1537,2024-08-18,Delivered,Card
+ORD-0085,Tunde Adeyemi,09053584168,tunde_adeyemi98@gmail.com,enugu,Agbani,Food & Drinks,Lipton Tea Box,3,₦1170,3510,2024-10-05,Delivered,Opay Wallet
+ORD-0086,Musa Chukwu,08030025787,musa.chukwu@outlook.com,KADUNA,Igabi,Food & Drinks,Milo 400g,2,₦5735,11470,2024-09-30,Processing,USSD
+ORD-0087,Musa Obi,07084705516,musaobi@hotmail.com,Kano,Tarauni,Food & Drinks,Bournvita 500g,3,₦4955,14865,2024-08-09,Cancelled,Cash on Delivery
+ORD-0088,Oluwaseun Musa,07081307562,oluwaseun_musa@hotmail.com,ogun,Abeokuta,Beauty & Health,Lip Gloss Set,2,₦13658,27316,2024-01-17,Processing,Opay Wallet
+ORD-0089,Tunde Obiora,09028585497,tunde.obiora32@outlook.com,lagos,Victoria Island,Fashion,Wristwatch,4,₦19218,76872,2024-03-08,Delivered,USSD
+ORD-0090,Chioma Nwosu,09056652404,chiomanwosu11@hotmail.com,Rivers,Eleme,Home & Kitchen,Laundry Basket,5,₦19421,97105,2024-10-21,Delivered,Opay Wallet
+ORD-0091,Amina Ogundipe,07083308330,amina.ogundipe53@hotmail.com,rivers,Oyigbo,Food & Drinks,Bournvita 500g,3,₦1924,,2024-12-04,Cancelled,Bank Transfer
+ORD-0092,Yusuf Abubakar,08031938026,yusuf.abubakar5@hotmail.com,lagos,Yaba,Home & Kitchen,Bed Sheets,2,₦20324,40648,2024-11-06,Cancelled,USSD
+ORD-0093,Obinna Obi,09022874315,obinna.obi94@outlook.com,Lagos,Surulere,Beauty & Health,Body Lotion,3,₦10524,31572,2024-09-23,Delivered,Card
+ORD-0094,Tunde Garba,07031612275,tunde.garba1@hotmail.com,KADUNA,Igabi,Fashion,Sneakers,5,₦22929,114645,2024-09-08,Shipped,USSD
+ORD-0095,Damilola Musa,08067426841,damilolamusa38@yahoo.com,KADUNA,Igabi,Beauty & Health,Hair Relaxer,3,₦12981,38943,2024-01-08,Delivered,Opay Wallet
+ORD-0096,Ifeanyi Obi,08133918785,ifeanyi.obi@gmail.com,Kano,Tarauni,Food & Drinks,Lipton Tea Box,5,₦4657,23285,2024-11-27,Processing,Cash on Delivery
+ORD-0097,Rukayat Lawal,07087187072,rukayatlawal54@gmail.com,rivers,Obio-Akpor,Food & Drinks,Bournvita 500g,4,₦1752,7008,2024-12-18,Shipped,USSD
+ORD-0098,Ngozi Garba,08068017046,ngozi.garba@hotmail.com,Lagos,Surulere,Electronics,Phone Case,5,₦8286,41430,2024-06-12,Shipped,Opay Wallet
+ORD-0099,Fatima Obi,09052300478,fatima_obi69@yahoo.com,Enugu,Enugu,Beauty & Health,Face Moisturiser,3,₦5087,15261,2024-07-08,Shipped,USSD
+ORD-0100,Ifeanyi Okafor,08131190790,ifeanyi.okafor@hotmail.com,KANO,Fagge,Electronics,Bluetooth Speaker,4,₦43799,175196,2024-04-15,Delivered,Cash on Delivery
+ORD-0101,Segun Ogundipe,07033428364,segun_ogundipe@hotmail.com,Rivers,Obio-Akpor,Beauty & Health,Vitamin C Serum,2,₦11649,23298,2024-11-18,Shipped,Card
+ORD-0102,Oluwaseun Abubakar,08108733427,oluwaseun.abubakar72@hotmail.com,Kaduna,Igabi,Food & Drinks,Tin Tomatoes (24-pack),4,₦4144,16576,2024-07-18,Processing,Bank Transfer
+ORD-0103,Blessing Mohammed,08130469901,blessing.mohammed@hotmail.com,enugu,Agbani,Fashion,Wristwatch,1,₦16738,16738,2024-09-07,Delivered,USSD
+ORD-0104,Damilola Lawal,,damilola_lawal34@hotmail.com,lagos,Lekki,Electronics,Webcam,2,₦43110,86220,2024-07-15,Delivered,Opay Wallet
+ORD-0105,Adaeze Bello,08168996423,adaeze_bello30@yahoo.com,kaduna,Zaria,Food & Drinks,Lipton Tea Box,1,₦5408,5408,2024-01-16,Processing,USSD
+ORD-0106,Oluwaseun Obi,08108080100,oluwaseun_obi@gmail.com,Oyo,Iseyin,Home & Kitchen,Electric Kettle,3,₦12592,37776,2024-08-23,Delivered,Card
+ORD-0107,Chukwuemeka Obi,07060084840,chukwuemekaobi90@yahoo.com,Rivers,Eleme,Electronics,Webcam,4,₦4530,18120,2024-09-04,Delivered,Cash on Delivery
+ORD-0108,Tunde Mohammed,07067933410,tunde.mohammed52@hotmail.com,kano,Fagge,Beauty & Health,Vitamin C Serum,3,₦9959,29877,2024-06-18,Shipped,Card
+ORD-0109,Musa Adeyemi,08139740148,musaadeyemi@yahoo.com,lagos,Ikeja,Home & Kitchen,Curtains Set,3,₦7749,23247,2024-04-30,Delivered,Card
+ORD-0110,Adaeze Yusuf,09055621850,adaeze.yusuf@gmail.com,rivers,Ikwerre,Electronics,Laptop Stand,2,₦40459,80918,2024-07-11,Processing,Cash on Delivery
+ORD-0111,Adaeze Salami,07066296194,adaeze.salami@gmail.com,Ogun,Ijebu-Ode,Electronics,Laptop Stand,4,₦35652,142608,2024-09-09,Delivered,Opay Wallet
+ORD-0112,Chioma Adeleke,08161212678,chiomaadeleke66@gmail.com,Kano,Dala,Food & Drinks,Indomie Noodles (12-pack),1,₦842,842,2024-06-01,Delivered,USSD
+ORD-0113,Chioma Garba,08068398262,chioma.garba35@outlook.com,Anambra,Ogidi,Beauty & Health,Hair Weave,4,₦1604,6416,2024-07-16,Delivered,Card
+ORD-0114,Blessing Eze,09029937124,blessing.eze51@hotmail.com,Kano,Dala,Home & Kitchen,Chopping Board,4,₦6541,26164,2024-04-26,Delivered,Opay Wallet
+ORD-0115,Damilola Lawal,07032654793,damilola_lawal49@hotmail.com,Kaduna,Igabi,Fashion,Sunglasses,3,₦21766,65298,2024-08-12,Delivered,Cash on Delivery
+ORD-0116,Chioma Mohammed,09022434266,chioma.mohammed58@hotmail.com,rivers,Oyigbo,Electronics,Webcam,2,₦32234,64468,2024-07-18,Processing,Opay Wallet
+ORD-0117,Rukayat Salami,07080965610,rukayat.salami@yahoo.com,Anambra,Nnewi,Beauty & Health,Body Lotion,1,₦9334,9334,2024-03-15,Delivered,Opay Wallet
+ORD-0118,Aisha Mohammed,08105457387,aisha_mohammed@hotmail.com,DELTA,Sapele,Electronics,Webcam,1,₦22861,22861,2024-02-24,Cancelled,Opay Wallet
+ORD-0119,Chidi Nwosu,08103828258,chidi_nwosu@hotmail.com,Kaduna,Zaria,Electronics,USB Charger,1,₦25983,25983,2024-11-21,Delivered,Bank Transfer
+ORD-0120,Tunde Okafor,08133419182,tunde_okafor@hotmail.com,Enugu,Enugu,Beauty & Health,Toothbrush Set,4,₦15275,61100,2024-12-04,Delivered,Opay Wallet
+ORD-0121,Blessing Salami,07082499125,blessing.salami31@gmail.com,ANAMBRA,Ogidi,Home & Kitchen,Curtains Set,5,₦8986,44930,2024-08-06,Delivered,Bank Transfer
+ORD-0122,Aisha Okonkwo,09052827422,aisha_okonkwo@outlook.com,Anambra,Ekwulobia,Beauty & Health,Face Moisturiser,5,₦13773,68865,2024-08-31,Delivered,Opay Wallet
+ORD-0123,Aisha Adeleke,08101903404,aisha.adeleke69@yahoo.com,kano,Gwale,Beauty & Health,Lip Gloss Set,4,₦17312,69248,2024-08-25,Shipped,Cash on Delivery
+ORD-0124,Nneka Adeyemi,09028361340,nneka_adeyemi34@gmail.com,Delta,Agbor,Electronics,Laptop Stand,5,₦27542,137710,2024-12-15,Delivered,Bank Transfer
+ORD-0125,Emeka Lawal,07085849825,emekalawal38@outlook.com,RIVERS,Oyigbo,Home & Kitchen,Electric Kettle,5,₦10624,53120,2024-01-31,Processing,Card
+ORD-0126,Oluwaseun Musa,07033672946,oluwaseun_musa@gmail.com,Kano,Nasarawa,Food & Drinks,Tin Tomatoes (24-pack),2,₦6546,13092,2024-03-13,Processing,USSD
+ORD-0127,Ifeanyi Mohammed,09025186363,ifeanyi_mohammed35@outlook.com,Kaduna,Kafanchan,Food & Drinks,Bournvita 500g,1,₦7918,7918,2024-12-11,Processing,Cash on Delivery
+ORD-0128,Obinna Okafor,08107706324,obinna.okafor@outlook.com,Kano,Dala,Electronics,Bluetooth Speaker,1,₦44537,44537,2024-02-09,Delivered,USSD
+ORD-0129,Chidi Mohammed,08060371293,chidimohammed88@gmail.com,Kano,Gwale,Food & Drinks,Tin Tomatoes (24-pack),2,₦4316,8632,2024-12-01,Cancelled,USSD
+ORD-0130,Babatunde Nwosu,07035426221,babatundenwosu@yahoo.com,Abuja,Wuse,Home & Kitchen,Blender,2,₦26604,53208,2024-02-15,Delivered,Bank Transfer
+ORD-0131,Oluwaseun Nwosu,07065652341,oluwaseun.nwosu71@gmail.com,Kano,Tarauni,Home & Kitchen,Dish Rack,1,₦8084,8084,2024-10-28,Cancelled,USSD
+ORD-0132,Adaeze Nwachukwu,08063791805,adaeze_nwachukwu17@hotmail.com,rivers,Ikwerre,Food & Drinks,Tin Tomatoes (24-pack),1,₦7220,7220,2024-07-12,Processing,Bank Transfer
+ORD-0133,Emeka Adeyemi,07068486661,emekaadeyemi@outlook.com,Delta,Warri,Beauty & Health,Body Lotion,1,₦9791,9791,2024-01-03,Delivered,Card
+ORD-0134,Chioma Garba,08130316179,chiomagarba8@yahoo.com,anambra,Awka,Beauty & Health,Hair Weave,4,₦3366,13464,2024-12-04,Delivered,Bank Transfer
+ORD-0135,Zainab Eze,07032410564,zainabeze9@gmail.com,lagos,Yaba,Food & Drinks,Bournvita 500g,5,₦7214,36070,2024-03-16,Shipped,Cash on Delivery
+ORD-0136,Ibrahim Nwosu,08063800030,ibrahim_nwosu47@yahoo.com,Kaduna,Kafanchan,Beauty & Health,Face Moisturiser,3,₦6354,19062,2024-10-06,Delivered,Cash on Delivery
+ORD-0137,Babatunde Yusuf,08068023806,babatunde.yusuf60@outlook.com,enugu,Agbani,Fashion,Jeans,3,₦10888,32664,2024-06-11,Delivered,Cash on Delivery
+ORD-0138,Zainab Ogundipe,09025973832,zainab.ogundipe@yahoo.com,Delta,Sapele,Fashion,Sunglasses,5,₦11958,59790,2024-04-18,Delivered,Card
+ORD-0139,Adaeze Garba,08032410386,adaezegarba48@gmail.com,Kaduna,Kafanchan,Food & Drinks,Indomie Noodles (12-pack),2,₦5140,10280,2024-08-19,Delivered,Cash on Delivery
+ORD-0140,Adaeze Abubakar,07036557431,adaeze.abubakar@yahoo.com,Kano,Nasarawa,Beauty & Health,Hair Relaxer,4,₦5483,21932,2024-05-04,Delivered,Opay Wallet
+ORD-0141,Chioma Adeleke,08061249035,chioma.adeleke@outlook.com,delta,Ughelli,Electronics,Smart Watch,2,₦33116,66232,2024-05-13,Processing,Card
+ORD-0142,Zainab Obi,08067121003,zainab.obi26@outlook.com,oyo,Ogbomosho,Electronics,Power Bank,4,₦39934,159736,2024-04-22,Cancelled,Card
+ORD-0143,Oluwaseun Mohammed,08060702966,oluwaseun_mohammed4@hotmail.com,OGUN,Abeokuta,Electronics,USB Charger,2,₦32560,65120,2024-06-06,Delivered,Bank Transfer
+ORD-0144,Chidi Abubakar,07068701462,chidi_abubakar@gmail.com,KANO,Dala,Home & Kitchen,Electric Kettle,1,₦17607,17607,2024-08-13,Cancelled,USSD
+ORD-0145,Fatima Okafor,07083040785,fatimaokafor@gmail.com,Delta,Sapele,Beauty & Health,Hair Weave,4,₦10061,40244,2024-06-08,Cancelled,Bank Transfer
+ORD-0146,Fatima Musa,07035905992,fatimamusa25@outlook.com,Oyo,Ogbomosho,Beauty & Health,Perfume 50ml,3,₦6892,20676,2024-10-06,Shipped,Card
+ORD-0147,Chukwuemeka Obiora,08132525002,chukwuemekaobiora@gmail.com,Abuja,Wuse,Beauty & Health,Toothbrush Set,1,₦16862,16862,2024-10-28,Processing,USSD
+ORD-0148,Yusuf Bello,07067528953,yusufbello@hotmail.com,abuja,Gwarinpa,Beauty & Health,Body Lotion,3,₦11088,33264,2024-03-10,Cancelled,USSD
+ORD-0149,Fatima Ogundipe,07083917251,fatima.ogundipe45@yahoo.com,kano,Nasarawa,Beauty & Health,Perfume 50ml,5,₦2261,11305,2024-06-21,Delivered,USSD
+ORD-0150,Ibrahim Nwosu,08030676267,ibrahim_nwosu45@gmail.com,Delta,Sapele,Fashion,Handbag,1,₦13484,13484,2024-12-27,Shipped,Cash on Delivery
+ORD-0151,Yusuf Eze,08065262181,yusuf_eze77@gmail.com,rivers,Ikwerre,Electronics,Bluetooth Speaker,3,₦4815,14445,2024-02-14,Cancelled,Bank Transfer
+ORD-0152,Emeka Garba,09058444310,emeka_garba74@yahoo.com,Ogun,Sagamu,Electronics,USB Charger,3,₦16970,50910,2024-12-02,Delivered,Card
+ORD-0153,Chukwuemeka Lawal,08161714677,chukwuemekalawal@hotmail.com,Enugu,Agbani,Beauty & Health,Lip Gloss Set,2,₦4378,8756,2024-03-06,Delivered,Opay Wallet
+ORD-0154,Ibrahim Musa,07080211586,ibrahimmusa@hotmail.com,kaduna,Kafanchan,Electronics,Laptop Stand,4,₦33978,135912,2024-05-27,Processing,Opay Wallet
+ORD-0155,Tunde Adeyemi,07088992172,tunde.adeyemi@yahoo.com,Anambra,Ogidi,Fashion,Ankara Top,3,₦4587,13761,2024-09-02,Shipped,Card
+ORD-0156,Babatunde Chukwu,,babatundechukwu67@gmail.com,enugu,Nsukka,Beauty & Health,Vitamin C Serum,3,₦3395,10185,2024-09-14,Delivered,Bank Transfer
+ORD-0157,Aisha Eze,09029970246,aisha.eze80@gmail.com,Ogun,Abeokuta,Beauty & Health,Body Lotion,3,₦12467,37401,2024-07-13,Delivered,Bank Transfer
+ORD-0158,Chioma Abubakar,09021324754,chiomaabubakar@yahoo.com,Lagos,Surulere,Food & Drinks,Indomie Noodles (12-pack),3,₦7496,22488,2024-05-15,Delivered,Opay Wallet
+ORD-0159,Damilola Usman,08108902330,damilola.usman5@gmail.com,delta,Warri,Beauty & Health,Face Moisturiser,1,₦11394,11394,2024-07-30,Delivered,Bank Transfer
+ORD-0160,Adaeze Salami,07087279855,adaeze.salami@outlook.com,oyo,Iseyin,Beauty & Health,Perfume 50ml,1,₦2201,2201,2024-08-01,Shipped,Card
+ORD-0161,Aisha Usman,08037229034,aishausman40@hotmail.com,kano,Fagge,Fashion,Handbag,3,₦23351,70053,2024-01-29,Shipped,USSD
+ORD-0162,Segun Nwosu,09055899441,segun_nwosu9@outlook.com,delta,Asaba,Home & Kitchen,Chopping Board,5,₦27527,137635,2024-01-21,Delivered,USSD
+ORD-0163,Tunde Obiora,08100744666,tundeobiora@outlook.com,oyo,Ogbomosho,Fashion,Handbag,1,₦21661,21661,2024-11-24,Cancelled,Bank Transfer
+ORD-0164,Chioma Nwosu,08104825135,chioma.nwosu96@hotmail.com,Anambra,Nnewi,Beauty & Health,Vitamin C Serum,2,₦7135,14270,2024-08-26,Delivered,USSD
+ORD-0165,Segun Ogundipe,09023816846,segun.ogundipe@yahoo.com,oyo,Iseyin,Electronics,Webcam,1,₦41745,41745,2024-02-11,Shipped,Cash on Delivery
+ORD-0166,Chidi Okonkwo,08030743292,chidi_okonkwo@yahoo.com,DELTA,Sapele,Fashion,Women's Dress,4,₦12899,51596,2024-06-20,Shipped,Opay Wallet
+ORD-0167,Zainab Salami,07038300335,zainab_salami@hotmail.com,Enugu,Oji River,Home & Kitchen,Non-stick Pot,1,₦14568,14568,2024-01-17,Processing,USSD
+ORD-0168,Musa Ogundipe,07036257532,musa_ogundipe@yahoo.com,Kano,Nasarawa,Food & Drinks,Golden Morn 1kg,4,₦6762,27048,2024-09-24,Delivered,Bank Transfer
+ORD-0169,Chidi Eze,07080901001,chidi_eze57@gmail.com,lagos,Ikeja,Food & Drinks,Tin Tomatoes (24-pack),1,₦3873,3873,2024-09-18,Delivered,Opay Wallet
+ORD-0170,Musa Eze,07082618914,musa.eze14@yahoo.com,kano,Nasarawa,Food & Drinks,Lipton Tea Box,1,₦6227,6227,2024-10-20,Delivered,USSD
+ORD-0171,Nneka Nwachukwu,09025300119,nnekanwachukwu@gmail.com,anambra,Nnewi,Home & Kitchen,Chopping Board,2,₦4082,8164,2024-04-25,Processing,Card
+ORD-0172,Ngozi Nwosu,08034556110,ngozi.nwosu@outlook.com,abuja,Wuse,Home & Kitchen,Chopping Board,3,₦31926,95778,2024-03-12,Shipped,Cash on Delivery
+ORD-0173,Tunde Adeleke,07067621202,tunde.adeleke54@hotmail.com,Oyo,Oyo,Food & Drinks,Milo 400g,1,₦4083,4083,2024-05-06,Processing,Opay Wallet
+ORD-0174,Obinna Adeyemi,08165089935,obinnaadeyemi@hotmail.com,Kaduna,Kaduna North,Home & Kitchen,Bed Sheets,1,₦28453,28453,2024-02-22,Cancelled,Bank Transfer
+ORD-0175,Fatima Usman,09022175354,fatima.usman@hotmail.com,delta,Ughelli,Fashion,Men's Shirt,1,₦23082,23082,2024-08-13,Delivered,Card
+ORD-0176,Yusuf Nwosu,08031660880,yusuf.nwosu78@yahoo.com,Delta,Agbor,Home & Kitchen,Blender,4,₦30799,123196,2024-08-21,Cancelled,Opay Wallet
+ORD-0177,Ifeanyi Ogundipe,09025711305,ifeanyi_ogundipe82@outlook.com,KADUNA,Kaduna South,Fashion,Ankara Top,3,₦20355,61065,2024-10-23,Delivered,Card
+ORD-0178,Emeka Nwosu,08137351609,emeka.nwosu99@hotmail.com,Kano,Fagge,Home & Kitchen,Blender,3,₦14339,43017,2024-07-22,Processing,Cash on Delivery
+ORD-0179,Segun Nwachukwu,08109221699,segun_nwachukwu65@hotmail.com,Kano,Nasarawa,Beauty & Health,Hair Relaxer,5,₦15382,76910,2024-09-20,Cancelled,Bank Transfer
+ORD-0180,Aisha Ogundipe,09054858333,aishaogundipe92@outlook.com,Oyo,Oyo,Food & Drinks,Lipton Tea Box,2,₦1931,3862,2024-12-30,Cancelled,Bank Transfer
+ORD-0181,Segun Garba,09054608106,segun.garba@yahoo.com,KANO,Nasarawa,Food & Drinks,Bournvita 500g,4,₦5574,,2024-11-09,Delivered,USSD
+ORD-0182,Blessing Adeleke,07088386384,blessingadeleke@hotmail.com,OYO,Ibadan,Food & Drinks,Milo 400g,5,₦1064,5320,2024-02-13,Shipped,USSD
+ORD-0183,Ifeanyi Adeleke,07039893347,ifeanyi.adeleke@yahoo.com,Anambra,Onitsha,Food & Drinks,Milo 400g,5,₦7917,39585,2024-04-06,Cancelled,Cash on Delivery
+ORD-0184,Oluwaseun Okonkwo,08160572025,oluwaseunokonkwo7@hotmail.com,Abuja,Garki,Home & Kitchen,Chopping Board,5,₦18817,94085,2024-10-26,Processing,Cash on Delivery
+ORD-0185,Musa Okonkwo,09058615335,musa_okonkwo47@yahoo.com,Kaduna,Zaria,Beauty & Health,Toothbrush Set,2,₦3434,6868,2024-07-31,Processing,Cash on Delivery
+ORD-0186,Halima Ogundipe,08035616484,halima.ogundipe67@hotmail.com,Delta,Warri,Food & Drinks,Lipton Tea Box,2,₦6061,12122,2024-04-16,Delivered,USSD
+ORD-0187,Nneka Okafor,08063361386,nnekaokafor@gmail.com,RIVERS,Oyigbo,Electronics,USB Charger,2,₦38756,77512,2024-11-15,Cancelled,USSD
+ORD-0188,Babatunde Yusuf,08166676650,babatunde_yusuf@gmail.com,Lagos,Ikeja,Electronics,Wireless Earbuds,3,₦40074,120222,2024-04-21,Cancelled,Cash on Delivery
+ORD-0189,Rukayat Abubakar,08064766072,rukayatabubakar@hotmail.com,Abuja,Garki,Food & Drinks,Bournvita 500g,1,₦3174,3174,2024-10-26,Processing,USSD
+ORD-0190,Chukwuemeka Yusuf,07068814353,chukwuemeka_yusuf@yahoo.com,KANO,Dala,Electronics,Wireless Earbuds,1,₦6237,6237,2024-10-06,Delivered,Cash on Delivery
+ORD-0191,Chidi Obi,08161413975,chidi_obi@gmail.com,OYO,Ibadan,Fashion,Men's Shirt,5,₦17114,85570,2024-02-10,Processing,Card
+ORD-0192,Damilola Yusuf,07089556205,damilola.yusuf29@outlook.com,RIVERS,Ikwerre,Home & Kitchen,Laundry Basket,5,₦21532,107660,2024-03-27,Delivered,Bank Transfer
+ORD-0193,Nneka Nwosu,07081428341,nnekanwosu@gmail.com,Kaduna,Kafanchan,Home & Kitchen,Laundry Basket,3,₦33414,100242,2024-03-27,Processing,Cash on Delivery
+ORD-0194,Chidi Bello,07063942788,chidi.bello51@gmail.com,enugu,Enugu,Beauty & Health,Vitamin C Serum,5,₦16669,83345,2024-06-22,Delivered,Cash on Delivery
+ORD-0195,Rukayat Bello,09025037314,rukayat_bello@yahoo.com,kano,Gwale,Fashion,Sneakers,5,₦20540,102700,2024-12-17,Delivered,Opay Wallet
+ORD-0196,Chidi Eze,08169892665,chidieze@outlook.com,Delta,Warri,Electronics,Smart Watch,1,₦37668,37668,2024-12-13,Delivered,Cash on Delivery
+ORD-0197,Musa Bello,08103184322,musa.bello@yahoo.com,ENUGU,Agbani,Home & Kitchen,Bed Sheets,5,₦1932,9660,2024-08-14,Delivered,Card
+ORD-0198,Adaeze Adeyemi,07089228092,adaeze.adeyemi22@yahoo.com,Delta,Ughelli,Fashion,Sneakers,4,₦2735,10940,2024-03-17,Shipped,Cash on Delivery
+ORD-0199,Kemi Nwachukwu,08136929298,kemi_nwachukwu22@hotmail.com,Ogun,Ijebu-Ode,Electronics,Phone Case,4,₦43249,172996,2024-03-20,Processing,Card
+ORD-0200,Musa Usman,07062912799,musa.usman@gmail.com,Rivers,Ikwerre,Fashion,Women's Dress,1,₦8630,8630,2024-11-16,Cancelled,Bank Transfer
+ORD-0201,Damilola Usman,08137659916,damilola.usman33@yahoo.com,Ogun,Ilaro,Beauty & Health,Perfume 50ml,3,₦2623,7869,2024-07-30,Delivered,USSD
+ORD-0202,Musa Nwosu,08036356512,musa_nwosu84@outlook.com,Ogun,Ijebu-Ode,Fashion,Men's Shirt,1,₦20939,20939,2024-09-28,Processing,Opay Wallet
+ORD-0203,Emeka Garba,09057258874,emeka_garba74@hotmail.com,OGUN,Ota,Food & Drinks,Tin Tomatoes (24-pack),4,₦6984,27936,2024-09-24,Delivered,Card
+ORD-0204,Yusuf Obi,08032601279,yusuf_obi@outlook.com,Rivers,Obio-Akpor,Electronics,Phone Case,5,₦29751,148755,2024-10-08,Delivered,Card
+ORD-0205,Ifeanyi Okonkwo,09027038430,ifeanyiokonkwo@yahoo.com,Ogun,Ilaro,Home & Kitchen,Chopping Board,5,₦5265,26325,2024-11-22,Delivered,USSD
+ORD-0206,Rukayat Chukwu,07083801184,rukayatchukwu72@outlook.com,Rivers,Obio-Akpor,Electronics,Laptop Stand,4,₦26642,106568,2024-07-31,Delivered,Bank Transfer
+ORD-0207,Aisha Usman,09051845184,aishausman74@hotmail.com,ogun,Ilaro,Home & Kitchen,Non-stick Pot,3,₦12971,38913,2024-02-13,Processing,Opay Wallet
+ORD-0208,Ibrahim Mohammed,08133565880,ibrahimmohammed@outlook.com,RIVERS,Ikwerre,Home & Kitchen,Non-stick Pot,4,₦9119,36476,2024-07-03,Shipped,USSD
+ORD-0209,Ibrahim Okonkwo,08137333433,ibrahim.okonkwo32@yahoo.com,ABUJA,Gwarinpa,Food & Drinks,Golden Morn 1kg,2,₦5499,10998,2024-12-25,Delivered,Card
+ORD-0210,Halima Obiora,07084728463,halimaobiora@hotmail.com,Abuja,Asokoro,Electronics,Bluetooth Speaker,4,₦27826,111304,2024-08-16,Processing,Card
+ORD-0211,Musa Adeleke,,musaadeleke@outlook.com,ANAMBRA,Ekwulobia,Fashion,Ankara Top,1,₦24880,24880,2024-06-08,Delivered,Opay Wallet
+ORD-0212,Aisha Salami,07064729293,aisha.salami93@yahoo.com,OGUN,Ijebu-Ode,Fashion,Ankara Top,4,₦8898,35592,2024-06-18,Shipped,Opay Wallet
+ORD-0213,Kemi Bello,09058574489,kemi.bello@yahoo.com,rivers,Obio-Akpor,Home & Kitchen,Non-stick Pot,2,₦29124,58248,2024-11-02,Delivered,USSD
+ORD-0214,Nneka Obi,07030615939,nnekaobi@outlook.com,Delta,Ughelli,Food & Drinks,Golden Morn 1kg,3,₦3751,11253,2024-05-12,Delivered,Cash on Delivery
+ORD-0215,Fatima Obiora,07089611253,fatima_obiora41@outlook.com,Delta,Warri,Home & Kitchen,Chopping Board,4,₦10992,43968,2024-07-20,Cancelled,Opay Wallet
+ORD-0216,Fatima Okafor,08134132611,fatima.okafor@gmail.com,Oyo,Oyo,Beauty & Health,Lip Gloss Set,4,₦6682,26728,2024-03-25,Shipped,Cash on Delivery
+ORD-0217,Chioma Musa,08167228200,chiomamusa46@hotmail.com,Abuja,Maitama,Beauty & Health,Face Moisturiser,1,₦13974,13974,2024-04-15,Processing,USSD
+ORD-0218,Chidi Yusuf,09058457831,chidi_yusuf40@hotmail.com,Anambra,Awka,Beauty & Health,Face Moisturiser,5,₦16160,80800,2024-07-09,Delivered,USSD
+ORD-0219,Nneka Okafor,09027406493,nneka.okafor71@yahoo.com,Lagos,Victoria Island,Fashion,Wristwatch,3,₦17374,52122,2024-12-14,Processing,Opay Wallet
+ORD-0220,Babatunde Garba,08138944846,babatunde.garba@yahoo.com,enugu,Nsukka,Home & Kitchen,Curtains Set,2,₦18734,37468,2024-11-10,Delivered,Opay Wallet
+ORD-0221,Chukwuemeka Bello,09050214427,chukwuemekabello@gmail.com,Ogun,Ijebu-Ode,Beauty & Health,Lip Gloss Set,2,₦11706,23412,2024-01-05,Delivered,Opay Wallet
+ORD-0222,Damilola Adeyemi,08062046187,damilola.adeyemi25@hotmail.com,RIVERS,Ikwerre,Food & Drinks,Lipton Tea Box,3,₦4598,13794,2024-06-27,Delivered,Card
+ORD-0223,Zainab Nwosu,08137645208,zainabnwosu16@hotmail.com,Rivers,Ikwerre,Fashion,Men's Shirt,2,₦17100,34200,2024-09-21,Delivered,Bank Transfer
+ORD-0224,Chukwuemeka Okonkwo,07081630097,chukwuemekaokonkwo@outlook.com,Kaduna,Kaduna North,Electronics,Phone Case,4,₦24767,99068,2024-05-25,Delivered,Bank Transfer
+ORD-0225,Blessing Bello,09051273585,blessing_bello@gmail.com,Kano,Nasarawa,Beauty & Health,Hair Weave,1,₦3158,3158,2024-12-23,Shipped,USSD
+ORD-0226,Nneka Nwachukwu,07082855749,nnekanwachukwu@yahoo.com,KANO,Nasarawa,Home & Kitchen,Bed Sheets,5,₦20814,104070,2024-04-15,Delivered,USSD
+ORD-0227,Halima Salami,08135186387,halimasalami20@outlook.com,ANAMBRA,Ekwulobia,Electronics,Power Bank,2,₦4726,9452,2024-10-14,Cancelled,USSD
+ORD-0228,Ngozi Lawal,09023109678,ngozilawal90@gmail.com,Abuja,Asokoro,Electronics,Bluetooth Speaker,2,₦15207,30414,2024-02-12,Delivered,Cash on Delivery
+ORD-0229,Blessing Obi,07065094801,blessing_obi@gmail.com,Abuja,Wuse,Home & Kitchen,Blender,4,₦5478,21912,2024-12-04,Cancelled,Bank Transfer
+ORD-0230,Fatima Obi,09056195761,fatima.obi24@outlook.com,Anambra,Awka,Fashion,Handbag,5,₦22490,112450,2024-12-22,Delivered,Cash on Delivery
+ORD-0231,Blessing Garba,07065939836,blessinggarba96@outlook.com,Ogun,Ijebu-Ode,Food & Drinks,Bournvita 500g,3,₦7721,23163,2024-11-15,Shipped,Opay Wallet
+ORD-0232,Chioma Okafor,08133504888,chiomaokafor@gmail.com,Lagos,Surulere,Beauty & Health,Hair Relaxer,5,₦5626,28130,2024-05-02,Shipped,USSD
+ORD-0233,Ibrahim Abubakar,07086931572,ibrahim_abubakar@outlook.com,kano,Dala,Food & Drinks,Bournvita 500g,2,₦2708,5416,2024-02-02,Cancelled,Cash on Delivery
+ORD-0234,Amina Musa,07080604805,aminamusa@outlook.com,Enugu,Enugu,Food & Drinks,Golden Morn 1kg,4,₦4212,16848,2024-12-17,Cancelled,Bank Transfer
+ORD-0235,Chioma Chukwu,08105179086,chioma_chukwu11@hotmail.com,Kano,Gwale,Home & Kitchen,Blender,2,₦29807,59614,2024-03-25,Cancelled,Bank Transfer
+ORD-0236,Segun Lawal,07088331465,segunlawal@gmail.com,Kano,Tarauni,Fashion,Ankara Top,4,₦23372,93488,2024-09-22,Shipped,Opay Wallet
+ORD-0237,Chukwuemeka Abubakar,07039792703,chukwuemeka.abubakar88@yahoo.com,KADUNA,Kaduna North,Food & Drinks,Golden Morn 1kg,5,₦6169,30845,2024-03-25,Cancelled,Card
+ORD-0238,Yusuf Nwosu,09027053833,yusufnwosu67@hotmail.com,Abuja,Wuse,Beauty & Health,Face Moisturiser,3,₦1650,4950,2024-05-20,Cancelled,Bank Transfer
+ORD-0239,Ngozi Abubakar,07084070164,ngoziabubakar85@gmail.com,Lagos,Victoria Island,Beauty & Health,Hair Relaxer,3,₦6781,20343,2024-04-01,Delivered,Opay Wallet
+ORD-0240,Nneka Mohammed,08138780038,nneka_mohammed43@hotmail.com,Rivers,Oyigbo,Electronics,Smart Watch,4,₦42631,170524,2024-03-24,Delivered,Card
+ORD-0241,Ngozi Eze,08038432562,ngozi.eze94@yahoo.com,KADUNA,Zaria,Food & Drinks,Milo 400g,5,₦3059,15295,2024-07-14,Delivered,Cash on Delivery
+ORD-0242,Emeka Bello,09053248262,emekabello@outlook.com,Kano,Dala,Beauty & Health,Hair Weave,4,₦5517,22068,2024-10-03,Processing,Cash on Delivery
+ORD-0243,Aisha Abubakar,08162312209,aishaabubakar@yahoo.com,ABUJA,Maitama,Fashion,Men's Shirt,3,₦15567,46701,2024-08-08,Cancelled,Card
+ORD-0244,Tunde Nwachukwu,08102330604,tunde_nwachukwu@yahoo.com,Kaduna,Kafanchan,Fashion,Ankara Top,3,₦8028,24084,2024-08-03,Delivered,Opay Wallet
+ORD-0245,Ifeanyi Adeyemi,07065699988,ifeanyiadeyemi@gmail.com,Ogun,Ijebu-Ode,Home & Kitchen,Dish Rack,4,₦28033,112132,2024-10-15,Shipped,Card
+ORD-0246,Emeka Abubakar,07064472649,emeka.abubakar@hotmail.com,Rivers,Port Harcourt,Beauty & Health,Perfume 50ml,5,₦2815,14075,2024-08-27,Cancelled,Opay Wallet
+ORD-0247,Yusuf Adeleke,08107937145,yusufadeleke@gmail.com,Abuja,Wuse,Beauty & Health,Face Moisturiser,4,₦14751,59004,2024-01-03,Delivered,Opay Wallet
+ORD-0248,Ngozi Okonkwo,07082222064,ngozi_okonkwo94@outlook.com,Kaduna,Igabi,Home & Kitchen,Electric Kettle,4,₦26443,105772,2024-06-21,Delivered,Card
+ORD-0249,Kemi Nwachukwu,08039733977,kemi_nwachukwu@gmail.com,kano,Nasarawa,Beauty & Health,Vitamin C Serum,1,₦16228,16228,2024-09-08,Processing,USSD
+ORD-0250,Blessing Adeyemi,08039945101,blessing_adeyemi@outlook.com,ogun,Abeokuta,Fashion,Sneakers,1,₦23406,23406,2024-03-20,Cancelled,Cash on Delivery
+ORD-0251,Ifeanyi Abubakar,07036168147,ifeanyi.abubakar16@outlook.com,ogun,Ilaro,Beauty & Health,Hair Weave,1,₦4251,4251,2024-06-17,Shipped,Cash on Delivery
+ORD-0252,Musa Mohammed,07084695489,musamohammed@hotmail.com,rivers,Oyigbo,Electronics,USB Charger,5,₦44720,223600,2024-08-17,Cancelled,Opay Wallet
+ORD-0253,Amina Okafor,08063966055,aminaokafor@gmail.com,DELTA,Agbor,Fashion,Sunglasses,2,₦2051,4102,2024-08-21,Delivered,USSD
+ORD-0254,Ifeanyi Okafor,07035699023,ifeanyi_okafor44@hotmail.com,Oyo,Oyo,Food & Drinks,Bournvita 500g,5,₦3453,17265,2024-02-26,Delivered,Bank Transfer
+ORD-0255,Zainab Adeyemi,08169588039,zainabadeyemi43@gmail.com,DELTA,Ughelli,Beauty & Health,Hair Weave,4,₦14764,59056,2024-09-05,Delivered,Card
+ORD-0256,Amina Abubakar,07030461735,amina_abubakar@outlook.com,Kaduna,Igabi,Fashion,Jeans,2,₦21503,43006,2024-12-06,Delivered,USSD
+ORD-0257,Oluwaseun Lawal,09028452182,oluwaseun.lawal@hotmail.com,lagos,Ikeja,Home & Kitchen,Non-stick Pot,4,₦34271,137084,2024-06-13,Cancelled,Cash on Delivery
+ORD-0258,Ngozi Nwosu,08160943533,ngozi_nwosu36@hotmail.com,Abuja,Maitama,Electronics,USB Charger,3,₦34097,102291,2024-09-22,Delivered,USSD
+ORD-0259,Musa Nwosu,09055854249,musa.nwosu@outlook.com,kano,Dala,Electronics,Bluetooth Speaker,5,₦40175,200875,2024-04-20,Delivered,Cash on Delivery
+ORD-0260,Tunde Adeyemi,07066299795,tunde_adeyemi@gmail.com,Delta,Asaba,Electronics,Webcam,1,₦10442,10442,2024-02-25,Shipped,Cash on Delivery
+ORD-0261,Kemi Musa,08109456255,kemi_musa@gmail.com,Kano,Gwale,Electronics,Webcam,3,₦34000,102000,2024-04-16,Delivered,USSD
+ORD-0262,Oluwaseun Usman,07061581487,oluwaseun_usman76@yahoo.com,Delta,Asaba,Food & Drinks,Golden Morn 1kg,5,₦5507,27535,2024-02-20,Delivered,Cash on Delivery
+ORD-0263,Aisha Garba,07038321971,aishagarba77@outlook.com,Kano,Gwale,Electronics,Smart Watch,2,₦42229,84458,2024-10-18,Delivered,Opay Wallet
+ORD-0264,Yusuf Nwachukwu,08031329022,yusuf_nwachukwu69@hotmail.com,KANO,Gwale,Electronics,USB Charger,5,₦28332,141660,2024-11-20,Processing,Opay Wallet
+ORD-0265,Damilola Salami,07080986240,damilola_salami@gmail.com,rivers,Eleme,Food & Drinks,Bournvita 500g,3,₦4361,13083,2024-02-23,Processing,USSD
+ORD-0266,Chidi Obiora,07066668327,chidi.obiora25@outlook.com,abuja,Garki,Fashion,Jeans,5,₦14919,74595,2024-12-27,Shipped,Bank Transfer
+ORD-0267,Zainab Nwachukwu,07062126796,zainabnwachukwu24@hotmail.com,OYO,Ogbomosho,Electronics,USB Charger,1,₦12936,12936,2024-11-18,Shipped,Opay Wallet
+ORD-0268,Zainab Musa,09054689500,zainabmusa62@gmail.com,kaduna,Kaduna North,Home & Kitchen,Non-stick Pot,5,₦34147,170735,2024-12-19,Shipped,Card
+ORD-0269,Adaeze Nwachukwu,08068949058,adaeze.nwachukwu61@hotmail.com,KANO,Gwale,Beauty & Health,Body Lotion,5,₦4098,20490,2024-11-19,Cancelled,USSD
+ORD-0270,Halima Abubakar,07084079290,halimaabubakar@outlook.com,ENUGU,Agbani,Food & Drinks,Milo 400g,1,₦6493,6493,2024-12-16,Delivered,Bank Transfer
+ORD-0271,Ibrahim Eze,08069292752,ibrahim_eze@hotmail.com,Anambra,Nnewi,Food & Drinks,Milo 400g,5,₦3101,15505,2024-01-06,Processing,Card
+ORD-0272,Ifeanyi Chukwu,09022395041,ifeanyi.chukwu22@hotmail.com,Kaduna,Kaduna North,Beauty & Health,Face Moisturiser,4,₦14731,58924,2024-04-16,Delivered,Opay Wallet
+ORD-0273,Musa Garba,08167658018,musagarba46@outlook.com,anambra,Ekwulobia,Home & Kitchen,Bed Sheets,3,₦11012,33036,2024-01-11,Delivered,USSD
+ORD-0274,Musa Obiora,08105800106,musa.obiora@hotmail.com,abuja,Asokoro,Home & Kitchen,Bed Sheets,2,₦14274,28548,2024-11-12,Delivered,USSD
+ORD-0275,Rukayat Lawal,08061192692,rukayat.lawal@outlook.com,OYO,Ibadan,Electronics,USB Charger,1,₦42437,42437,2024-10-10,Shipped,Card
+ORD-0276,Babatunde Eze,07066504427,babatunde.eze@hotmail.com,delta,Ughelli,Food & Drinks,Golden Morn 1kg,2,₦7195,,2024-01-06,Cancelled,Opay Wallet
+ORD-0277,Obinna Eze,08031194707,obinna.eze@gmail.com,ABUJA,Asokoro,Home & Kitchen,Dish Rack,5,₦8463,42315,2024-02-22,Shipped,USSD
+ORD-0278,Kemi Garba,08068306719,kemigarba46@outlook.com,KANO,Gwale,Beauty & Health,Hair Relaxer,5,₦17278,86390,2024-07-13,Delivered,Card
+ORD-0279,Nneka Adeyemi,08134615717,nnekaadeyemi@gmail.com,KADUNA,Kaduna South,Home & Kitchen,Chopping Board,2,₦13074,26148,2024-07-07,Delivered,Cash on Delivery
+ORD-0280,Obinna Okafor,07030506138,obinna_okafor@yahoo.com,Rivers,Ikwerre,Electronics,Laptop Stand,4,₦38492,153968,2024-01-30,Delivered,Card
+ORD-0281,Chukwuemeka Okonkwo,08034179291,chukwuemeka.okonkwo15@yahoo.com,Kano,Nasarawa,Home & Kitchen,Non-stick Pot,2,₦10054,20108,2024-11-03,Delivered,Opay Wallet
+ORD-0282,Ifeanyi Adeyemi,08105114262,ifeanyiadeyemi@hotmail.com,Kaduna,Zaria,Electronics,Wireless Earbuds,3,₦17474,52422,2024-10-08,Processing,Card
+ORD-0283,Babatunde Okafor,08101946723,babatunde.okafor82@hotmail.com,Kano,Tarauni,Home & Kitchen,Electric Kettle,1,₦33413,33413,2024-01-14,Delivered,Bank Transfer
+ORD-0284,Chidi Abubakar,07060833181,chidiabubakar@hotmail.com,Ogun,Ota,Fashion,Ankara Top,5,₦4884,24420,2024-06-25,Cancelled,Bank Transfer
+ORD-0285,Fatima Okonkwo,08030543645,fatimaokonkwo98@gmail.com,Oyo,Ogbomosho,Electronics,Wireless Earbuds,4,₦36105,144420,2024-11-04,Cancelled,Card
+ORD-0286,Babatunde Musa,09029956353,babatunde.musa@gmail.com,anambra,Awka,Electronics,Webcam,5,₦11106,55530,2024-12-08,Cancelled,Opay Wallet
+ORD-0287,Ngozi Garba,08139726527,ngozigarba25@outlook.com,Rivers,Obio-Akpor,Electronics,Webcam,5,₦35246,176230,2024-03-07,Delivered,Bank Transfer
+ORD-0288,Aisha Okonkwo,08134929298,aisha.okonkwo12@hotmail.com,Lagos,Surulere,Fashion,Women's Dress,4,₦17026,68104,2024-06-28,Delivered,Cash on Delivery
+ORD-0289,Yusuf Garba,08139290600,yusuf_garba@hotmail.com,Delta,Sapele,Electronics,Power Bank,2,₦19741,39482,2024-10-17,Shipped,Opay Wallet
+ORD-0290,Damilola Garba,08105431074,damilola.garba91@gmail.com,Abuja,Gwarinpa,Fashion,Women's Dress,5,₦2407,12035,2024-04-15,Shipped,Bank Transfer
+ORD-0291,Damilola Obiora,08034649893,damilolaobiora11@gmail.com,enugu,Agbani,Home & Kitchen,Non-stick Pot,1,₦26723,26723,2024-09-17,Cancelled,USSD
+ORD-0292,Blessing Salami,09051832538,blessing.salami84@yahoo.com,Lagos,Yaba,Food & Drinks,Lipton Tea Box,5,₦1134,5670,2024-03-25,Cancelled,Bank Transfer
+ORD-0293,Babatunde Salami,09027881788,babatunde_salami58@gmail.com,KADUNA,Zaria,Beauty & Health,Perfume 50ml,3,₦2984,8952,2024-06-07,Shipped,Card
+ORD-0294,Ibrahim Nwosu,08107238046,ibrahimnwosu@hotmail.com,Abuja,Wuse,Food & Drinks,Indomie Noodles (12-pack),1,₦2149,2149,2024-12-12,Shipped,Opay Wallet
+ORD-0295,Chidi Obiora,07085579887,chidi_obiora@outlook.com,LAGOS,Lekki,Electronics,Bluetooth Speaker,2,₦37553,75106,2024-07-06,Delivered,Bank Transfer
+ORD-0296,Obinna Okonkwo,08108422223,obinna.okonkwo6@yahoo.com,delta,Sapele,Electronics,Wireless Earbuds,3,₦22137,66411,2024-10-15,Delivered,USSD
+ORD-0297,Blessing Adeleke,08108410672,blessing_adeleke@gmail.com,kano,Tarauni,Electronics,Smart Watch,3,₦13195,39585,2024-09-24,Processing,Cash on Delivery
+ORD-0298,Segun Adeleke,08067028140,segun_adeleke@hotmail.com,KADUNA,Kafanchan,Food & Drinks,Bournvita 500g,2,₦7350,14700,2024-06-12,Delivered,USSD
+ORD-0299,Chukwuemeka Mohammed,09021863759,chukwuemekamohammed@outlook.com,lagos,Victoria Island,Beauty & Health,Toothbrush Set,3,₦7613,22839,2024-09-13,Delivered,Opay Wallet
+ORD-0300,Chioma Adeleke,08063767426,chiomaadeleke@gmail.com,Kaduna,Zaria,Electronics,Laptop Stand,3,₦26526,79578,2024-09-05,Delivered,USSD
+ORD-0301,Aisha Eze,08108792326,aisha_eze71@gmail.com,delta,Warri,Beauty & Health,Perfume 50ml,1,₦1416,1416,2024-07-27,Delivered,Cash on Delivery
+ORD-0302,Oluwaseun Eze,09021462730,oluwaseun.eze98@hotmail.com,Oyo,Saki,Home & Kitchen,Dish Rack,1,₦1660,1660,2024-05-03,Processing,USSD
+ORD-0303,Blessing Usman,07080429025,blessing_usman@outlook.com,Ogun,Ota,Home & Kitchen,Chopping Board,4,₦9337,37348,2024-12-06,Delivered,USSD
+ORD-0304,Chidi Mohammed,08132192855,chidimohammed39@outlook.com,Kaduna,Zaria,Electronics,Laptop Stand,3,₦38208,114624,2024-09-04,Processing,Cash on Delivery
+ORD-0305,Aisha Obiora,08063283389,aishaobiora@hotmail.com,kaduna,Kaduna South,Fashion,Sunglasses,3,₦17889,53667,2024-03-15,Delivered,Card
+ORD-0306,Obinna Ogundipe,07032401322,obinnaogundipe30@yahoo.com,Kano,Gwale,Food & Drinks,Golden Morn 1kg,3,₦1938,5814,2024-09-07,Delivered,Card
+ORD-0307,Emeka Nwosu,09059071401,emeka_nwosu@gmail.com,Enugu,Enugu,Electronics,Webcam,4,₦6286,25144,2024-01-26,Delivered,Cash on Delivery
+ORD-0308,Zainab Eze,07035289389,zainab.eze@yahoo.com,rivers,Obio-Akpor,Food & Drinks,Indomie Noodles (12-pack),1,₦1992,1992,2024-10-23,Delivered,USSD
+ORD-0309,Segun Okonkwo,08062566383,segun_okonkwo15@gmail.com,Kano,Nasarawa,Fashion,Ankara Top,3,₦24876,74628,2024-08-15,Delivered,Cash on Delivery
+ORD-0310,Yusuf Nwachukwu,07064794738,yusuf_nwachukwu38@yahoo.com,Kano,Dala,Food & Drinks,Bournvita 500g,1,₦1473,1473,2024-02-28,Delivered,Opay Wallet
+ORD-0311,Musa Mohammed,08106691215,musa.mohammed@hotmail.com,kaduna,Kaduna South,Home & Kitchen,Blender,4,₦30208,120832,2024-02-04,Delivered,Opay Wallet
+ORD-0312,Kemi Ogundipe,09028427114,kemi_ogundipe@yahoo.com,delta,Agbor,Beauty & Health,Vitamin C Serum,4,₦12868,51472,2024-07-01,Delivered,Card
+ORD-0313,Yusuf Bello,07089118773,yusuf_bello85@hotmail.com,Abuja,Garki,Fashion,Jeans,5,₦24256,121280,2024-05-17,Delivered,Cash on Delivery
+ORD-0314,Yusuf Chukwu,09020028427,yusuf_chukwu18@hotmail.com,Kaduna,Kaduna South,Home & Kitchen,Blender,4,₦30998,123992,2024-08-16,Delivered,Cash on Delivery
+ORD-0315,Tunde Eze,07086954500,tundeeze@outlook.com,Delta,Ughelli,Beauty & Health,Face Moisturiser,5,₦3026,15130,2024-08-12,Cancelled,Cash on Delivery
+ORD-0316,Aisha Salami,08133349114,aisha.salami@gmail.com,LAGOS,Yaba,Electronics,Power Bank,3,₦26920,80760,2024-01-18,Delivered,Card
+ORD-0317,Damilola Nwachukwu,08035696591,damilola_nwachukwu@outlook.com,Delta,Agbor,Beauty & Health,Perfume 50ml,3,₦1868,5604,2024-10-16,Processing,USSD
+ORD-0318,Nneka Lawal,08160496391,nnekalawal@outlook.com,KANO,Dala,Home & Kitchen,Dish Rack,4,₦6436,25744,2024-05-09,Delivered,Cash on Delivery
+ORD-0319,Chioma Usman,07068536649,chiomausman@gmail.com,Anambra,Ekwulobia,Fashion,Wristwatch,1,₦23349,23349,2024-05-21,Cancelled,Cash on Delivery
+ORD-0320,Segun Adeyemi,08135723246,segun_adeyemi@yahoo.com,Kano,Fagge,Home & Kitchen,Chopping Board,5,₦29924,149620,2024-09-28,Shipped,USSD
+ORD-0321,Amina Bello,08033477866,aminabello@yahoo.com,OYO,Oyo,Beauty & Health,Toothbrush Set,4,₦9014,36056,2024-04-09,Delivered,Card
+ORD-0322,Ngozi Mohammed,07084165162,ngozi.mohammed@outlook.com,oyo,Saki,Fashion,Men's Shirt,4,₦2652,10608,2024-06-16,Delivered,Bank Transfer
+ORD-0323,Zainab Musa,08132123476,zainab_musa@hotmail.com,Ogun,Ijebu-Ode,Food & Drinks,Bournvita 500g,4,₦7401,29604,2024-07-18,Delivered,Card
+ORD-0324,Kemi Salami,08039003486,kemi_salami82@gmail.com,Kaduna,Kafanchan,Fashion,Sunglasses,2,₦13894,27788,2024-05-18,Delivered,Opay Wallet
+ORD-0325,Ifeanyi Musa,08132756041,ifeanyi_musa61@outlook.com,Enugu,Oji River,Food & Drinks,Golden Morn 1kg,1,₦7539,7539,2024-05-23,Shipped,Card
+ORD-0326,Zainab Obi,07037002720,zainab_obi26@outlook.com,KANO,Tarauni,Electronics,Smart Watch,4,₦42960,171840,2024-12-19,Delivered,Card
+ORD-0327,Kemi Bello,08109543165,kemi.bello51@yahoo.com,kano,Tarauni,Fashion,Jeans,3,₦16794,50382,2024-05-01,Delivered,Cash on Delivery
+ORD-0328,Ngozi Chukwu,07069421529,ngozi.chukwu2@hotmail.com,ogun,Abeokuta,Home & Kitchen,Dish Rack,3,₦12559,37677,2024-10-27,Cancelled,Opay Wallet
+ORD-0329,Tunde Bello,08139343626,tunde.bello4@outlook.com,ABUJA,Wuse,Fashion,Sunglasses,3,₦18192,54576,2024-07-08,Processing,Opay Wallet
+ORD-0330,Oluwaseun Obiora,07063669411,oluwaseunobiora@outlook.com,RIVERS,Oyigbo,Home & Kitchen,Blender,1,₦32228,32228,2024-12-30,Delivered,Opay Wallet
+ORD-0331,Chioma Chukwu,07032809242,chiomachukwu64@hotmail.com,Kaduna,Kaduna South,Food & Drinks,Bournvita 500g,5,₦3920,19600,2024-11-05,Delivered,USSD
+ORD-0332,Oluwaseun Nwachukwu,07036449485,oluwaseun_nwachukwu22@hotmail.com,Anambra,Awka,Food & Drinks,Indomie Noodles (12-pack),3,₦1161,3483,2024-05-25,Delivered,Cash on Delivery
+ORD-0333,Ngozi Nwachukwu,08107617075,ngozinwachukwu72@hotmail.com,Delta,Asaba,Fashion,Men's Shirt,2,₦8001,16002,2024-05-16,Delivered,Bank Transfer
+ORD-0334,Zainab Usman,07089390892,zainab_usman@hotmail.com,abuja,Garki,Fashion,Sunglasses,2,₦7514,15028,2024-05-22,Delivered,USSD
+ORD-0335,Yusuf Bello,,yusuf.bello84@outlook.com,LAGOS,Ikeja,Home & Kitchen,Laundry Basket,5,₦8451,42255,2024-01-31,Cancelled,Cash on Delivery
+ORD-0336,Babatunde Obi,07061642361,babatunde.obi@hotmail.com,kano,Nasarawa,Food & Drinks,Golden Morn 1kg,1,₦6893,6893,2024-10-25,Shipped,USSD
+ORD-0337,Blessing Nwosu,09053776749,blessingnwosu@hotmail.com,Kano,Dala,Home & Kitchen,Curtains Set,3,₦10104,30312,2024-06-26,Delivered,Cash on Delivery
+ORD-0338,Obinna Musa,08107881476,obinna.musa62@yahoo.com,Kano,Gwale,Electronics,Bluetooth Speaker,5,₦25896,129480,2024-11-05,Cancelled,USSD
+ORD-0339,Ngozi Usman,09056617945,ngozi_usman@gmail.com,Rivers,Eleme,Beauty & Health,Hair Relaxer,5,₦3707,18535,2024-02-04,Cancelled,Opay Wallet
+ORD-0340,Yusuf Yusuf,09027945232,yusuf.yusuf96@gmail.com,kano,Gwale,Electronics,USB Charger,4,₦23006,92024,2024-12-14,Processing,Card
+ORD-0341,Damilola Chukwu,07087499564,damilola.chukwu@gmail.com,Lagos,Ikeja,Electronics,Wireless Earbuds,4,₦33657,134628,2024-11-07,Delivered,Card
+ORD-0342,Chidi Obi,08064727601,chidi.obi20@hotmail.com,Rivers,Obio-Akpor,Home & Kitchen,Electric Kettle,2,₦30059,60118,2024-04-16,Delivered,Opay Wallet
+ORD-0343,Yusuf Okafor,07066799840,yusuf_okafor52@hotmail.com,ogun,Sagamu,Food & Drinks,Bournvita 500g,4,₦1217,4868,2024-02-08,Cancelled,Card
+ORD-0344,Ibrahim Garba,08067957602,ibrahim_garba@hotmail.com,Anambra,Ekwulobia,Beauty & Health,Hair Weave,5,₦3281,16405,2024-08-12,Shipped,Bank Transfer
+ORD-0345,Chioma Chukwu,07037293417,chioma.chukwu@yahoo.com,anambra,Ogidi,Food & Drinks,Bournvita 500g,4,₦1874,7496,2024-07-20,Shipped,Card
+ORD-0346,Chukwuemeka Salami,07032280156,chukwuemeka.salami@gmail.com,Enugu,Agbani,Fashion,Handbag,5,₦3541,17705,2024-05-18,Delivered,Opay Wallet
+ORD-0347,Halima Nwosu,08037711991,halimanwosu@yahoo.com,oyo,Oyo,Electronics,Laptop Stand,2,₦37276,74552,2024-12-21,Delivered,Bank Transfer
+ORD-0348,Chidi Salami,08101376037,chidi_salami@gmail.com,kaduna,Zaria,Home & Kitchen,Bed Sheets,1,₦11611,11611,2024-06-09,Delivered,Opay Wallet
+ORD-0349,Aisha Garba,09028507208,aisha.garba11@outlook.com,kaduna,Kaduna North,Beauty & Health,Perfume 50ml,2,₦5721,11442,2024-07-13,Delivered,Opay Wallet
+ORD-0350,Aisha Chukwu,09054550489,aisha.chukwu90@hotmail.com,Lagos,Ikeja,Fashion,Men's Shirt,5,₦11690,58450,2024-11-21,Delivered,Cash on Delivery
+ORD-0351,Ngozi Obi,07062884318,ngoziobi40@yahoo.com,Ogun,Ijebu-Ode,Home & Kitchen,Dish Rack,3,₦7023,21069,2024-06-01,Delivered,Cash on Delivery
+ORD-0352,Amina Adeyemi,08168510174,aminaadeyemi@hotmail.com,OGUN,Sagamu,Food & Drinks,Tin Tomatoes (24-pack),4,₦4939,19756,2024-06-11,Delivered,Cash on Delivery
+ORD-0353,Oluwaseun Chukwu,08131589357,oluwaseun.chukwu19@hotmail.com,ogun,Ijebu-Ode,Food & Drinks,Golden Morn 1kg,5,₦6308,31540,2024-09-03,Delivered,Card
+ORD-0354,Rukayat Usman,07088864976,rukayat_usman89@hotmail.com,enugu,Oji River,Fashion,Ankara Top,1,₦14101,14101,2024-07-27,Delivered,Bank Transfer
+ORD-0355,Damilola Lawal,09020285196,damilola.lawal16@outlook.com,anambra,Ekwulobia,Home & Kitchen,Electric Kettle,5,₦9237,46185,2024-08-02,Processing,Bank Transfer
+ORD-0356,Chukwuemeka Bello,07086044327,chukwuemeka.bello16@gmail.com,abuja,Maitama,Food & Drinks,Golden Morn 1kg,3,₦4780,14340,2024-03-28,Delivered,Opay Wallet
+ORD-0357,Zainab Ogundipe,08108777251,zainabogundipe86@hotmail.com,delta,Agbor,Home & Kitchen,Laundry Basket,4,₦32644,130576,2024-03-08,Shipped,USSD
+ORD-0358,Fatima Okafor,08168181398,fatimaokafor@yahoo.com,Anambra,Ekwulobia,Food & Drinks,Tin Tomatoes (24-pack),1,₦7893,7893,2024-10-25,Shipped,Cash on Delivery
+ORD-0359,Adaeze Yusuf,08068956907,adaeze.yusuf44@yahoo.com,Lagos,Victoria Island,Fashion,Men's Shirt,3,₦8743,26229,2024-08-14,Delivered,Cash on Delivery
+ORD-0360,Fatima Abubakar,08104124620,fatimaabubakar@gmail.com,Kaduna,Zaria,Electronics,USB Charger,1,₦39006,39006,2024-03-23,Delivered,USSD
+ORD-0361,Tunde Nwosu,08133993788,tunde_nwosu15@gmail.com,Enugu,Agbani,Fashion,Jeans,3,₦10451,31353,2024-01-11,Shipped,Cash on Delivery
+ORD-0362,Ibrahim Obi,08063824967,ibrahim.obi@yahoo.com,Enugu,Oji River,Electronics,Power Bank,2,₦4720,9440,2024-10-12,Processing,Bank Transfer
+ORD-0363,Halima Abubakar,08100074946,halima_abubakar@outlook.com,Rivers,Oyigbo,Home & Kitchen,Non-stick Pot,1,₦31951,31951,2024-11-02,Delivered,Cash on Delivery
+ORD-0364,Zainab Obi,07063985547,zainab_obi32@outlook.com,Ogun,Ijebu-Ode,Electronics,Power Bank,1,₦12652,12652,2024-05-07,Shipped,Cash on Delivery
+ORD-0365,Rukayat Okonkwo,09057681180,rukayatokonkwo@outlook.com,Kaduna,Kaduna North,Electronics,Webcam,1,₦4127,4127,2024-07-27,Shipped,Cash on Delivery
+ORD-0366,Emeka Adeleke,08130453194,emekaadeleke@hotmail.com,Kaduna,Kaduna North,Electronics,USB Charger,4,₦27779,111116,2024-01-31,Delivered,Card
+ORD-0367,Tunde Nwosu,07088728399,tundenwosu@yahoo.com,Oyo,Saki,Fashion,Men's Shirt,2,₦22920,45840,2024-05-24,Delivered,Bank Transfer
+ORD-0368,Rukayat Obi,08168706056,rukayat_obi@hotmail.com,OYO,Saki,Food & Drinks,Milo 400g,1,₦6476,6476,2024-10-16,Delivered,Cash on Delivery
+ORD-0369,Yusuf Okafor,08135190361,yusuf.okafor@outlook.com,lagos,Ikeja,Food & Drinks,Lipton Tea Box,5,₦4477,22385,2024-07-10,Delivered,Card
+ORD-0370,Amina Nwachukwu,07030583199,amina_nwachukwu@hotmail.com,Lagos,Yaba,Electronics,Smart Watch,3,₦19697,59091,2024-04-19,Delivered,Card
+ORD-0371,Oluwaseun Adeyemi,08034961108,oluwaseun.adeyemi38@hotmail.com,Lagos,Yaba,Food & Drinks,Tin Tomatoes (24-pack),1,₦7211,7211,2024-08-04,Processing,Opay Wallet
+ORD-0372,Yusuf Okafor,09055931109,yusufokafor@yahoo.com,Rivers,Ikwerre,Home & Kitchen,Bed Sheets,4,₦8137,32548,2024-08-21,Processing,USSD
+ORD-0373,Oluwaseun Adeyemi,08104968549,oluwaseunadeyemi@hotmail.com,Kaduna,Kafanchan,Beauty & Health,Lip Gloss Set,2,₦9167,18334,2024-01-10,Processing,USSD
+ORD-0374,Musa Obi,07065333153,musaobi61@outlook.com,oyo,Ibadan,Beauty & Health,Face Moisturiser,1,₦8978,8978,2024-01-28,Processing,Cash on Delivery
+ORD-0375,Ngozi Nwachukwu,08033379337,ngozinwachukwu99@hotmail.com,KADUNA,Kafanchan,Food & Drinks,Milo 400g,1,₦4521,4521,2024-04-07,Shipped,Bank Transfer
+ORD-0376,Amina Bello,09023950033,amina_bello@outlook.com,LAGOS,Ikeja,Electronics,Smart Watch,1,₦39852,39852,2024-05-24,Delivered,USSD
+ORD-0377,Amina Okafor,08106153473,amina_okafor@hotmail.com,anambra,Awka,Fashion,Men's Shirt,2,₦10578,21156,2024-11-29,Cancelled,Card
+ORD-0378,Damilola Salami,07086309938,damilola_salami20@yahoo.com,ABUJA,Wuse,Fashion,Handbag,5,₦14392,71960,2024-06-02,Cancelled,USSD
+ORD-0379,Fatima Usman,09055787255,fatimausman89@hotmail.com,Kano,Fagge,Electronics,Webcam,5,₦7751,38755,2024-07-16,Delivered,Cash on Delivery
+ORD-0380,Tunde Lawal,07066925481,tunde.lawal@outlook.com,Enugu,Nsukka,Fashion,Handbag,4,₦9680,38720,2024-05-15,Processing,USSD
+ORD-0381,Obinna Garba,07037546027,obinna.garba@outlook.com,Rivers,Ikwerre,Beauty & Health,Hair Weave,4,₦15983,63932,2024-07-29,Delivered,USSD
+ORD-0382,Blessing Adeyemi,08135354443,blessingadeyemi@outlook.com,Anambra,Nnewi,Fashion,Women's Dress,1,₦4337,4337,2024-09-01,Delivered,USSD
+ORD-0383,Ifeanyi Bello,08133373898,ifeanyi_bello93@outlook.com,Kaduna,Kafanchan,Beauty & Health,Hair Relaxer,4,₦17998,71992,2024-07-26,Delivered,USSD
+ORD-0384,Chukwuemeka Salami,07082407553,chukwuemeka_salami55@outlook.com,Rivers,Ikwerre,Fashion,Ankara Top,4,₦20299,81196,2024-03-11,Processing,Card
+ORD-0385,Halima Ogundipe,07066361863,halima_ogundipe14@hotmail.com,Ogun,Sagamu,Fashion,Wristwatch,5,₦22638,113190,2024-10-21,Delivered,Card
+ORD-0386,Chukwuemeka Okonkwo,08066433481,chukwuemeka_okonkwo8@gmail.com,Kano,Tarauni,Fashion,Men's Shirt,5,₦18010,90050,2024-04-06,Delivered,Opay Wallet
+ORD-0387,Tunde Lawal,08134672994,tundelawal26@outlook.com,enugu,Enugu,Fashion,Jeans,4,₦4253,17012,2024-03-07,Delivered,Bank Transfer
+ORD-0388,Segun Nwachukwu,09029014754,segun_nwachukwu@hotmail.com,Delta,Ughelli,Beauty & Health,Toothbrush Set,5,₦11977,59885,2024-08-08,Delivered,Cash on Delivery
+ORD-0389,Ngozi Musa,08168413768,ngozi.musa@gmail.com,Enugu,Oji River,Fashion,Women's Dress,4,₦24893,99572,2024-03-17,Delivered,Opay Wallet
+ORD-0390,Babatunde Adeleke,07036360041,babatundeadeleke18@hotmail.com,DELTA,Sapele,Fashion,Men's Shirt,4,₦2875,11500,2024-07-16,Shipped,Card
+ORD-0391,Fatima Okafor,08062418621,fatimaokafor@outlook.com,ABUJA,Gwarinpa,Fashion,Ankara Top,3,₦7287,21861,2024-10-05,Shipped,USSD
+ORD-0392,Chidi Usman,08066470900,chidi_usman@yahoo.com,kano,Nasarawa,Beauty & Health,Toothbrush Set,4,₦2764,11056,2024-11-12,Delivered,Bank Transfer
+ORD-0393,Rukayat Mohammed,08062206815,rukayat_mohammed@yahoo.com,Abuja,Gwarinpa,Electronics,Bluetooth Speaker,3,₦16092,48276,2024-04-30,Processing,Opay Wallet
+ORD-0394,Fatima Okafor,07030637314,fatimaokafor80@gmail.com,Enugu,Nsukka,Fashion,Women's Dress,3,₦12596,37788,2024-07-03,Delivered,Opay Wallet
+ORD-0395,Halima Obiora,07062525715,halima.obiora78@hotmail.com,Oyo,Ibadan,Beauty & Health,Face Moisturiser,3,₦4304,12912,2024-11-17,Cancelled,Bank Transfer
+ORD-0396,Zainab Garba,07081025743,zainab.garba@gmail.com,Anambra,Awka,Electronics,USB Charger,3,₦18992,56976,2024-04-08,Cancelled,Cash on Delivery
+ORD-0397,Aisha Abubakar,08135533803,aishaabubakar@hotmail.com,delta,Asaba,Food & Drinks,Golden Morn 1kg,1,₦5066,5066,2024-01-17,Delivered,Bank Transfer
+ORD-0398,Chidi Bello,08101298338,chidi.bello55@outlook.com,Delta,Warri,Home & Kitchen,Blender,2,₦4914,9828,2024-04-06,Cancelled,Bank Transfer
+ORD-0399,Segun Adeleke,08134715662,segun_adeleke57@hotmail.com,Rivers,Obio-Akpor,Beauty & Health,Toothbrush Set,3,₦10550,31650,2024-11-25,Delivered,Opay Wallet
+ORD-0400,Oluwaseun Obi,08104674746,oluwaseunobi78@gmail.com,Lagos,Yaba,Electronics,Laptop Stand,5,₦38705,193525,2024-12-11,Delivered,Opay Wallet
+ORD-0401,Kemi Chukwu,07065674916,kemi.chukwu16@yahoo.com,rivers,Obio-Akpor,Electronics,Bluetooth Speaker,5,₦28027,140135,2024-07-07,Shipped,USSD
+ORD-0402,Adaeze Nwachukwu,07030249724,adaeze.nwachukwu@gmail.com,Kaduna,Zaria,Electronics,Power Bank,4,₦19673,78692,2024-01-04,Delivered,Opay Wallet
+ORD-0403,Ibrahim Abubakar,09056946119,ibrahim_abubakar19@yahoo.com,Enugu,Awgu,Fashion,Jeans,2,₦15987,31974,2024-09-30,Cancelled,Opay Wallet
+ORD-0404,Ifeanyi Garba,07064622522,ifeanyi.garba@gmail.com,Oyo,Ogbomosho,Home & Kitchen,Non-stick Pot,1,₦6077,6077,2024-09-15,Processing,Bank Transfer
+ORD-0405,Obinna Ogundipe,08101416141,obinna_ogundipe@hotmail.com,kano,Nasarawa,Fashion,Handbag,3,₦15395,46185,2024-02-16,Cancelled,Card
+ORD-0406,Musa Okafor,07088477596,musa_okafor48@outlook.com,Lagos,Surulere,Electronics,Bluetooth Speaker,1,₦17332,17332,2024-07-27,Delivered,USSD
+ORD-0407,Chukwuemeka Adeleke,07062091843,chukwuemeka_adeleke58@hotmail.com,Enugu,Awgu,Electronics,Smart Watch,3,₦10065,30195,2024-12-22,Delivered,Card
+ORD-0408,Halima Nwachukwu,07081567164,halimanwachukwu@gmail.com,Kaduna,Zaria,Electronics,Smart Watch,4,₦18806,75224,2024-07-05,Shipped,Card
+ORD-0409,Adaeze Lawal,08061602564,adaeze.lawal93@hotmail.com,Oyo,Ogbomosho,Home & Kitchen,Blender,4,₦17287,69148,2024-03-31,Cancelled,Card
+ORD-0410,Halima Mohammed,07036686334,halima.mohammed@gmail.com,Kano,Nasarawa,Food & Drinks,Milo 400g,5,₦7077,35385,2024-11-03,Delivered,Cash on Delivery
+ORD-0411,Segun Okafor,08039836655,segunokafor@gmail.com,Rivers,Oyigbo,Food & Drinks,Milo 400g,3,₦3914,11742,2024-05-13,Delivered,Cash on Delivery
+ORD-0412,Obinna Bello,08162095481,obinna_bello91@yahoo.com,delta,Asaba,Food & Drinks,Milo 400g,4,₦6370,25480,2024-10-16,Delivered,Opay Wallet
+ORD-0413,Kemi Chukwu,08100865675,kemi_chukwu@outlook.com,LAGOS,Lekki,Fashion,Handbag,1,₦7866,7866,2024-05-10,Cancelled,Bank Transfer
+ORD-0414,Damilola Abubakar,08109277423,damilola.abubakar@gmail.com,Anambra,Onitsha,Fashion,Wristwatch,5,₦3773,18865,2024-08-12,Cancelled,Cash on Delivery
+ORD-0415,Blessing Nwachukwu,08031859626,blessing.nwachukwu@yahoo.com,ABUJA,Gwarinpa,Home & Kitchen,Electric Kettle,1,₦7794,7794,2024-03-13,Shipped,USSD
+ORD-0416,Chidi Adeleke,08031111783,chidi.adeleke76@outlook.com,ogun,Ilaro,Electronics,Webcam,4,₦21536,86144,2024-06-23,Cancelled,Card
+ORD-0417,Amina Obiora,09052606888,amina_obiora@yahoo.com,ogun,Ilaro,Home & Kitchen,Curtains Set,3,₦9707,29121,2024-02-22,Delivered,Bank Transfer
+ORD-0418,Ngozi Bello,08132184011,ngozibello39@yahoo.com,ogun,Abeokuta,Beauty & Health,Lip Gloss Set,3,₦5231,15693,2024-10-14,Cancelled,Card
+ORD-0419,Oluwaseun Yusuf,07038598831,oluwaseunyusuf@gmail.com,RIVERS,Port Harcourt,Beauty & Health,Vitamin C Serum,5,₦15779,78895,2024-08-07,Delivered,USSD
+ORD-0420,Ibrahim Bello,07086184462,ibrahim_bello@outlook.com,rivers,Oyigbo,Beauty & Health,Toothbrush Set,5,₦12965,64825,2024-12-22,Shipped,Bank Transfer
+ORD-0421,Blessing Yusuf,09059262566,blessing.yusuf@gmail.com,anambra,Onitsha,Food & Drinks,Tin Tomatoes (24-pack),2,₦6652,13304,2024-11-09,Delivered,Cash on Delivery
+ORD-0422,Yusuf Eze,08134016361,yusuf.eze23@hotmail.com,Abuja,Garki,Food & Drinks,Tin Tomatoes (24-pack),1,₦3772,3772,2024-03-04,Processing,USSD
+ORD-0423,Fatima Obiora,08105889679,fatima.obiora@yahoo.com,OGUN,Ota,Food & Drinks,Bournvita 500g,1,₦1192,1192,2024-07-22,Delivered,Bank Transfer
+ORD-0424,Halima Garba,09022757844,halima_garba@outlook.com,ENUGU,Enugu,Food & Drinks,Tin Tomatoes (24-pack),2,₦6355,12710,2024-12-21,Delivered,USSD
+ORD-0425,Fatima Yusuf,08064870682,fatima_yusuf@hotmail.com,ENUGU,Enugu,Electronics,USB Charger,2,₦9636,19272,2024-01-01,Processing,Bank Transfer
+ORD-0426,Halima Adeyemi,09022832152,halimaadeyemi@hotmail.com,Lagos,Victoria Island,Food & Drinks,Milo 400g,5,₦6403,32015,2024-10-16,Shipped,Bank Transfer
+ORD-0427,Kemi Abubakar,08130963480,kemi_abubakar80@gmail.com,Kaduna,Zaria,Fashion,Women's Dress,3,₦11803,35409,2024-05-12,Delivered,Cash on Delivery
+ORD-0428,Zainab Okonkwo,07030167318,zainabokonkwo20@gmail.com,delta,Sapele,Food & Drinks,Indomie Noodles (12-pack),1,₦3664,3664,2024-07-30,Shipped,Card
+ORD-0429,Blessing Garba,09054177225,blessinggarba@outlook.com,KANO,Fagge,Home & Kitchen,Curtains Set,3,₦21113,63339,2024-03-29,Cancelled,Bank Transfer
+ORD-0430,Zainab Obiora,08103741678,zainab_obiora@outlook.com,ABUJA,Maitama,Electronics,Wireless Earbuds,4,₦31094,124376,2024-01-25,Shipped,Cash on Delivery
+ORD-0431,Blessing Usman,08130569067,blessing_usman37@gmail.com,enugu,Enugu,Electronics,Bluetooth Speaker,2,₦13693,27386,2024-01-25,Shipped,Bank Transfer
+ORD-0432,Ibrahim Musa,07063718923,ibrahimmusa@yahoo.com,ogun,Ota,Fashion,Handbag,3,₦5768,17304,2024-11-04,Delivered,Opay Wallet
+ORD-0433,Emeka Mohammed,07066843356,emeka_mohammed8@gmail.com,LAGOS,Lekki,Fashion,Jeans,1,₦22200,22200,2024-01-10,Delivered,USSD
+ORD-0434,Fatima Adeyemi,08035347491,fatima_adeyemi24@hotmail.com,KADUNA,Zaria,Home & Kitchen,Dish Rack,3,₦4616,13848,2024-01-12,Delivered,USSD
+ORD-0435,Zainab Salami,07088953439,zainab_salami@yahoo.com,Abuja,Garki,Beauty & Health,Face Moisturiser,3,₦13015,39045,2024-12-21,Cancelled,Cash on Delivery
+ORD-0436,Babatunde Obi,07034738202,babatunde.obi54@outlook.com,Abuja,Asokoro,Fashion,Handbag,4,₦5232,20928,2024-10-29,Delivered,Opay Wallet
+ORD-0437,Chukwuemeka Okonkwo,08162409036,chukwuemeka_okonkwo@yahoo.com,Abuja,Garki,Home & Kitchen,Curtains Set,5,₦34521,172605,2024-10-15,Processing,Opay Wallet
+ORD-0438,Chukwuemeka Okonkwo,08139087884,chukwuemeka_okonkwo29@outlook.com,Anambra,Ekwulobia,Beauty & Health,Vitamin C Serum,2,₦7231,14462,2024-10-18,Delivered,Bank Transfer
+ORD-0439,Oluwaseun Eze,08160338105,oluwaseuneze78@outlook.com,Rivers,Oyigbo,Fashion,Sunglasses,1,₦22958,22958,2024-03-03,Cancelled,Cash on Delivery
+ORD-0440,Chidi Okafor,08134240891,chidiokafor96@outlook.com,OYO,Iseyin,Beauty & Health,Vitamin C Serum,3,₦3076,9228,2024-06-28,Cancelled,Cash on Delivery
+ORD-0441,Segun Chukwu,09023652717,segun.chukwu@yahoo.com,anambra,Ekwulobia,Fashion,Wristwatch,3,₦8682,26046,2024-03-07,Processing,Opay Wallet
+ORD-0442,Tunde Ogundipe,08062163761,tundeogundipe@gmail.com,KANO,Nasarawa,Food & Drinks,Milo 400g,2,₦7496,14992,2024-04-20,Delivered,Opay Wallet
+ORD-0443,Ifeanyi Mohammed,08109001851,ifeanyi.mohammed18@hotmail.com,Enugu,Enugu,Electronics,Bluetooth Speaker,2,₦19775,39550,2024-05-27,Delivered,USSD
+ORD-0444,Ibrahim Obi,08030184186,ibrahim.obi@gmail.com,Kaduna,Kaduna North,Fashion,Men's Shirt,5,₦24676,123380,2024-02-08,Shipped,Opay Wallet
+ORD-0445,Fatima Nwosu,08064519515,fatima.nwosu@yahoo.com,KANO,Dala,Fashion,Jeans,1,₦18115,18115,2024-04-14,Processing,USSD
+ORD-0446,Blessing Nwosu,09025410225,blessing.nwosu50@hotmail.com,ogun,Ilaro,Fashion,Sunglasses,5,₦11404,57020,2024-05-27,Delivered,Card
+ORD-0447,Fatima Chukwu,07037676952,fatimachukwu32@hotmail.com,Ogun,Ijebu-Ode,Fashion,Women's Dress,3,₦6179,18537,2024-06-18,Shipped,Cash on Delivery
+ORD-0448,Segun Garba,07083135030,segun_garba72@yahoo.com,Anambra,Ogidi,Beauty & Health,Toothbrush Set,4,₦3939,15756,2024-09-30,Delivered,Card
+ORD-0449,Nneka Garba,08133021260,nnekagarba55@gmail.com,KADUNA,Kaduna North,Food & Drinks,Lipton Tea Box,2,₦7642,15284,2024-04-23,Delivered,Cash on Delivery
+ORD-0450,Oluwaseun Mohammed,08060962272,oluwaseunmohammed68@hotmail.com,Abuja,Asokoro,Fashion,Men's Shirt,2,₦13968,27936,2024-04-14,Cancelled,USSD
+ORD-0451,Halima Okonkwo,08100667849,halimaokonkwo@hotmail.com,Delta,Sapele,Electronics,Wireless Earbuds,1,₦5604,5604,2024-09-30,Delivered,USSD
+ORD-0452,Adaeze Chukwu,09059177566,adaeze.chukwu7@hotmail.com,Abuja,Wuse,Fashion,Jeans,5,₦3834,19170,2024-03-07,Delivered,Card
+ORD-0453,Chioma Okonkwo,08061390438,chioma.okonkwo@yahoo.com,Abuja,Maitama,Beauty & Health,Hair Weave,1,₦9048,9048,2024-09-09,Delivered,Cash on Delivery
+ORD-0454,Babatunde Abubakar,07034683565,babatunde.abubakar@outlook.com,Ogun,Ota,Home & Kitchen,Non-stick Pot,1,₦22116,22116,2024-01-14,Cancelled,Cash on Delivery
+ORD-0455,Chioma Okonkwo,09021133228,chiomaokonkwo94@hotmail.com,ABUJA,Garki,Beauty & Health,Perfume 50ml,4,₦2425,9700,2024-03-26,Delivered,USSD
+ORD-0456,Emeka Ogundipe,08062971024,emekaogundipe12@gmail.com,oyo,Saki,Home & Kitchen,Non-stick Pot,4,₦17170,68680,2024-10-15,Delivered,Bank Transfer
+ORD-0457,Babatunde Mohammed,09024747219,babatunde_mohammed6@outlook.com,OYO,Ibadan,Food & Drinks,Bournvita 500g,3,₦3694,11082,2024-03-13,Shipped,Cash on Delivery
+ORD-0458,Rukayat Garba,09024090380,rukayat.garba14@hotmail.com,Kano,Dala,Beauty & Health,Hair Weave,3,₦3935,11805,2024-09-06,Processing,Opay Wallet
+ORD-0459,Obinna Obi,08061216636,obinna_obi9@outlook.com,ABUJA,Gwarinpa,Home & Kitchen,Blender,3,₦32031,96093,2024-08-20,Shipped,Bank Transfer
+ORD-0460,Kemi Bello,08135909605,kemi_bello@gmail.com,Delta,Sapele,Home & Kitchen,Non-stick Pot,5,₦11706,58530,2024-11-07,Delivered,Opay Wallet
+ORD-0461,Tunde Mohammed,09026834201,tunde_mohammed44@yahoo.com,oyo,Ogbomosho,Electronics,Wireless Earbuds,1,₦21450,21450,2024-05-07,Delivered,Opay Wallet
+ORD-0462,Segun Chukwu,09059319925,segunchukwu94@gmail.com,Delta,Agbor,Fashion,Jeans,3,₦24704,74112,2024-01-05,Shipped,Bank Transfer
+ORD-0463,Obinna Bello,09029103368,obinna.bello77@yahoo.com,delta,Warri,Home & Kitchen,Chopping Board,5,₦1740,8700,2024-11-12,Delivered,Bank Transfer
+ORD-0464,Musa Nwosu,09027665586,musanwosu98@gmail.com,Ogun,Ijebu-Ode,Food & Drinks,Indomie Noodles (12-pack),3,₦3314,9942,2024-12-30,Delivered,Opay Wallet
+ORD-0465,Tunde Abubakar,07064911110,tundeabubakar@hotmail.com,ENUGU,Nsukka,Beauty & Health,Face Moisturiser,5,₦15482,77410,2024-11-24,Processing,Cash on Delivery
+ORD-0466,Emeka Musa,09056137157,emeka_musa83@gmail.com,Abuja,Asokoro,Beauty & Health,Hair Relaxer,3,₦14983,44949,2024-08-31,Delivered,Bank Transfer
+ORD-0467,Adaeze Okafor,08030025895,adaeze_okafor22@yahoo.com,ANAMBRA,Nnewi,Food & Drinks,Golden Morn 1kg,4,₦6315,25260,2024-07-18,Shipped,Bank Transfer
+ORD-0468,Zainab Okonkwo,07038263128,zainab.okonkwo81@outlook.com,Ogun,Abeokuta,Beauty & Health,Perfume 50ml,2,₦13993,27986,2024-07-27,Processing,Bank Transfer
+ORD-0469,Chidi Yusuf,08039819602,chidi_yusuf82@yahoo.com,kaduna,Kaduna South,Electronics,Bluetooth Speaker,4,₦4256,17024,2024-03-08,Cancelled,Bank Transfer
+ORD-0470,Ngozi Eze,08100911791,ngozi.eze19@outlook.com,OYO,Saki,Fashion,Jeans,3,₦23602,70806,2024-02-29,Delivered,Card
+ORD-0471,Chukwuemeka Garba,09021366572,chukwuemeka.garba@yahoo.com,Abuja,Maitama,Fashion,Jeans,1,₦18090,18090,2024-02-22,Processing,Cash on Delivery
+ORD-0472,Nneka Okafor,09054139080,nnekaokafor@yahoo.com,Lagos,Surulere,Food & Drinks,Lipton Tea Box,5,₦5715,28575,2024-03-28,Delivered,Card
+ORD-0473,Oluwaseun Eze,09023158477,oluwaseun_eze66@yahoo.com,Rivers,Eleme,Fashion,Handbag,1,₦24662,24662,2024-05-09,Delivered,Bank Transfer
+ORD-0474,Zainab Nwachukwu,09026945919,zainab_nwachukwu@outlook.com,Oyo,Ibadan,Beauty & Health,Vitamin C Serum,2,₦7944,15888,2024-07-12,Cancelled,Card
+ORD-0475,Chioma Ogundipe,09055601256,chioma.ogundipe@gmail.com,DELTA,Warri,Beauty & Health,Vitamin C Serum,5,₦14628,73140,2024-11-07,Cancelled,USSD
+ORD-0476,Damilola Obiora,09029538164,damilolaobiora@gmail.com,kaduna,Zaria,Electronics,Bluetooth Speaker,3,₦4214,12642,2024-04-18,Delivered,Cash on Delivery
+ORD-0477,Ngozi Nwachukwu,08034611729,ngozi_nwachukwu76@yahoo.com,Abuja,Gwarinpa,Food & Drinks,Golden Morn 1kg,2,₦2414,4828,2024-08-19,Delivered,USSD
+ORD-0478,Nneka Usman,07030171644,nneka_usman97@hotmail.com,Lagos,Yaba,Food & Drinks,Milo 400g,4,₦1103,4412,2024-01-03,Processing,USSD
+ORD-0479,Chidi Nwosu,07081030021,chidi_nwosu89@yahoo.com,Delta,Ughelli,Food & Drinks,Tin Tomatoes (24-pack),4,₦4841,19364,2024-06-06,Delivered,Bank Transfer
+ORD-0480,Chioma Mohammed,07039642297,chioma.mohammed17@yahoo.com,Kaduna,Kaduna South,Food & Drinks,Indomie Noodles (12-pack),1,₦1193,1193,2024-05-25,Processing,Opay Wallet
+ORD-0481,Rukayat Nwachukwu,07037314415,rukayatnwachukwu@gmail.com,Delta,Agbor,Beauty & Health,Toothbrush Set,5,₦16860,84300,2024-05-03,Shipped,Card
+ORD-0482,Amina Obiora,07088854728,amina.obiora@outlook.com,Rivers,Obio-Akpor,Home & Kitchen,Curtains Set,2,₦33458,66916,2024-04-13,Shipped,Cash on Delivery
+ORD-0483,Fatima Abubakar,08062711307,fatima.abubakar@hotmail.com,anambra,Ekwulobia,Fashion,Women's Dress,3,₦15863,47589,2024-10-22,Processing,Opay Wallet
+ORD-0484,Emeka Bello,09056850745,emeka.bello7@hotmail.com,KADUNA,Kaduna South,Beauty & Health,Body Lotion,3,₦15338,46014,2024-07-07,Delivered,Bank Transfer
+ORD-0485,Musa Garba,08033131009,musa_garba@gmail.com,enugu,Awgu,Food & Drinks,Bournvita 500g,5,₦4843,24215,2024-02-09,Delivered,Cash on Delivery
+ORD-0486,Emeka Okonkwo,07034940128,emekaokonkwo80@outlook.com,Enugu,Oji River,Electronics,Phone Case,3,₦35951,107853,2024-04-28,Cancelled,Bank Transfer
+ORD-0487,Oluwaseun Okafor,09026502412,oluwaseunokafor@outlook.com,KANO,Nasarawa,Fashion,Sneakers,3,₦16916,50748,2024-11-16,Processing,Card
+ORD-0488,Rukayat Abubakar,09058221145,rukayat_abubakar63@outlook.com,DELTA,Ughelli,Electronics,Bluetooth Speaker,1,₦40676,40676,2024-04-22,Shipped,USSD
+ORD-0489,Ifeanyi Ogundipe,08064802632,ifeanyi_ogundipe@yahoo.com,Kaduna,Kaduna South,Food & Drinks,Golden Morn 1kg,3,₦5042,15126,2024-08-19,Cancelled,Opay Wallet
+ORD-0490,Chidi Obi,09052455696,chidi_obi@gmail.com,kaduna,Kaduna South,Fashion,Jeans,1,₦10975,10975,2024-08-19,Processing,USSD
+ORD-0491,Chukwuemeka Nwachukwu,08107284982,chukwuemeka_nwachukwu63@gmail.com,Ogun,Ilaro,Home & Kitchen,Laundry Basket,3,₦8721,26163,2024-11-26,Delivered,Card
+ORD-0492,Kemi Abubakar,07065004254,kemiabubakar@gmail.com,Delta,Asaba,Food & Drinks,Bournvita 500g,1,₦1235,1235,2024-01-23,Delivered,Bank Transfer
+ORD-0493,Kemi Salami,07066614494,kemi.salami73@outlook.com,Rivers,Oyigbo,Electronics,Laptop Stand,2,₦5606,11212,2024-04-26,Processing,Bank Transfer
+ORD-0494,Babatunde Abubakar,09028266128,babatunde_abubakar89@outlook.com,RIVERS,Obio-Akpor,Home & Kitchen,Dish Rack,3,₦21488,64464,2024-10-15,Delivered,Opay Wallet
+ORD-0495,Ifeanyi Garba,08109439852,ifeanyigarba70@gmail.com,Delta,Ughelli,Home & Kitchen,Non-stick Pot,5,₦3231,16155,2024-02-25,Shipped,Bank Transfer
+ORD-0496,Ngozi Eze,08065914975,ngozi.eze@yahoo.com,Enugu,Oji River,Beauty & Health,Lip Gloss Set,1,₦3974,3974,2024-11-17,Delivered,Cash on Delivery
+ORD-0497,Adaeze Abubakar,08131647525,adaeze_abubakar27@gmail.com,OGUN,Ota,Fashion,Women's Dress,1,₦23668,23668,2024-02-20,Cancelled,Bank Transfer
+ORD-0498,Chidi Eze,08160748217,chidi_eze76@hotmail.com,ogun,Ilaro,Beauty & Health,Face Moisturiser,2,₦16310,32620,2024-08-23,Delivered,Opay Wallet
+ORD-0499,Oluwaseun Nwosu,07065652341,oluwaseun.nwosu71@gmail.com,Kano,Tarauni,Home & Kitchen,Dish Rack,1,₦8084,8084,2024-10-28,Cancelled,USSD
+ORD-0500,Musa Nwosu,08036356512,musa_nwosu84@outlook.com,Ogun,Ijebu-Ode,Fashion,Men's Shirt,1,₦20939,20939,2024-09-28,Processing,Opay Wallet
