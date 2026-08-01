@@ -10,7 +10,7 @@ import numpy as np
 # Load the trained Random Forest model
 @st.cache_resource
 def load_model():
-    with open('module-04-introduction-to-machine-learning/week-06/module-demo/random_forest_model.pkl', 'rb') as f:
+    with open('random_forest_model.pkl', 'rb') as f:
         model = pickle.load(f)
     return model
 

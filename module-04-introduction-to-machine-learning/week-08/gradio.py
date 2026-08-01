@@ -8,7 +8,7 @@ import gradio as gr
 import numpy as np
 
 # Load the trained Random Forest model
-with open('module-04-introduction-to-machine-learning/week-06/module-demo/random_forest_model.pkl', 'rb') as f:
+with open('../../random_forest_model.pkl', 'rb') as f:
     model = pickle.load(f)
 
 
