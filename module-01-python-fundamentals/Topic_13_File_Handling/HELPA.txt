@@ -1,0 +1,52 @@
+HELPA — 2-minute demo script
+[0:00–0:20] — THE PROBLEM
+
+"Most preventable deaths after an accident happen before the patient ever reaches a hospital. In that window, the wrong action is often worse than doing nothing — butter on a burn, sucking venom from a snake bite, a spoon forced into someone's mouth during a seizure. And the people present in that moment are rarely clinicians, and in Nigeria, often aren't even operating in English."
+
+[0:20–0:35] — THE SOLUTION
+
+"This is Helpa — a first-aid assistant fine-tuned on Gemma 4, built to give clear, step-by-step guidance in the moment it's needed most, in English or Yorùbá, with no internet connection required."
+
+[On screen: open the Gradio interface now, so it's visible while you keep talking]
+
+[0:35–0:38] — SET UP THE OFFLINE CLAIM
+
+"Everything you're about to see is running locally, on this laptop's CPU. No cloud call, no API — I could disconnect the Wi-Fi right now and nothing would change."
+
+[Optional but strong: actually toggle Wi-Fi off here if you're confident it'll still work — visually proves the claim in one second]
+
+[0:38–1:05] — LIVE TEST 1: Snake bite
+
+[Type into the chat box: "A snake bit someone on the leg. What are the first aid steps before we reach a clinic?" — hit send]
+
+"Let's test it with a real emergency. Someone's been bitten by a snake."
+
+[While it generates, keep talking so the pause doesn't feel dead:]
+
+"It's running entirely on CPU, so this takes a few seconds — no GPU, nothing cloud-hosted."
+
+[When the answer appears, read the key part aloud or just point at it:]
+
+"Keep the person calm, keep the bitten limb below the heart, don't cut or suck the wound — and get to a hospital immediately. That's real first-aid procedure, not generic advice."
+
+[1:05–1:35] — LIVE TEST 2: Choking
+
+[Type: "Someone is choking on food and cannot breathe or talk. What should I do right now?" — hit send]
+
+"Second test — someone choking, can't breathe or speak."
+
+[While generating:]
+
+"Same model, same offline setup, different emergency entirely."
+
+[When it answers:]
+
+"Heimlich maneuver, step by step — hand position, direction of the thrust, and a clear stopping point: if they lose consciousness, stop and call for help. That specificity is the whole point — this isn't a chatbot guessing, it's trained specifically on first-aid procedure."
+
+[1:35–1:55] — WHY THIS MATTERS / CLOSE
+
+"Helpa runs on an ordinary 8GB laptop, no connection required, in the language the person in front of you actually speaks. In an emergency, that's not a nice-to-have — it's the difference between help arriving in time or not at all."
+
+[1:55–2:00] — SIGN OFF
+
+"This is Helpa, built on Gemma 4, offline-first, for the minutes before the hospital."
